@@ -1,0 +1,2570 @@
+{
+  "Metadata": {
+    "Format": "1"
+  },
+
+  "Products": {
+    "Sitecore CMS": {
+      "Metadata": {
+        "Alias": "SC",
+        "DefaultPackage": "SC.Sitecore.Kernel"
+      },
+
+      "Versions": {
+        "8.2": {
+          "161221": {
+            "Update": "2",
+            "Label": "Update-2",
+            "Date": "2016-12-30",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 8.2 rev. 161221.zip",
+                  "https://dev.sitecore.net/~/media/02D2B5F95D1D4B1F894C2E3CA1194E45.ashx"
+                ]
+              }
+            }
+          },
+
+          "161115": {
+            "Update": "1",
+            "Label": "Update-1",
+            "Date": "2016-12-05",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 8.2 rev. 161115.zip",
+                  "https://dev.sitecore.net/~/media/74823B2C88554885A61DD934435A86D0.ashx"
+                ]
+              }
+            }
+          },
+
+          "160729": {
+            "Update": "0",
+            "Label": "Initial Release",
+            "Date": "2016-08-31",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 8.2 rev. 160729.zip",
+                  "https://dev.sitecore.net/~/media/EB50953E80EC46EFB11EB283050AC3D1.ashx"
+                ]
+              }
+            }
+          }
+        },
+
+        "8.1": {
+          "160519": {
+            "Update": "3",
+            "Label": "Update-3",
+            "Date": "2015-05-20",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 8.1 rev. 160519.zip",
+                  "https://dev.sitecore.net/~/media/279BE4B1CEB64281A4F4E9E9D7BF68B0.ashx"
+                ]
+              },
+              "solr": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 160504.zip",
+                  "https://dev.sitecore.net/~/media/7CE11E1730444897A41D89D2333019E6.ashx"
+                ]
+              }
+            }
+          },
+
+          "160302": {
+            "Update": "2",
+            "Label": "Update-2",
+            "Date": "2015-03-04",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 8.1 rev. 160302.zip",
+                  "https://dev.sitecore.net/~/media/4AD00668158F4960B7C76B0C7A1B6EED.ashx"
+                ]
+              },
+              "solr": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 160211.zip",
+                  "https://dev.sitecore.net/~/media/BC3C996A18054655A04FEEDA72117674.ashx"
+                ]
+              }
+            }
+          },
+
+          "151207": {
+            "Update": "1",
+            "Label": "Update-1",
+            "Date": "2015-12-08",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 8.1 rev. 151207.zip",
+                  "https://dev.sitecore.net/~/media/607AA63EF66E45D0828023CD8E127D88.ashx"
+                ]
+              },
+              "solr": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 150120.zip",
+                  "https://dev.sitecore.net/~/media/7E4FE1FEC5EC4B8F91BB6576561399ED.ashx"
+                ]
+              }
+            }
+          },
+
+          "151003": {
+            "Update": "0",
+            "Label": "Initial Release",
+            "Date": "2015-10-21",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 8.1 rev. 151003.zip",
+                  "https://dev.sitecore.net/~/media/1D20854D6B494EE58E12BE29D1D334F7.ashx",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 8.1\\Sitecore 8.1 rev.151003_RTM_release\\Sitecore 8.1 rev. 151003.zip"
+                ]
+              },
+              "solr": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 151113.zip",
+                  "https://dev.sitecore.net/~/media/4878C4F176314059A70D59E2CFC709D9.ashx",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 8.1\\Sitecore 8.1 rev.151003_RTM_release\\Sitecore.Solr.Support 1.0.0 rev. 150924.zip"
+                ]
+              }
+            }
+          }
+        },
+
+        "8.0": {
+          "160115": {
+            "Update": "7",
+            "Label": "Update-7",
+            "Date": "2016-01-19",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 8.0 rev. 160115.zip",
+                  "https://dev.sitecore.net/~/media/56142CDD0AA94DE99B350DB5E909511D.ashx"
+                ]
+              },
+              "solr": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 141211.zip",
+                  "https://dev.sitecore.net/~/media/728AA70A94ED48318FF85FE447D81AA9.ashx"
+                ]
+              }
+            }
+          },
+
+          "151127": {
+            "Update": "6",
+            "Label": "Update-6",
+            "Date": "2015-11-27",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 8.0 rev. 151127.zip",
+                  "https://dev.sitecore.net/~/media/F103FBC45091476AB0BF0253349D3E8B.ashx",
+                  "\\\\mars\\QA\\8.0\\Updates\\Update-6\\Sitecore 8.0 rev. 151127\\Sitecore 8.0 rev. 151127.zip"
+                ]
+              },
+              "solr": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 151113.zip",
+                  "https://dev.sitecore.net/~/media/34A52ED42CE44A78BFC4F2CAE14A9234.ashx",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.151127(Update6)_released\\Sitecore.Solr.Support 1.0.0 rev. 151113.zip"
+                ]
+              }
+            }
+          },
+
+          "150812": {
+            "Update": "5",
+            "Label": "Update-5",
+            "Date": "2015-08-13",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 8.0 rev. 150812.zip",
+                  "https://dev.sitecore.net/~/media/A0634595A39343E7BC0AA67A21EBCD8E.ashx",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.150812(Update5)_released\\Sitecore 8.0 rev. 150812.zip"
+                ]
+              },
+              "solr": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 150812.zip",
+                  "https://dev.sitecore.net/~/media/FFF017D91C7B4727BC745C79E3BABD56.ashx",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.150812(Update5)_released\\Sitecore.Solr.Support 1.0.0 rev. 150812.zip"
+                ]
+              }
+            }
+          },
+
+          "150621": {
+            "Update": "4",
+            "Label": "Update-4",
+            "Date": "2015-06-30",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 8.0 rev. 150621.zip",
+                  "https://dev.sitecore.net/~/media/D353A1E481E844F1AA4A34B02F963B8D.ashx",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.150621(Update4)_released\\Sitecore 8.0 rev. 150621.zip"
+                ]
+              },
+              "solr": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 150612.zip",
+                  "https://dev.sitecore.net/~/media/3DF64DE4944C4C0DA583266FEC7EDDE4.ashx",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.150621(Update4)_released\\Sitecore.Solr.Support 1.0.0 rev. 150612.zip"
+                ]
+              }
+            }
+          },
+
+          "150427": {
+            "Update": "3",
+            "Label": "Update-3",
+            "Date": "2015-04-30",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 8.0 rev. 150427.zip",
+                  "https://dev.sitecore.net/~/media/0BD034BC3D8548F990839E1F9E6AA6A8.ashx",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.150427(Update3)_released\\Sitecore 8.0 rev. 150427.zip"
+                ]
+              },
+              "solr": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 150423.zip",
+                  "https://dev.sitecore.net/~/media/42D03DB6E757458C918A5CA3362D9206.ashx",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.150427(Update3)_released\\Sitecore.Solr.Support 1.0.0 rev. 150423.zip"
+                ]
+              }
+            }
+          },
+
+          "150223": {
+            "Update": "2",
+            "Label": "Update-2",
+            "Date": "2015-02-27",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 8.0 rev.150223.zip",
+                  "https://dev.sitecore.net/~/media/A0DAC3BA1B6A4116B90F6D1C9250B130.ashx",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.150223(Udpate2)_released\\Sitecore 8.0 rev. 150223.zip"
+                ]
+              },
+              "solr": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 150220.zip",
+                  "https://dev.sitecore.net/~/media/0D7A32AA497D488C9446665F8BFA86B8.ashx",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.150223(Udpate2)_released\\Sitecore.Solr.Support 1.0.0 rev. 150220.zip"
+                ]
+              }
+            }
+          },
+
+          "150121": {
+            "Update": "1",
+            "Label": "Update-1",
+            "Date": "2015-01-30",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 8.0 rev. 150121.zip",
+                  "https://dev.sitecore.net/~/media/92A0A78FB96548B1874F1B61A395858A.ashx",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.150121(Update1)_released\\Sitecore 8.0 rev. 150121.zip"
+                ]
+              },
+              "solr": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 150120.zip",
+                  "https://dev.sitecore.net/~/media/7E4FE1FEC5EC4B8F91BB6576561399ED.ashx",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.150121(Update1)_released\\Sitecore.Solr.Support 1.0.0 rev. 150120.zip"
+                ]
+              }
+            }
+          },
+
+          "141212": {
+            "Update": "0",
+            "Label": "Initial Release",
+            "Date": "2014-12-19",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 8.0 rev. 141212.zip",
+                  "https://dev.sitecore.net/~/media/64967D62FF0E49D180F8743D3CF054B9.ashx",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.141212_RTM_release\\Sitecore 8.0 rev. 141212.zip"
+                ]
+              },
+              "solr": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 141211.zip",
+                  "https://dev.sitecore.net/~/media/4878C4F176314059A70D59E2CFC709D9.ashx",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.141212_RTM_release\\Sitecore.Solr.Support 1.0.0 rev. 141211.zip"
+                ]
+              }
+            }
+          }
+        },
+
+        "7.5": {
+          "150212": {
+            "Update": "2",
+            "Label": "Update-2",
+            "Date": "2015-02-13",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 7.5 rev. 150212.zip",
+                  "http://sdn.sitecore.net/downloads/Sitecore75rev150212.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.5\\Sitecore 7.5 rev. 150212(Update-2)_released\\Sitecore 7.5 rev. 150212.zip"
+                ]
+              },
+              "solr": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 150116.zip",
+                  "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev150116.download"
+                ]
+              }
+            }
+          },
+
+          "150130": {
+            "Update": "1",
+            "Label": "Update-1",
+            "Date": "2015-02-05",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 7.5 rev. 150130.zip",
+                  "http://sdn.sitecore.net/downloads/Sitecore75rev150130.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.5\\Sitecore 7.5 rev. 150130(Update-1)_released\\Sitecore 7.5 rev. 150130.zip"
+                ]
+              },
+              "solr": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 150116.zip",
+                  "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev150116.download"
+                ]
+              }
+            }
+          },
+
+          "141003": {
+            "Update": "0",
+            "Label": "Initial Release",
+            "Date": "2014-10-14",
+            "Distributions": {
+              "default": {
+                "Downloads": [                  
+                "filenames:\\\\Sitecore 7.5 rev. 141003.zip",
+                  "https://sdn.sitecore.net/downloads/Sitecore75re141003.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.5\\Sitecore 7.5 rev. 141003_ RTM_release\\Sitecore 7.5 rev. 141003.zip"
+                ]
+              },
+              "solr": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 141001.zip",
+                  "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev141001.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.5\\Sitecore 7.5 rev. 141003_ RTM_release\\components\\Sitecore.Solr.Support 1.0.0 rev. 141001.zip"
+                ]
+              }
+            }
+          }
+        },
+
+        "7.2": {
+          "160123": {
+            "Update": "6",
+            "Label": "Update-6",
+            "Date": "2016-01-26",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 7.2 rev. 160123.zip",
+                  "https://sdn.sitecore.net/downloads/Sitecore72rev160123.download"
+                ]
+              },
+              "analytics": {
+                "Downloads": [
+                  "filenames:\\\\DMS 7.2 rev. 160123.zip",
+                  "https://sdn.sitecore.net/downloads/DMS72rev160123.download"
+                ]
+              },
+              "solr": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 160122.zip",
+                  "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev160122.download"
+                ]
+              }
+            }
+          },
+
+          "151021": {
+            "Update": "5",
+            "Label": "Update-5",
+            "Date": "2015-10-23",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 7.2 rev. 151021.zip",
+                  "https://sdn.sitecore.net/downloads/Sitecore72rev151021.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 151021(Update-5)_released\\Sitecore 7.2 rev. 151021.zip"
+                ]
+              },
+              "analytics": {
+                "Downloads": [
+                  "filenames:\\\\DMS 7.2 rev. 151021.zip",
+                  "https://sdn.sitecore.net/downloads/DMS72rev151021.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 151021(Update-5)_released\\DMS 7.2 rev. 151021.zip"
+                ]
+              },
+              "solr": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 151020.zip",
+                  "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev151020.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 151021(Update-5)_released\\Sitecore.Solr.Support 1.0.0 rev. 151020.zip"
+                ]
+              }
+            }
+          },
+
+          "150408": {
+            "Update": "4",
+            "Label": "Update-4",
+            "Date": "2015-04-09",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 7.2 rev. 150408.zip",
+                  "http://sdn.sitecore.net/downloads/Sitecore72rev150408.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 150408(Update-4)_released\\Sitecore 7.2 rev. 150408.zip"
+                ]
+              },
+              "analytics": {
+                "Downloads": [
+                  "filenames:\\\\DMS 7.2 rev. 150408.zip",
+                  "http://sdn.sitecore.net/downloads/DMS72rev150408.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 150408(Update-4)_released\\DMS 7.2 rev. 150408.zip"
+                ]
+              },
+              "solr": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 150407.zip",
+                  "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev150407.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 150408(Update-4)_released\\components\\Sitecore.Solr.Support 1.0.0 rev. 150407.zip"
+                ]
+              }
+            }
+          },
+
+          "141226": {
+            "Update": "3",
+            "Label": "Service Pack-1",
+            "Date": "2015-01-08",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 7.2 rev. 141226.zip",
+                  "http://sdn.sitecore.net/downloads/Sitecore72rev141226.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 141226(Update-3)_released\\Sitecore 7.2 rev. 141226.zip"
+                ]
+              },
+              "analytics": {
+                "Downloads": [
+                  "filenames:\\\\DMS 7.2 rev. 141226.zip",
+                  "http://sdn.sitecore.net/downloads/DMS72rev141226.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 141226(Update-3)_released\\DMS 7.2 rev. 141226.zip"
+                ]
+              },
+              "solr": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 141215.zip",
+                  "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev141215.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 141226(Update-3)_released\\components\\Sitecore.Solr.Support 1.0.0 rev. 141215.zip"
+                ]
+              }
+            }
+          },
+
+          "140526": {
+            "Update": "2",
+            "Label": "Update-2",
+            "Date": "2014-05-30",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 7.2 rev. 140526.zip",
+                  "http://sdn.sitecore.net/downloads/Sitecore72rev140526.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 140526(Update-2)_released\\Sitecore 7.2 rev. 140526.zip"
+                ]
+              },
+              "analytics": {
+                "Downloads": [
+                  "filenames:\\\\DMS 7.2 rev. 140526.zip",
+                  "http://sdn.sitecore.net/downloads/DMS72rev140526.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 140526(Update-2)_released\\DMS 7.2 rev. 140526.zip"
+                ]
+              },
+              "solr": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 140526.zip",
+                  "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev140526.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 140526(Update-2)_released\\components\\Sitecore.Solr.Support 1.0.0 rev. 140526.zip"
+                ]
+              }
+            }
+          },
+
+          "140314": {
+            "Update": "1",
+            "Label": "Update-1",
+            "Date": "2014-03-18",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 7.2 rev. 140314.zip",
+                  "http://sdn.sitecore.net/downloads/Sitecore72rev140314.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 140314(Update-1)_released\\Sitecore 7.2 rev. 140314.zip"
+                ]
+              },
+              "analytics": {
+                "Downloads": [
+                  "filenames:\\\\DMS 7.2 rev. 140314.zip",
+                  "http://sdn.sitecore.net/downloads/DMS72rev140314.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 140314(Update-1)_released\\DMS 7.2 rev. 140314.zip"
+                ]
+              },
+              "solr": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 140313.zip",
+                  "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev140313.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 140314(Update-1)_released\\components\\Sitecore.Solr.Support 1.0.0 rev. 140313.zip"
+                ]
+              }
+            }
+          },
+
+          "140228": {
+            "Update": "0",
+            "Label": "Initial Release",
+            "Date": "2014-03-11",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 7.2 rev. 140228.zip",
+                  "http://sdn.sitecore.net/downloads/Sitecore72rev140228.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 140228_RTM_release\\Sitecore 7.2 rev. 140228.zip"
+                ]
+              },
+              "analytics": {
+                "Downloads": [
+                  "filenames:\\\\DMS 7.2 rev. 140228.zip",
+                  "http://sdn.sitecore.net/downloads/DMS72rev140228.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 140228_RTM_release\\DMS 7.2 rev. 140228.zip"
+                ]
+              },
+              "solr": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 140226.zip",
+                  "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev140226.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 140228_RTM_release\\components\\Sitecore.Solr.Support 1.0.0 rev. 140226.zip"
+                ]
+              }
+            }
+          }
+        },
+
+        "7.1": {
+          "140905": {
+            "Update": "3",
+            "Label": "Update-3",
+            "Date": "2014-09-17",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 7.1 rev. 140905.zip",
+                  "http://sdn.sitecore.net/downloads/Sitecore71rev140905.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.1\\Sitecore 7.1 rev. 140905_released\\Sitecore 7.1 rev. 140905.zip"
+                ]
+              },
+              "analytics": {
+                "Downloads": [
+                  "filenames:\\\\DMS 7.1 rev. 140905.zip",
+                  "http://sdn.sitecore.net/downloads/DMS71rev140905.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.1\\Sitecore 7.1 rev. 140905_released\\DMS 7.1 rev. 140905.zip"
+                ]
+              },
+              "solr": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 140828.zip",
+                  "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev140828.download"
+                ]
+              }
+            }
+          },
+
+          "140324": {
+            "Update": "2",
+            "Label": "Update-2",
+            "Date": "2014-03-27",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 7.1 rev. 140324.zip",
+                  "http://sdn.sitecore.net/downloads/Sitecore71rev140324.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.1\\Sitecore 7.1 rev. 140324_released\\Sitecore 7.1 rev. 140324.zip"
+                ]
+              },
+              "analytics": {
+                "Downloads": [
+                  "filenames:\\\\DMS 7.1 rev. 140324.zip",
+                  "http://sdn.sitecore.net/downloads/DMS71rev140324.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.1\\Sitecore 7.1 rev. 140324_released\\DMS 7.1 rev. 140324.zip"
+                ]
+              },
+              "solr": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 140324.zip",
+                  "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev140324.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.1\\Sitecore 7.1 rev. 140324_released\\components\\Sitecore.Solr.Support 1.0.0 rev. 140324.zip"
+                ]
+              }
+            }
+          },
+
+          "140130": {
+            "Update": "1",
+            "Label": "Update-1",
+            "Date": "2014-01-31",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 7.1 rev. 140130.zip",
+                  "http://sdn.sitecore.net/downloads/Sitecore71rev140130.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.1\\Sitecore 7.1 rev. 140130_released\\Sitecore 7.1 rev. 140130.zip"
+                ]
+              },
+              "analytics": {
+                "Downloads": [
+                  "filenames:\\\\DMS 7.1 rev. 140130.zip",
+                  "http://sdn.sitecore.net/downloads/DMS71rev140130.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.1\\Sitecore 7.1 rev. 140130_released\\DMS 7.1 rev. 140130.zip"
+                ]
+              },
+              "solr": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 140130.zip",
+                  "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev140130.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.1\\Sitecore 7.1 rev. 140130_released\\components\\Sitecore.Solr.Support 1.0.0 rev. 140130.zip"
+                ]
+              }
+            }
+          },
+
+          "130926": {
+            "Update": "0",
+            "Label": "Initial Release",
+            "Date": "2013-11-27",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 7.1 rev. 130926.zip",
+                  "http://sdn.sitecore.net/downloads/Sitecore71rev130926.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.1\\Sitecore 7.1 rev. 130926_ RTM_release\\Sitecore 7.1 rev. 130926.zip"
+                ]
+              },
+              "analytics": {
+                "Downloads": [
+                  "filenames:\\\\DMS 7.1 rev. 130926.zip",
+                  "http://sdn.sitecore.net/downloads/DMS71rev130926.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.1\\Sitecore 7.1 rev. 130926_ RTM_release\\DMS 7.1 rev. 130926.zip"
+                ]
+              },
+              "solr": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 130924.zip",
+                  "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev130924.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.1\\Sitecore 7.1 rev. 130926_ RTM_release\\components\\Sitecore.Solr.Support 1.0.0 rev. 130924.zip"
+                ]
+              }
+            }
+          }
+        },
+
+        "7.0": {
+          "140408": {
+            "Update": "5",
+            "Label": "Service Pack-1",
+            "Date": "2014-04-10",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 7.0 rev. 140408.zip",
+                  "http://sdn.sitecore.net/downloads/Sitecore70rev140408.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 140408_released\\Sitecore 7.0 rev. 140408.zip"
+                ]
+              },
+              "analytics": {
+                "Downloads": [
+                  "filenames:\\\\DMS 7.0 rev. 140408.zip",
+                  "http://sdn.sitecore.net/downloads/DMS70rev140408.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 140408_released\\DMS 7.0 rev. 140408.zip"
+                ]
+              },
+              "solr": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 140108.zip",
+                  "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev140408.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 140408_released\\components\\Sitecore.Solr.Support 1.0.0 rev. 140108.zip"
+                ]
+              }
+            }
+          },
+
+          "140120": {
+            "Update": "4",
+            "Label": "Update-4",
+            "Date": "2014-01-22",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 7.0 rev. 140120.zip",
+                  "http://sdn.sitecore.net/downloads/Sitecore70rev140120.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 140120_released\\Sitecore 7.0 rev. 140120.zip"
+                ]
+              },
+              "analytics": {
+                "Downloads": [
+                  "filenames:\\\\DMS 7.0 rev. 140120.zip",
+                  "http://sdn.sitecore.net/downloads/DMS70rev140120.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 140120_released\\DMS 7.0 rev. 140120.zip"
+                ]
+              },
+              "solr": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 140108.zip",
+                  "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev140108.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 140120_released\\components\\Sitecore.Solr.Support 1.0.0 rev. 140108.zip"
+                ]
+              }
+            }
+          },
+
+          "131127": {
+            "Update": "3",
+            "Label": "Update-3",
+            "Date": "2013-12-03",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 7.0 rev. 131127.zip",
+                  "http://sdn.sitecore.net/downloads/Sitecore70rev131127.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 131127 (Update-3)_released\\Sitecore 7.0 rev. 131127.zip"
+                ]
+              },
+              "analytics": {
+                "Downloads": [
+                  "filenames:\\\\DMS 7.0 rev. 131127.zip",
+                  "http://sdn.sitecore.net/downloads/DMS70rev131127.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 131127 (Update-3)_released\\DMS 7.0 rev. 131127.zip"
+                ]
+              },
+              "solr": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 131127.zip",
+                  "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev131127.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 131127 (Update-3)_released\\components\\Sitecore.Solr.Support 1.0.0 rev. 131127.zip"
+                ]
+              }
+            }
+          },
+
+          "130918": {
+            "Update": "2",
+            "Label": "Update-2",
+            "Date": "2013-09-23",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 7.0 rev. 130918.zip",
+                  "http://sdn.sitecore.net/downloads/Sitecore70rev130918.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 130918(Update-2)_released\\Sitecore 7.0 rev. 130918.zip"
+                ]
+              },
+              "analytics": {
+                "Downloads": [
+                  "filenames:\\\\DMS 7.0 rev. 130918.zip",
+                  "http://sdn.sitecore.net/downloads/DMS70rev130918.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 130918(Update-2)_released\\DMS 7.0 rev. 130918.zip"
+                ]
+              },
+              "solr": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 130918.zip",
+                  "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev130918.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 130918(Update-2)_released\\components\\Sitecore.Solr.Support 1.0.0 rev. 130918.zip"
+                ]
+              }
+            }
+          },
+
+          "130810": {
+            "Update": "1",
+            "Label": "Update-1",
+            "Date": "2013-08-13",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 7.0 rev. 130810.zip",
+                  "http://sdn.sitecore.net/downloads/Sitecore70rev130810.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 130810_released\\Sitecore 7.0 rev. 130810.zip"
+                ]
+              },
+              "analytics": {
+                "Downloads": [
+                  "filenames:\\\\DMS 7.0 rev. 130810.zip",
+                  "http://sdn.sitecore.net/downloads/DMS70rev130810.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 130810_released\\DMS 7.0 rev. 130810.zip"
+                ]
+              },
+              "solr": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 130808.zip",
+                  "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev130808.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 130810_released\\components\\Sitecore.Solr.Support 1.0.0 rev. 130808.zip"
+                ]
+              }
+            }
+          },
+
+          "130424": {
+            "Update": "0",
+            "Label": "Initial Release",
+            "Date": "2013-05-21",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 7.0 rev. 130424.zip",
+                  "http://sdn.sitecore.net/downloads/Sitecore70rev130424.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 130424_RTM_released\\Sitecore 7.0 rev. 130424.zip"
+                ]
+              },
+              "analytics": {
+                "Downloads": [
+                  "filenames:\\\\DMS 7.0 rev. 130424.zip",
+                  "http://sdn.sitecore.net/downloads/DMS70rev130424.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 130424_RTM_released\\DMS 7.0 rev. 130424.zip"
+                ]
+              },
+              "solr": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 130424.zip",
+                  "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev130424.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 130424_RTM_released\\components\\Sitecore.Solr.Support 1.0.0 rev. 130424.zip"
+                ]
+              }
+            }
+          }
+        },
+
+        "6.6.0": {
+          "140410": {
+            "Update": "8",
+            "Label": "Service Pack-2",
+            "Date": "2014-04-11",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 6.6.0 rev. 140410.zip",
+                  "http://sdn.sitecore.net/downloads/Sitecore660rev140410.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.140410 (Update-8)\\Sitecore 6.6.0 rev. 140410.zip"
+                ]
+              },
+              "analytics": {
+                "Downloads": [
+                  "filenames:\\\\DMS 6.6.0 rev. 140410.zip",
+                  "http://sdn.sitecore.net/downloads/DMS660rev140410.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.140410 (Update-8)\\DMS 6.6.0 rev. 140410.zip"
+                ]
+              }
+            }
+          },
+
+          "131211": {
+            "Update": "7",
+            "Label": "Update-7",
+            "Date": "2013-12-13",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 6.6.0 rev. 131211.zip",
+                  "http://sdn.sitecore.net/downloads/Sitecore660rev131211.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.131211 (Update-7)\\Sitecore 6.6.0 rev. 131211.zip"
+                ]
+              },
+              "analytics": {
+                "Downloads": [
+                  "filenames:\\\\DMS 6.6.0 rev. 131211.zip",
+                  "http://sdn.sitecore.net/downloads/DMS660rev131211.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.131211 (Update-7)\\DMS 6.6.0 rev. 131211.zip"
+                ]
+              }
+            }
+          },
+
+          "130529": {
+            "Update": "6",
+            "Label": "Service Pack-1",
+            "Date": "2013-06-06",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 6.6.0 rev. 130529.zip",
+                  "http://sdn.sitecore.net/downloads/Sitecore660rev130529.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.130529 (Update-6)\\Sitecore 6.6.0 rev. 130529.zip"
+                ]
+              },
+              "analytics": {
+                "Downloads": [
+                  "filenames:\\\\DMS 6.6.0 rev. 130529.zip",
+                  "http://sdn.sitecore.net/downloads/DMS660rev130529.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.130529 (Update-6)\\DMS 6.6.0 rev. 130529.zip"
+                ]
+              }
+            }
+          },
+
+          "130404": {
+            "Update": "5",
+            "Label": "Update-5",
+            "Date": "2013-04-17",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 6.6.0 rev. 130404.zip",
+                  "http://sdn.sitecore.net/downloads/Sitecore660rev130404.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.130404 (Update-5)\\Sitecore 6.6.0 rev. 130404.zip"
+                ]
+              },
+              "analytics": {
+                "Downloads": [
+                  "filenames:\\\\DMS 6.6.0 rev. 130404.zip",
+                  "http://sdn.sitecore.net/downloads/DMS660rev130404.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.130404 (Update-5)\\DMS 6.6.0 rev. 130404.zip"
+                ]
+              }
+            }
+          },
+
+          "130214": {
+            "Update": "4",
+            "Label": "Update-4",
+            "Date": "2013-02-27",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 6.6.0 rev. 130214.zip",
+                  "http://sdn.sitecore.net/downloads/Sitecore660rev130214.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.130214 (Update-4)\\Sitecore 6.6.0 rev. 130214.zip"
+                ]
+              },
+              "analytics": {
+                "Downloads": [
+                  "filenames:\\\\DMS 6.6.0 rev. 130214.zip",
+                  "http://sdn.sitecore.net/downloads/DMS660rev130214.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.130214 (Update-4)\\DMS 6.6.0 rev. 130214.zip"
+                ]
+              }
+            }
+          },
+
+          "130111": {
+            "Update": "3",
+            "Label": "Update-3",
+            "Date": "2013-01-16",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 6.6.0 rev. 130111.zip",
+                  "http://sdn.sitecore.net/downloads/Sitecore660rev130111.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.130111 (Update-3)\\Sitecore 6.6.0 rev. 130111.zip"
+                ]
+              },
+              "analytics": {
+                "Downloads": [
+                  "filenames:\\\\DMS 6.6.0 rev. 130111.zip",
+                  "http://sdn.sitecore.net/downloads/DMS660rev130111.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.130111 (Update-3)\\DMS 6.6.0 rev. 130111.zip"
+                ]
+              }
+            }
+          },
+
+          "121203": {
+            "Update": "2",
+            "Label": "Update-2",
+            "Date": "2012-12-12",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 6.6.0 rev. 121203.zip",
+                  "http://sdn.sitecore.net/downloads/Sitecore660rev121203.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.121203 (Update-2)\\Sitecore 6.6.0 rev. 121203.zip"
+                ]
+              },
+              "analytics": {
+                "Downloads": [
+                  "filenames:\\\\DMS 6.6.0 rev. 121203.zip",
+                  "http://sdn.sitecore.net/downloads/DMS660rev121203.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.121203 (Update-2)\\DMS 6.6.0 rev. 121203.zip"
+                ]
+              }
+            }
+          },
+
+          "121015": {
+            "Update": "1",
+            "Label": "Update-1",
+            "Date": "2012-11-12",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 6.6.0 rev. 121015.zip",
+                  "http://sdn.sitecore.net/downloads/Sitecore660rev121015.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.121015 (Update-1)\\Sitecore 6.6.0 rev. 121015.zip"
+                ]
+              },
+              "analytics": {
+                "Downloads": [
+                  "filenames:\\\\DMS 6.6.0 rev. 121015.zip",
+                  "http://sdn.sitecore.net/downloads/DMS660rev121015.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.121015 (Update-1)\\DMS 6.6.0 rev. 121015.zip"
+                ]
+              }
+            }
+          },
+
+          "120918": {
+            "Update": "0",
+            "Label": "Initial Release",
+            "Date": "2012-11-05",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 6.6.0 rev. 120918.zip",
+                  "http://sdn.sitecore.net/downloads/Sitecore660rev120918.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev. 120918_RTM_release\\Sitecore 6.6.0 rev. 120918.zip"
+                ]
+              },
+              "analytics": {
+                "Downloads": [
+                  "filenames:\\\\DMS 6.6.0 rev. 120918.zip",
+                  "http://sdn.sitecore.net/downloads/DMS660rev120918.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev. 120918_RTM_release\\DMS 6.6.0 rev. 120918.zip"
+                ]
+              }
+            }
+          }
+        },
+
+        "6.5.0": {
+          "121009": {
+            "Update": "6",
+            "Label": "Service Pack-2",
+            "Date": "2012-10-18",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 6.5.0 rev. 121009.zip",
+                  "http://sdn.sitecore.net/downloads/Sitecore650rev121009.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 6.5.0\\Sitecore 6.5.0 rev.121009 (Update-6)\\Sitecore 6.5.0 rev. 121009.zip"
+                ]
+              },
+              "analytics": {
+                "Downloads": [
+                  "filenames:\\\\DMS 2.0.1 rev. 121009.zip",
+                  "http://sdn.sitecore.net/downloads/DMS650rev121009.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 6.5.0\\Sitecore 6.5.0 rev.121009 (Update-6)\\DMS 6.5.0 rev. 121009.zip"
+                ]
+              }
+            }
+          },
+
+          "120706": {
+            "Update": "5",
+            "Label": "Service Pack-1",
+            "Date": "2012-07-19",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 6.5.0 rev. 120706.zip",
+                  "http://sdn.sitecore.net/downloads/Sitecore650rev120706.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 6.5.0\\Sitecore 6.5.0 rev.120706 (Update-5)\\Sitecore 6.5.0 rev. 120706.zip"
+                ]
+              },
+              "analytics": {
+                "Downloads": [
+                  "filenames:\\\\DMS 2.0.1 rev. 120706.zip",
+                  "http://sdn.sitecore.net/downloads/DMS201rev120706.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 6.5.0\\Sitecore 6.5.0 rev.120706 (Update-5)\\DMS 6.5.0 rev. 120706.zip"
+                ]
+              }
+            }
+          },
+
+          "120427": {
+            "Update": "4",
+            "Label": "Update-4",
+            "Date": "2012-05-08",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 6.5.0 rev. 120427.zip",
+                  "http://sdn.sitecore.net/downloads/Sitecore650rev120427.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 6.5.0\\Sitecore 6.5.0 rev.120427 (Update-4)\\Sitecore 6.5.0 rev. 120427.zip"
+                ]
+              },
+              "analytics": {
+                "Downloads": [
+                  "filenames:\\\\DMS 2.0.1 rev. 120427.zip",
+                  "http://sdn.sitecore.net/downloads/DMS201rev120427.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 6.5.0\\Sitecore 6.5.0 rev.120427 (Update-4)\\DMS 6.5.0 rev. 120427.zip"
+                ]
+              }
+            }
+          },
+
+          "111230": {
+            "Update": "3",
+            "Label": "Update-3",
+            "Date": "2012-01-04",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 6.5.0 rev. 111230.zip",
+                  "http://sdn.sitecore.net/downloads/Sitecore650rev111230.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 6.5.0\\Sitecore 6.5.0 rev.111230 (Update-3)\\Sitecore 6.5.0 rev. 111230.zip"
+                ]
+              },
+              "analytics": {
+                "Downloads": [
+                  "filenames:\\\\DMS 2.0.0 rev. 111230.zip",
+                  "http://sdn.sitecore.net/downloads/DMS200rev111230.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 6.5.0\\Sitecore 6.5.0 rev.111230 (Update-3)\\DMS 6.5.0 rev. 111230.zip"
+                ]
+              }
+            }
+          },
+
+          "111123": {
+            "Update": "2",
+            "Label": "Update-2",
+            "Date": "2011-11-30",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 6.5.0 rev. 111123.zip",
+                  "http://sdn.sitecore.net/downloads/Sitecore650rev111123.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 6.5.0\\Sitecore 6.5.0 rev.111123 (Update-2)\\Sitecore 6.5.0 rev. 111123.zip"
+                ]
+              },
+              "analytics": {
+                "Downloads": [
+                  "filenames:\\\\DMS 2.0.0 rev. 111123.zip",
+                  "http://sdn.sitecore.net/downloads/DMS200rev111123.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 6.5.0\\Sitecore 6.5.0 rev.111123 (Update-2)\\DMS 6.5.0 rev. 111123.zip"
+                ]
+              }
+            }
+          },
+
+          "110818": {
+            "Update": "1",
+            "Label": "Update-1",
+            "Date": "2011-08-25",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 6.5.0 rev. 110818.zip",
+                  "http://sdn.sitecore.net/downloads/Sitecore650rev110818.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 6.5.0\\Sitecore 6.5.0 rev.110818 (Update -1)\\Sitecore 6.5.0 rev. 110818.zip"
+                ]
+              },
+              "analytics": {
+                "Downloads": [
+                  "filenames:\\\\DMS 2.0.0 rev. 110818.zip",
+                  "http://sdn.sitecore.net/downloads/DMS200rev110818.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 6.5.0\\Sitecore 6.5.0 rev.110818 (Update -1)\\DMS 6.5.0 rev. 110818.zip"
+                ]
+              }
+            }
+          },
+
+          "110602": {
+            "Update": "0",
+            "Label": "Initial Release",
+            "Date": "2011-06-08",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore 6.5.0 rev. 110602.zip",
+                  "http://sdn.sitecore.net/downloads/Sitecore650rev110602.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 6.5.0\\Sitecore 6.5.0 rev. 110602\\Sitecore 6.5.0 rev. 110602.zip"
+                ]
+              },
+              "analytics": {
+                "Downloads": [
+                  "filenames:\\\\DMS 2.0.0 rev. 110602.zip",
+                  "http://sdn.sitecore.net/downloads/DMS200rev110602.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 6.5.0\\Sitecore 6.5.0 rev. 110602\\DMS 6.5.0 rev. 110602.zip"
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+
+    "Web Forms for Marketers": {
+      "Metadata": {
+        "Alias": "WFFM",
+        "DefaultPackage": "WFFM.Sitecore.Forms.Core"
+      },
+
+      "Versions": {
+        "8.2": {
+          "161129": {
+            "Label": "Update-1",
+            "Date": "2016-12-05",
+            "Update": "1",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Web Forms for Marketers 8.2 rev. 161129 NOT SC PACKAGE.zip\\Web Forms for Marketers 8.2 rev. 161129.zip",
+                  "https://dev.sitecore.net/~/media/CC1E96521266447F8DCC0A28866FA3CA.ashx#Web Forms for Marketers 8.2 rev. 161129.zip#package.zip"
+                ]
+              },
+              "delivery": {
+                "Downloads": [
+                  "filenames:\\\\Web Forms for Marketers 8.2 rev. 161129 NOT SC PACKAGE.zip\\Web Forms for Marketers CD 8.2 rev. 161129.zip",
+                  "https://dev.sitecore.net/~/media/CC1E96521266447F8DCC0A28866FA3CA.ashx#Web Forms for Marketers CD 8.2 rev. 161129.zip"
+                ]
+              },
+              "reporting": {
+                "Downloads": [
+                  "filenames:\\\\Web Forms for Marketers 8.2 rev. 161129 NOT SC PACKAGE.zip\\Web Forms for Marketers Reporting 8.2 rev. 161129.zip",
+                  "https://dev.sitecore.net/~/media/CC1E96521266447F8DCC0A28866FA3CA.ashx#Web Forms for Marketers Reporting 8.2 rev. 161129.zip#package.zip"
+                ]
+              }
+            }
+          },
+
+          "160801": {
+            "Label": "Initial Release",
+            "Date": "2016-08-31",
+            "Update": "0",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Web Forms for Marketers 8.2 rev. 160801 NOT SC PACKAGE.zip\\Web Forms for Marketers 8.2 rev. 160801.zip",
+                  "https://dev.sitecore.net/~/media/3C23956B4C2A455B9E13B900EE01A188.ashx#Web Forms for Marketers 8.2 rev. 160801.zip#package.zip"
+                ]
+              },
+              "delivery": {
+                "Downloads": [
+                  "filenames:\\\\Web Forms for Marketers 8.2 rev. 160801 NOT SC PACKAGE.zip\\Web Forms for Marketers CD 8.2 rev. 160801.zip",
+                  "https://dev.sitecore.net/~/media/3C23956B4C2A455B9E13B900EE01A188.ashx#Web Forms for Marketers CD 8.2 rev. 160801.zip"
+                ]
+              },
+              "reporting": {
+                "Downloads": [
+                  "filenames:\\\\Web Forms for Marketers 8.2 rev. 160801 NOT SC PACKAGE.zip\\Web Forms for Marketers Reporting 8.2 rev. 160801.zip",
+                  "https://dev.sitecore.net/~/media/3C23956B4C2A455B9E13B900EE01A188.ashx#Web Forms for Marketers Reporting 8.2 rev. 160801.zip#package.zip"
+                ]
+              },
+              "hotfix-135600": {
+                "Downloads": [
+                  "filenames:\\\\Web Forms for Marketers 8.2 rev. 160801 Hotfix 135600.zip",
+                  "https://dev.sitecore.net/~/media/931EA7A73BAA4494B4CEA002ECE75E80.ashx#package.zip"
+                ]
+              }
+            }
+          }
+        },
+
+        "8.1": {
+          "160523": {
+            "Label": "Update-3",
+            "Date": "2016-05-20",
+            "Update": "3",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Web Forms for Marketers 8.1 rev. 160523 NOT SC PACKAGEƒ??.zip\\Web Forms for Marketers 8.1 rev. 160523.zip",
+                  "https://dev.sitecore.net/~/media/A95E0F9193C84F0C8E1E58B088894CCE.ashx#Web Forms for Marketers 8.1 rev. 160523.zip#package.zip"
+                ]
+              },
+              "delivery": {
+                "Downloads": [
+                  "filenames:\\\\Web Forms for Marketers 8.1 rev. 160523 NOT SC PACKAGEƒ??.zip\\Web Forms for Marketers CD 8.1 rev. 160523.zip",
+                  "https://dev.sitecore.net/~/media/A95E0F9193C84F0C8E1E58B088894CCE.ashx#Web Forms for Marketers CD 8.1 rev. 160523.zip"
+                ]
+              }
+            }
+          },
+
+          "160304": {
+            "Label": "Update-2",
+            "Date": "2016-03-04",
+            "Update": "2",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Web Forms For Marketers 8.1 rev. 160304 Update-2 NOT SC PACKAGE.zip\\Web Forms for Marketers 8.1 rev. 160304.zip",
+                  "https://dev.sitecore.net/~/media/C0C7DD85F13B424F9A10B8E25569EDD3.ashx#Web Forms for Marketers 8.1 rev. 160304.zip#package.zip"
+                ]
+              },
+              "delivery": {
+                "Downloads": [
+                  "filenames:\\\\Web Forms For Marketers 8.1 rev. 160304 Update-2 NOT SC PACKAGE.zip\\Web Forms for Marketers CD 8.1 rev. 160304.zip",
+                  "https://dev.sitecore.net/~/media/C0C7DD85F13B424F9A10B8E25569EDD3.ashx#Web Forms for Marketers CD 8.1 rev. 160304.zip"
+                ]
+              }
+            }
+          },
+
+          "151217": {
+            "Label": "Update-1",
+            "Date": "2015-12-18",
+            "Update": "1",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Web Forms For Marketers 8.1 rev. 151217 Update-1 NOT SC PACKAGE.zip\\Web Forms for Marketers 8.1 rev. 151217.zip",
+                  "https://dev.sitecore.net/~/media/C5E60BC6266944DDB7DAEBA4C8461FA7.ashx#Web Forms for Marketers 8.1 rev. 151217.zip#package.zip",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 8.1\\Sitecore 8.1 rev.151207(Update-1)_released\\Web Forms for Marketers\\Web Forms For Marketers 8.1 rev. 151217 Update-1 NOT SC PACKAGE.zip#Web Forms for Marketers 8.1 rev. 151217.zip#package.zip"
+                ]
+              },
+              "delivery": {
+                "Downloads": [
+                  "filenames:\\\\Web Forms For Marketers 8.1 rev. 151217 Update-1 NOT SC PACKAGE.zip\\Web Forms for Marketers 8.1 rev. 151217.zip",
+                  "https://dev.sitecore.net/~/media/C5E60BC6266944DDB7DAEBA4C8461FA7.ashx#Web Forms for Marketers 8.1 rev. 151217.zip",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 8.1\\Sitecore 8.1 rev.151207(Update-1)_released\\Web Forms for Marketers\\Web Forms For Marketers 8.1 rev. 151217 Update-1 NOT SC PACKAGE.zip#Web Forms for Marketers CD 8.1 rev. 151217.zip"
+                ]
+              }
+            }
+          },
+
+          "151008": {
+            "Label": "Initial Release",
+            "Date": "2015-10-20",
+            "Update": "0",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Web Forms For Marketers 8.1 rev. 151008 Initial NOT SC PACKAGE.zip\\Web Forms for Marketers 8.1 rev. 151008.zip",
+                  "https://dev.sitecore.net/~/media/Downloads/Web_Forms_For_Marketers/Web_Forms_For_Marketers_81/Web_Forms_For_Marketers_81_Initial_Version/Secure/Web_Forms_For_Marketers_81_rev_151008_Initial_NOT_SC_PACKAGE.ashx#Web Forms for Marketers 8.1 rev. 151008.zip#package.zip",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 8.1\\Sitecore 8.1 rev.151003_RTM_release\\WFFM\\Web Forms for Marketers 8.1 rev. 151008.zip#package.zip"
+                ]
+              },
+              "delivery": {
+                "Downloads": [
+                  "filenames:\\\\Web Forms For Marketers 8.1 rev. 151008 Initial NOT SC PACKAGE.zip\\Web Forms for Marketers CD 8.1 rev. 151008.zip",
+                  "https://dev.sitecore.net/~/media/Downloads/Web_Forms_For_Marketers/Web_Forms_For_Marketers_81/Web_Forms_For_Marketers_81_Initial_Version/Secure/Web_Forms_For_Marketers_81_rev_151008_Initial_NOT_SC_PACKAGE.ashx#Web Forms for Marketers CD 8.1 rev. 151008.zip",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 8.1\\Sitecore 8.1 rev.151003_RTM_release\\WFFM\\Web Forms for Marketers CD 8.1 rev. 151008.zip"
+                ]
+              }
+            }
+          }
+        },
+
+        "8.0": {
+          "151127": {
+            "Label": "Update-6",
+            "Date": "2015-11-27",
+            "Update": "6",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Web Forms for Marketers 8.0 rev. 151127 NOT SC PACKAGE.zip\\Web Forms for Marketers 8.0 rev. 151127.zip",
+                  "https://dev.sitecore.net/~/media/Downloads/Web_Forms_For_Marketers/Web_Forms_for_Marketers_80/Web_Forms_for_Marketers_8,-d-,0_(Update_6)/Secure/Web_Forms_for_Marketers_8,-d-,0_rev,-d-,_151127_NOT_SC_PACKAGE.ashx#Web Forms for Marketers/Web Forms for Marketers 8.0 rev. 151127.zip#package.zip",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.151127(Update6)_released\\WFFM\\Web Forms for Marketers 8.0 rev. 151127 NOT SC PACKAGE.zip#Web Forms for Marketers/Web Forms for Marketers 8.0 rev. 151127.zip#package.zip"
+                ]
+              },
+              "delivery": {
+                "Downloads": [
+                  "filenames:\\\\Web Forms for Marketers 8.0 rev. 151127 NOT SC PACKAGE.zip\\Web Forms for Marketers CD 8.0 rev. 151127.zip",
+                  "https://dev.sitecore.net/~/media/Downloads/Web_Forms_For_Marketers/Web_Forms_for_Marketers_80/Web_Forms_for_Marketers_8,-d-,0_(Update_6)/Secure/Web_Forms_for_Marketers_8,-d-,0_rev,-d-,_151127_NOT_SC_PACKAGE.ashx#Web Forms for Marketers/Web Forms for Marketers CD 8.0 rev. 151127.zip",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.151127(Update6)_released\\WFFM\\Web Forms for Marketers 8.0 rev. 151127 NOT SC PACKAGE.zip#Web Forms for Marketers/Web Forms for Marketers CD 8.0 rev. 151127.zip"
+                ]
+              }
+            }
+          },
+
+          "150625": {
+            "Label": "Update-4",
+            "Date": "2015-06-25",
+            "Update": "4",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Web Forms for Marketers 8.0 rev. 150625 NOT SC PACKAGE.zip\\Web Forms for Marketers 8.0 rev. 150625.zip",
+                  "https://dev.sitecore.net/~/media/Downloads/Web_Forms_For_Marketers/Web_Forms_for_Marketers_80/Web_Forms_for_Marketers_80_Update4/Secure/Web_Forms_for_Marketers_80_rev_150625_NOT_SC_PACKAGE.ashx#Web Forms for Marketers/Web Forms for Marketers 8.0 rev. 150625.zip#package.zip",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.150621(Update4)_released\\Web Forms for Marketers\\Web Forms for Marketers 8.0 rev. 150625 NOT SC PACKAGE.zip#Web Forms for Marketers/Web Forms for Marketers 8.0 rev. 150625.zip#package.zip"
+                ]
+              },
+              "delivery": {
+                "Downloads": [
+                  "filenames:\\\\Web Forms for Marketers 8.0 rev. 150625 NOT SC PACKAGE.zip\\Web Forms for Marketers CD 8.0 rev. 150625.zip",
+                  "https://dev.sitecore.net/~/media/Downloads/Web_Forms_For_Marketers/Web_Forms_for_Marketers_80/Web_Forms_for_Marketers_80_Update4/Secure/Web_Forms_for_Marketers_80_rev_150625_NOT_SC_PACKAGE.ashx#Web Forms for Marketers/Web Forms for Marketers CD 8.0 rev. 150625.zip",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.150621(Update4)_released\\Web Forms for Marketers\\Web Forms for Marketers 8.0 rev. 150625 NOT SC PACKAGE.zip#Web Forms for Marketers/Web Forms for Marketers CD 8.0 rev. 150625.zip"
+                ]
+              }
+            }
+          },
+
+          "150429": {
+            "Label": "Update-3",
+            "Date": "2015-04-29",
+            "Update": "3",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Web Forms for Marketers 8.0 rev. 150429 NOT SC PACKAGE.zip\\Web Forms for Marketers 8.0 rev. 150429.zip",
+                  "https://dev.sitecore.net/~/media/Downloads/Sitecore_Experience_Platform/8_0/Sitecore_Experience_Platform_80_Update3/Secure/Web_Forms_for_Marketers_80_rev_150429_NOT_SC_PACKAGE.ashx#Web Forms for Marketers/Web Forms for Marketers 8.0 rev. 150429.zip#package.zip",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.150427(Update3)_released\\WFFM\\Web Forms for Marketers 8.0 rev. 150429 NOT SC PACKAGE.zip#Web Forms for Marketers/Web Forms for Marketers 8.0 rev. 150429.zip#package.zip"
+                ]
+              },
+              "delivery": {
+                "Downloads": [
+                  "filenames:\\\\Web Forms for Marketers 8.0 rev. 150429 NOT SC PACKAGE.zip\\Web Forms for Marketers CD 8.0 rev. 150429.zip",
+                  "https://dev.sitecore.net/~/media/Downloads/Sitecore_Experience_Platform/8_0/Sitecore_Experience_Platform_80_Update3/Secure/Web_Forms_for_Marketers_80_rev_150429_NOT_SC_PACKAGE.ashx#Web Forms for Marketers/Web Forms for Marketers CD 8.0 rev. 150429.zip",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.150427(Update3)_released\\WFFM\\Web Forms for Marketers 8.0 rev. 150429 NOT SC PACKAGE.zip#Web Forms for Marketers/Web Forms for Marketers CD 8.0 rev. 150429.zip"
+                ]
+              }
+            }
+          },
+
+          "150224": {
+            "Label": "Update-2",
+            "Date": "2015-02-24",
+            "Update": "2",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Web Forms for Marketers 8.0 rev. 150224 NOT SC PACKAGE.zip\\Web Forms for Marketers 8.0 rev. 150224.zip",
+                  "https://dev.sitecore.net/~/media/Downloads/Sitecore_Experience_Platform/8_0/Sitecore_Experience_Platform_8_update2/Secure/Web_Forms_for_Marketers_8,-d-,0_rev,-d-,_150224_NOT_SC_PACKAGE.ashx#Web Forms for Marketers/Web Forms for Marketers 8.0 rev. 150224.zip#package.zip",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.150223(Udpate2)_released\\WFFM\\Web Forms for Marketers 8.0 rev. 150224 NOT SC PACKAGE.zip#Web Forms for Marketers/Web Forms for Marketers 8.0 rev. 150224.zip#package.zip"
+                ]
+              },
+              "delivery": {
+                "Downloads": [
+                  "filenames:\\\\Web Forms for Marketers 8.0 rev. 150224 NOT SC PACKAGE.zip\\Web Forms for Marketers CD 8.0 rev. 150224.zip",
+                  "https://dev.sitecore.net/~/media/Downloads/Sitecore_Experience_Platform/8_0/Sitecore_Experience_Platform_8_update2/Secure/Web_Forms_for_Marketers_8,-d-,0_rev,-d-,_150224_NOT_SC_PACKAGE.ashx#Web Forms for Marketers/Web Forms for Marketers CD 8.0 rev. 150224.zip",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.150223(Udpate2)_released\\WFFM\\Web Forms for Marketers 8.0 rev. 150224 NOT SC PACKAGE.zip#Web Forms for Marketers/Web Forms for Marketers CD 8.0 rev. 150224.zip"
+                ]
+              }
+            }
+          },
+
+          "141217": {
+            "Label": "Initial Release",
+            "Date": "2014-12-17",
+            "Update": "0",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Web Forms for Marketers  8.0 rev. 141217 NOT SC PACKAGE.zip\\Web Forms for Marketers 8.0 rev. 141217.zip",
+                  "https://dev.sitecore.net/~/media/Downloads/Sitecore_Experience_Platform/8_0/Sitecore_Experience_Platform_8_0/Secure/Web_Forms_for_Marketers__8,-d-,0_rev,-d-,_141217_NOT_SC_PACKAGE.ashx#Web Forms for Marketers/Web Forms for Marketers 8.0 rev. 141217.zip#package.zip",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.141212_RTM_release\\Web Forms for Marketers\\Web Forms for Marketers 8.0 rev. 141217.zip#package.zip"
+                ]
+              },
+              "delivery": {
+                "Downloads": [
+                  "filenames:\\\\Web Forms for Marketers  8.0 rev. 141217 NOT SC PACKAGE.zip\\Web Forms for Marketers CD 8.0 rev. 141217.zip",
+                  "https://dev.sitecore.net/~/media/Downloads/Sitecore_Experience_Platform/8_0/Sitecore_Experience_Platform_8_0/Secure/Web_Forms_for_Marketers__8,-d-,0_rev,-d-,_141217_NOT_SC_PACKAGE.ashx#Web Forms for Marketers/Web Forms for Marketers CD 8.0 rev. 141217.zip",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.141212_RTM_release\\Web Forms for Marketers\\Web Forms for Marketers CD 8.0 rev. 141217.zip"
+                ]
+              }
+            }
+          }
+        },
+
+        "2.5": {
+          "150209": {
+            "Label": "Update-1",
+            "Date": "2015-02-09",
+            "Update": "1",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Web Forms for Marketers 2.5 rev. 150209.zip",
+                  "https://sdn.sitecore.net/downloads/WebFormsv7_25rev150209.download#package.zip"
+                ]
+              },
+
+              "delivery": {
+                "Downloads": [
+                  "filenames:\\\\Web Forms for Marketers CD 2.5 rev. 150209.zip",
+                  "https://sdn.sitecore.net/downloads/WebFormsv7_25rev150209_CD.download"
+                ]
+              },
+
+              "reporting": {
+                "Downloads": [
+                  "filenames:\\\\Web Forms for Marketers Processing 2.5 rev. 150209.zip",
+                  "https://sdn.sitecore.net/downloads/WebFormsv7_25rev150209_Processing.download"
+                ]
+              }
+            }
+          },
+
+          "141014": {
+            "Label": "Initial Release",
+            "Date": "2014-10-14",
+            "Update": "0",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Web Forms for Marketers 2.5 rev. 141014.zip",
+                  "https://sdn.sitecore.net/downloads/WebFormsv7_25rev141014.download#package.zip"
+                ]
+              },
+
+              "delivery": {
+                "Downloads": [
+                  "filenames:\\\\Web Forms for Marketers CD 2.5 rev. 141014.zip",
+                  "https://sdn.sitecore.net/downloads/WebFormsv7_25rev141014_CD.download"
+                ]
+              },
+
+              "reporting": {
+                "Downloads": [
+                  "filenames:\\\\Web Forms for Marketers Processing 2.5 rev. 141014.zip",
+                  "https://sdn.sitecore.net/downloads/WebFormsv7_25rev141014_Processing.download"
+                ]
+              }
+            }
+          }
+        },
+
+        "2.4": {
+          "151103": {
+            "Label": "Update-2",
+            "Date": "2015-11-05",
+            "Update": "2",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Web Forms for Marketers 2.4 rev. 151103.zip",
+                  "https://sdn.sitecore.net/downloads/WebFormsv7_24rev151103.download"
+                ]
+              }
+            }
+          },
+
+          "150619": {
+            "Label": "Update-1",
+            "Date": "2015-07-06",
+            "Update": "1",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Web Forms for Marketers 2.4 rev. 150619.zip",
+                  "https://sdn.sitecore.net/downloads/WebFormsv7_24rev150619.download"
+                ]
+              }
+            }
+          },
+
+          "140117": {
+            "Label": "Initial Release",
+            "Date": "2016-11-09",
+            "Update": "0",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Web Forms for Marketers 2.4.0 rev. 140117.zip",
+                  "https://sdn.sitecore.net/downloads/WebFormsv6_240rev140117.download"
+                ]
+              }
+            }
+          }
+        },
+
+        "2.3": {
+          "140617": {
+            "Label": "Initial Release",
+            "Date": "2014-06-23",
+            "Update": "0",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Web Forms for Marketers 2.3 rev. 140617.zip",
+                  "https://sdn.sitecore.net/downloads/WebFormsv6_23rev140617.download"
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+
+    "Email Experience Manager": {
+      "Metadata": {
+        "Alias": "EXM",
+        "DefaultPackage": "EXM.Sitecore.EmailCampaign"
+      },
+
+      "Versions": {
+        "3.4": {
+          "161028": {
+            "Label": "Initial Release",
+            "Date": "2016-11-08",
+            "Update": "0",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Email Experience Manager 3.4.0 rev. 161028 (not sc package).zip\\Email Experience Manager 3.4.0 rev. 161028.zip",
+                  "https://dev.sitecore.net/~/media/C497654C57914F9AB407620E342B86C4.ashx#Email Experience Manager 3.4.0 rev. 161028.zip#package.zip"
+                ]
+              },
+              "delivery": {
+                "Downloads": [
+                  "filenames:\\\\Email Experience Manager 3.4.0 rev. 161028 (not sc package).zip\\Email Experience Manager - Content Delivery 3.4.0 rev. 161028.zip",
+                  "https://dev.sitecore.net/~/media/C497654C57914F9AB407620E342B86C4.ashx#Email Experience Manager - Content Delivery 3.4.0 rev. 161028.zip"
+                ]
+              },
+              "processing": {
+                "Downloads": [
+                  "filenames:\\\\Email Experience Manager 3.4.0 rev. 161028 (not sc package).zip\\Email Experience Manager - Analytics Processing 3.4.0 rev. 161028.zip",
+                  "https://dev.sitecore.net/~/media/C497654C57914F9AB407620E342B86C4.ashx#Email Experience Manager - Analytics Processing 3.4.0 rev. 161028.zip"
+                ]
+              },
+              "email": {
+                "Downloads": [
+                  "filenames:\\\\Email Experience Manager 3.4.0 rev. 161028 (not sc package).zip\\Email Experience Manager - Email Processing 3.4.0 rev. 161028.zip",
+                  "https://dev.sitecore.net/~/media/C497654C57914F9AB407620E342B86C4.ashx#Email Experience Manager - Email Processing 3.4.0 rev. 161028.zip"
+                ]
+              },
+              "reporting": {
+                "Downloads": [
+                  "filenames:\\\\Email Experience Manager 3.4.0 rev. 161028 (not sc package).zip\\Email Experience Manager - Reporting 3.4.0 rev. 161028.zip",
+                  "https://dev.sitecore.net/~/media/C497654C57914F9AB407620E342B86C4.ashx#Email Experience Manager - Reporting 3.4.0 rev. 161028.zip"
+                ]
+              },
+              "sample": {
+                "Downloads": [
+                  "filenames:\\\\Email Experience Manager 3.4.0 rev. 161028 (not sc package).zip\\Email Experience Manager Sample Newsletter 3.4.0 rev. 161028.zip",
+                  "https://dev.sitecore.net/~/media/C497654C57914F9AB407620E342B86C4.ashx#Email Experience Manager Sample Newsletter 3.4.0 rev. 161028.zip#package.zip"
+                ]
+              }
+            }
+          }
+        },
+
+        "3.3": {
+          "160527": {
+            "Label": "Initial Release",
+            "Date": "2016-06-01",
+            "Update": "0",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Email Experience Manager 3.3.0 rev. 160527 (not sc package).zip\\Email Experience Manager 3.3.0 rev. 160527.zip",
+                  "https://dev.sitecore.net/~/media/122780169FF441698E87DEDAE6C0024E.ashx#Email Experience Manager 3.3.0 rev. 160527.zip#package.zip"
+                ]
+              },
+              "delivery": {
+                "Downloads": [
+                  "filenames:\\\\Email Experience Manager 3.3.0 rev. 160527 (not sc package).zip\\Email Experience Manager - Content Delivery 3.3.0 rev. 160527.zip",
+                  "https://dev.sitecore.net/~/media/122780169FF441698E87DEDAE6C0024E.ashx#Email Experience Manager - Content Delivery 3.3.0 rev. 160527.zip"
+                ]
+              },
+              "processing": {
+                "Downloads": [
+                  "filenames:\\\\Email Experience Manager 3.3.0 rev. 160527 (not sc package).zip\\Email Experience Manager - Analytics Processing 3.3.0 rev. 160527.zip",
+                  "https://dev.sitecore.net/~/media/122780169FF441698E87DEDAE6C0024E.ashx#Email Experience Manager - Analytics Processing 3.3.0 rev. 160527.zip"
+                ]
+              },
+              "email": {
+                "Downloads": [
+                  "filenames:\\\\Email Experience Manager 3.3.0 rev. 160527 (not sc package).zip\\Email Experience Manager - Email Processing 3.3.0 rev. 160527.zip",
+                  "https://dev.sitecore.net/~/media/122780169FF441698E87DEDAE6C0024E.ashx#Email Experience Manager - Email Processing 3.3.0 rev. 160527.zip"
+                ]
+              },
+              "reporting": {
+                "Downloads": [
+                  "filenames:\\\\Email Experience Manager 3.3.0 rev. 160527 (not sc package).zip\\Email Experience Manager - Reporting 3.3.0 rev. 160527.zip",
+                  "https://dev.sitecore.net/~/media/122780169FF441698E87DEDAE6C0024E.ashx#Email Experience Manager - Reporting 3.3.0 rev. 160527.zip"
+                ]
+              },
+              "sample": {
+                "Downloads": [
+                  "filenames:\\\\Email Experience Manager 3.3.0 rev. 160527 (not sc package).zip\\Email Experience Manager Sample Newsletter 3.3.0 rev. 160527.zip",
+                  "https://dev.sitecore.net/~/media/122780169FF441698E87DEDAE6C0024E.ashx#Email Experience Manager Sample Newsletter 3.3.0 rev. 160527.zip#package.zip"
+                ]
+              }
+            }
+          }
+        },
+
+        "3.2": {
+          "160127": {
+            "Label": "Update-1",
+            "Date": "2016-02-01",
+            "Update": "1",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Email Experience Manager 3.2.1 rev. 160127 NOT SC PACKAGE.zip\\Email Experience Manager 3.2.1 rev. 160127.zip",
+                  "https://dev.sitecore.net/~/media/1008AB5222BF4621A24FBDE26D9E7E11.ashx#Email Experience Manager 3.2.1 rev. 160127.zip#package.zip"
+                ]
+              },
+              "delivery": {
+                "Downloads": [
+                  "filenames:\\\\Email Experience Manager 3.2.1 rev. 160127 NOT SC PACKAGE.zip\\Email Experience Manager - Analytics Processing 3.2.1 rev. 160127.zip",
+                  "https://dev.sitecore.net/~/media/1008AB5222BF4621A24FBDE26D9E7E11.ashx#Email Experience Manager - Analytics Processing 3.2.1 rev. 160127.zip"
+                ]
+              },
+              "processing": {
+                "Downloads": [
+                  "filenames:\\\\Email Experience Manager 3.2.1 rev. 160127 NOT SC PACKAGE.zip\\Email Experience Manager - Analytics Processing 3.2.1 rev. 160127.zip",
+                  "https://dev.sitecore.net/~/media/1008AB5222BF4621A24FBDE26D9E7E11.ashx#Email Experience Manager - Analytics Processing 3.2.1 rev. 160127.zip"
+                ]
+              },
+              "email": {
+                "Downloads": [
+                  "filenames:\\\\Email Experience Manager 3.2.1 rev. 160127 NOT SC PACKAGE.zip\\Email Experience Manager - Email Processing 3.2.1 rev. 160127.zip",
+                  "https://dev.sitecore.net/~/media/1008AB5222BF4621A24FBDE26D9E7E11.ashx#Email Experience Manager - Email Processing 3.2.1 rev. 160127.zip"
+                ]
+              },
+              "reporting": {
+                "Downloads": [
+                  "filenames:\\\\Email Experience Manager 3.2.1 rev. 160127 NOT SC PACKAGE.zip\\Email Experience Manager - Reporting 3.2.1 rev. 160127.zip",
+                  "https://dev.sitecore.net/~/media/1008AB5222BF4621A24FBDE26D9E7E11.ashx#Email Experience Manager - Reporting 3.2.1 rev. 160127.zip"
+                ]
+              },
+              "sample": {
+                "Downloads": [
+                  "filenames:\\\\Email Experience Manager 3.2.1 rev. 160127 NOT SC PACKAGE.zip\\Email Experience Manager Sample Newsletter 3.2.1 rev. 160127.zip",
+                  "https://dev.sitecore.net/~/media/1008AB5222BF4621A24FBDE26D9E7E11.ashx#Email Experience Manager Sample Newsletter 3.2.1 rev. 160127.zip#package.zip"
+                ]
+              }
+            }
+          },
+
+          "151020": {
+            "Label": "Initial Release",
+            "Date": "2015-10-21",
+            "Update": "0",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Email Experience Manager 3.2.0 rev. 151020 NOT SC PACKAGE.zip\\Email Experience Manager 3.2.0 rev. 151020.zip",
+                  "https://dev.sitecore.net/~/media/Downloads/Email_Experience_Manager/Email_Experience_Manager_32/Email_Experience_Manager_32_Initial_Release/Secure/Email_Experience_Manager_320_rev_151020_NOT_SC_PACKAGE.ashx#Email Experience Manager 3.2.0 rev. 151020.zip#package.zip",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 8.1\\Sitecore 8.1 rev.151003_RTM_release\\EXM\\EXM 3.2\\Email Experience Manager 3.2.0 rev. 151020.zip#package.zip"
+                ]
+              },
+              "delivery": {
+                "Downloads": [
+                  "filenames:\\\\Email Experience Manager 3.2.0 rev. 151020 NOT SC PACKAGE.zip\\Email Experience Manager - Content Delivery 3.2.0 rev. 151020.zip",
+                  "https://dev.sitecore.net/~/media/Downloads/Email_Experience_Manager/Email_Experience_Manager_32/Email_Experience_Manager_32_Initial_Release/Secure/Email_Experience_Manager_320_rev_151020_NOT_SC_PACKAGE.ashx#Email Experience Manager - Content Delivery 3.2.0 rev. 151020.zip",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 8.1\\Sitecore 8.1 rev.151003_RTM_release\\EXM\\EXM 3.2\\Email Experience Manager - Content Delivery 3.2.0 rev. 151020.zip"
+                ]
+              },
+              "processing": {
+                "Downloads": [
+                  "filenames:\\\\Email Experience Manager 3.2.0 rev. 151020 NOT SC PACKAGE.zip\\Email Experience Manager - Analytics Processing 3.2.0 rev. 151020.zip",
+                  "https://dev.sitecore.net/~/media/Downloads/Email_Experience_Manager/Email_Experience_Manager_32/Email_Experience_Manager_32_Initial_Release/Secure/Email_Experience_Manager_320_rev_151020_NOT_SC_PACKAGE.ashx#Email Experience Manager - Analytics Processing 3.2.0 rev. 151020.zip",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 8.1\\Sitecore 8.1 rev.151003_RTM_release\\EXM\\EXM 3.2\\Email Experience Manager - Analytics Processing 3.2.0 rev. 151020.zip"
+                ]
+              },
+              "email": {
+                "Downloads": [
+                  "filenames:\\\\Email Experience Manager 3.2.0 rev. 151020 NOT SC PACKAGE.zip\\Email Experience Manager - Email Processing 3.2.0 rev. 151020.zip",
+                  "https://dev.sitecore.net/~/media/Downloads/Email_Experience_Manager/Email_Experience_Manager_32/Email_Experience_Manager_32_Initial_Release/Secure/Email_Experience_Manager_320_rev_151020_NOT_SC_PACKAGE.ashx#Email Experience Manager - Email Processing 3.2.0 rev. 151020.zip",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 8.1\\Sitecore 8.1 rev.151003_RTM_release\\EXM\\EXM 3.2\\Email Experience Manager - Email Processing 3.2.0 rev. 151020.zip"
+                ]
+              },
+              "reporting": {
+                "Downloads": [
+                  "filenames:\\\\Email Experience Manager 3.2.0 rev. 151020 NOT SC PACKAGE.zip\\Email Experience Manager - Reporting 3.2.0 rev. 151020.zip",
+                  "https://dev.sitecore.net/~/media/Downloads/Email_Experience_Manager/Email_Experience_Manager_32/Email_Experience_Manager_32_Initial_Release/Secure/Email_Experience_Manager_320_rev_151020_NOT_SC_PACKAGE.ashx#Email Experience Manager - Reporting 3.2.0 rev. 151020.zip",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 8.1\\Sitecore 8.1 rev.151003_RTM_release\\EXM\\EXM 3.2\\Email Experience Manager - Reporting 3.2.0 rev. 151020.zip"
+                ]
+              },
+              "sample": {
+                "Downloads": [
+                  "filenames:\\\\Email Experience Manager 3.2.0 rev. 151020 NOT SC PACKAGE.zip\\Email Experience Manager Sample Newsletter 3.2.0 rev. 151020.zip",
+                  "https://dev.sitecore.net/~/media/Downloads/Email_Experience_Manager/Email_Experience_Manager_32/Email_Experience_Manager_32_Initial_Release/Secure/Email_Experience_Manager_320_rev_151020_NOT_SC_PACKAGE.ashx#Email Experience Manager Sample Newsletter 3.2.0 rev. 151020.zip#package.zip",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 8.1\\Sitecore 8.1 rev.151003_RTM_release\\EXM\\EXM 3.2\\Email Experience Manager Sample Newsletter 3.2.0 rev. 151020.zip#package.zip"
+                ]
+              }
+            }
+          }
+        },
+
+        "3.1": {
+          "151213": {
+            "Label": "Update-2",
+            "Date": "2015-12-23",
+            "Update": "2",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Email Experience Manager 3.1.2 rev. 151213 NOT SC PACKAGE.zip\\Email Experience Manager 3.1.2 rev. 151213.zip",
+                  "https://dev.sitecore.net/~/media/51DB9F1D314D4AB0A895162EEBC98AEF.ashx#Email Experience Manager 3.1.2 rev. 151213.zip#package.zip"
+                ]
+              },
+              "delivery": {
+                "Downloads": [
+                  "filenames:\\\\Email Experience Manager 3.1.2 rev. 151213 NOT SC PACKAGE.zip\\Email Experience Manager - Content Delivery 3.1.2 rev. 151213.zip",
+                  "https://dev.sitecore.net/~/media/51DB9F1D314D4AB0A895162EEBC98AEF.ashx#Email Experience Manager - Content Delivery 3.1.2 rev. 151213.zip"
+                ]
+              },
+              "processing": {
+                "Downloads": [
+                  "filenames:\\\\Email Experience Manager 3.1.2 rev. 151213 NOT SC PACKAGE.zip\\Email Experience Manager - Analytics Processing 3.1.2 rev. 151213.zip",
+                  "https://dev.sitecore.net/~/media/51DB9F1D314D4AB0A895162EEBC98AEF.ashx#Email Experience Manager - Analytics Processing 3.1.2 rev. 151213.zip"
+                ]
+              },
+              "email": {
+                "Downloads": [
+                  "filenames:\\\\Email Experience Manager 3.1.2 rev. 151213 NOT SC PACKAGE.zip\\Email Experience Manager - Email Processing 3.1.2 rev. 151213.zip",
+                  "https://dev.sitecore.net/~/media/51DB9F1D314D4AB0A895162EEBC98AEF.ashx#Email Experience Manager - Email Processing 3.1.2 rev. 151213.zip"
+                ]
+              },
+              "reporting": {
+                "Downloads": [
+                  "filenames:\\\\Email Experience Manager 3.1.2 rev. 151213 NOT SC PACKAGE.zip\\Email Experience Manager - Reporting 3.1.2 rev. 151213.zip",
+                  "https://dev.sitecore.net/~/media/51DB9F1D314D4AB0A895162EEBC98AEF.ashx#Email Experience Manager - Reporting 3.1.2 rev. 151213.zip"
+                ]
+              }
+            }
+          },
+
+          "150811": {
+            "Label": "Update-1",
+            "Date": "2015-08-11",
+            "Update": "1",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\EXM 3.1 rev. 150811 (Update-1).zip\\Email Experience Manager 3.1.1 rev. 150811.zip",
+                  "https://dev.sitecore.net/~/media/70A55E58D4544CD699825E69048E7551.ashx#Email Experience Manager 3.1.1 rev. 150811.zip#package.zip"
+                ]
+              },
+              "delivery": {
+                "Downloads": [
+                  "filenames:\\\\EXM 3.1 rev. 150811 (Update-1).zip\\Email Experience Manager - Content Delivery 3.1.1 rev. 150811.zip",
+                  "https://dev.sitecore.net/~/media/70A55E58D4544CD699825E69048E7551.ashx#Email Experience Manager - Content Delivery 3.1.1 rev. 150811.zip"
+                ]
+              },
+              "processing": {
+                "Downloads": [
+                  "filenames:\\\\EXM 3.1 rev. 150811 (Update-1).zip\\Email Experience Manager - Analytics Processing 3.1.1 rev. 150811.zip",
+                  "https://dev.sitecore.net/~/media/70A55E58D4544CD699825E69048E7551.ashx#Email Experience Manager - Analytics Processing 3.1.1 rev. 150811.zip"
+                ]
+              },
+              "email": {
+                "Downloads": [
+                  "filenames:\\\\EXM 3.1 rev. 150811 (Update-1).zip\\Email Experience Manager - Email Processing 3.1.1 rev. 150811.zip",
+                  "https://dev.sitecore.net/~/media/70A55E58D4544CD699825E69048E7551.ashx#Email Experience Manager - Email Processing 3.1.1 rev. 150811.zip"
+                ]
+              },
+              "reporting": {
+                "Downloads": [
+                  "filenames:\\\\EXM 3.1 rev. 150811 (Update-1).zip\\Email Experience Manager - Reporting 3.1.1 rev. 150811.zip",
+                  "https://dev.sitecore.net/~/media/70A55E58D4544CD699825E69048E7551.ashx#Email Experience Manager - Reporting 3.1.1 rev. 150811.zip"
+                ]
+              }
+            }
+          },
+
+          "150703": {
+            "Label": "Initial Release",
+            "Date": "2015-07-03",
+            "Update": "0",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\EXM 3.1 rev. 150703.zip\\Email Experience Manager 3.1 rev. 150703.zip",
+                  "https://dev.sitecore.net/~/media/383BC967066A4F88A4ED9201EDF1C727.ashx#Email Experience Manager 3.1 rev. 150703.zip#package.zip"
+                ]
+              },
+              "delivery": {
+                "Downloads": [
+                  "filenames:\\\\EXM 3.1 rev. 150703.zip\\Email Experience Manager - Content Delivery 3.1 rev. 150703.zip",
+                  "https://dev.sitecore.net/~/media/383BC967066A4F88A4ED9201EDF1C727.ashx#Email Experience Manager - Content Delivery 3.1 rev. 150703.zip"
+                ]
+              },
+              "processing": {
+                "Downloads": [
+                  "filenames:\\\\EXM 3.1 rev. 150703.zip\\Email Experience Manager - Analytics Processing 3.1 rev. 150703.zip",
+                  "https://dev.sitecore.net/~/media/383BC967066A4F88A4ED9201EDF1C727.ashx#Email Experience Manager - Analytics Processing 3.1 rev. 150703.zip"
+                ]
+              },
+              "email": {
+                "Downloads": [
+                  "filenames:\\\\EXM 3.1 rev. 150703.zip\\Email Experience Manager - Email Processing 3.1 rev. 150703.zip",
+                  "https://dev.sitecore.net/~/media/383BC967066A4F88A4ED9201EDF1C727.ashx#Email Experience Manager - Email Processing 3.1 rev. 150703.zip"
+                ]
+              },
+              "reporting": {
+                "Downloads": [
+                  "filenames:\\\\EXM 3.1 rev. 150703.zip\\Email Experience Manager - Reporting 3.1 rev. 150703.zip",
+                  "https://dev.sitecore.net/~/media/383BC967066A4F88A4ED9201EDF1C727.ashx#Email Experience Manager - Reporting 3.1 rev. 150703.zip"
+                ]
+              }
+            }
+          }
+        },
+
+        "2.2": {
+          "141007": {
+            "Label": "Initial Release",
+            "Date": "2014-10-07",
+            "Update": "0",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\E-mail Campaign Manager 2.2 rev. 141007.zip",
+                  "https://sdn.sitecore.net/downloads/EmailCampaignManager22rev141007.download#package.zip",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.5\\Modules\\E-mail Campaign Manager\\E-mail Campaign Manager 2.2 rev. 141007.zip#package.zip"
+                ]
+              },
+              "speak components": {
+                "Downloads": [
+                  "filenames:\\\\SPEAK 1.0.0 rev. 140131.zip",
+                  "https://sdn.sitecore.net/downloads/SPEAK100rev140131.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.5\\Modules\\E-mail Campaign Manager\\SPEAK 1.0.0 rev. 140131.zip"
+                ]
+              },
+              "delivery": {
+                "Downloads": [
+                  "filenames:\\\\E-mail Campaign Manager - CD 2.2 rev. 141007.zip",
+                  "https://sdn.sitecore.net/downloads/E-mailCampaignManagerCD22rev.141007.download#package.zip",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 7.5\\Modules\\E-mail Campaign Manager\\E-mail Campaign Manager - CD 2.2 rev. 141007.zip"
+                ]
+              }
+            }
+          }
+        },
+
+        "2.1": {
+          "140214": {
+            "Label": "Update-3",
+            "Date": "2014-02-14",
+            "Update": "3",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\E-mail Campaign Manager 2.1 rev. 140214.zip",
+                  "https://sdn.sitecore.net/downloads/EmailCampaignManager21rev140214.download"
+                ]
+              },
+              "speak components": {
+                "Downloads": [
+                  "filenames:\\\\SPEAK 1.0.0 rev. 140131.zip",
+                  "https://sdn.sitecore.net/downloads/SPEAK100rev140131.download"
+                ]
+              },
+              "ecm save actions for wffm": {
+                "Downloads": [
+                  "filenames:\\\\ECM 2 Save Actions 1.0.0 rev. 130128.zip",
+                  "https://sdn.sitecore.net/downloads/ECM2_SaveActions100rev130128.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Modules\\ECM Save Actions\\1.0.0\\130128\\ECM 2 Save Actions 1.0.0 rev. 130128.zip"
+                ]
+              }
+            }
+          }
+        },
+
+        "2.0": {
+          "130123": {
+            "Label": "ECM 2.0",
+            "Date": "2013-01-23",
+            "Update": "0",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\E-mail Campaign Manager 2.0.0 rev. 130123.zip",
+                  "https://sdn.sitecore.net/downloads/EmailCampaignManager200rev130123.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Modules\\Email Campaign Manager\\2.0.0 rev.130123\\E-mail Campaign Manager 2.0.0 rev. 130123.zip"
+                ]
+              },
+              "speak components": {
+                "Downloads": [
+                  "filenames:\\\\SPEAK 1.0.0 rev. 130123.zip",
+                  "https://sdn.sitecore.net/downloads/SPEAK100rev130123.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Modules\\Email Campaign Manager\\2.0.0 rev.130123\\SPEAK 1.0.0 rev. 130123.zip"
+                ]
+              },
+              "ecm save actions for wffm": {
+                "Downloads": [
+                  "filenames:\\\\ECM 2 Save Actions 1.0.0 rev. 130128.zip",
+                  "https://sdn.sitecore.net/downloads/ECM2_SaveActions100rev130128.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Modules\\ECM Save Actions\\1.0.0\\130128\\ECM 2 Save Actions 1.0.0 rev. 130128.zip"
+                ]
+              }
+            }
+          }
+        },
+
+        "1.3.3": {
+          "130212": {
+            "Update": "3",
+            "Label": "ECM 1.3.3",
+            "Date": "2013-02-12",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\E-mail Campaign Manager 1.3.3 rev. 130212.zip",
+                  "https://sdn.sitecore.net/downloads/EmailCampaignManager133rev130212.download",
+                  "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Modules\\Email Campaign Manager\\1.3.3 rev.130212\\E-mail Campaign Manager 1.3.3 rev. 130212.zip"
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+
+    "Sitecore Experience Accelerator": {
+      "Metadata": {
+        "Alias": "SXA",
+        "DefaultPackage": "SXA.Sitecore.XA.Foundation.Common"
+      },
+
+      "Versions": {
+        "1.2": {
+          "161216": {
+            "Update": "0",
+            "Label": "Initial Release",
+            "Date": "2016-12-20",
+            "Distributions": {
+              "8.2": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore Experience Accelerator 1.2 rev. 161216 for 8.2.zip",
+                  "https://dev.sitecore.net/~/media/59EA100CCCD248F7A698E3E8CDDD8D7D.ashx#package.zip"
+                ]
+              },
+
+              "8.1": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore Experience Accelerator 1.2 rev. 161216 for 8.1.zip",
+                  "https://dev.sitecore.net/~/media/F6B8808F32274AC7BE661DFF4CEE96B2.ashx#package.zip"
+                ]
+              }
+            }
+          }
+        },
+
+        "1.1": {
+          "161004": {
+            "Update": "0",
+            "Label": "Initial Release",
+            "Date": "2016-10-04",
+            "Distributions": {
+              "8.2": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore Experience Accelerator 1.1 rev. 161004 for 8.2.zip",
+                  "https://dev.sitecore.net/~/media/2C9EE7292A884260814B1EA212ACE1B7.ashx#package.zip"
+                ]
+              },
+
+              "8.1": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore Experience Accelerator 1.1 rev. 161004 for 8.1.zip",
+                  "https://dev.sitecore.net/~/media/F94D898F17D74A25B1F51A3D33B1B07E.ashx#package.zip"
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+
+    "Engagement Automation Live Session Agent": {
+      "Metadata": {
+        "Alias": "EAS",
+        "DefaultPackage": "EAS.Sitecore.EngagementAutomation.LiveSessionAgent"
+      },
+
+      "Versions": {
+        "2.0": {
+          "160923": {
+            "Update": "0",
+            "Label": "Initial Release",
+            "Date": "2016-09-23",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore Engagement Automation Live Session Agent 2.0.0 rev. 160923.zip",
+                  "https://dev.sitecore.net/~/media/AB597E9426DA492FBB5B93E2A1DB203D.ashx#package.zip"
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+
+    "Sitecore Campaign Creator": {
+      "Metadata": {
+        "Alias": "SCC",
+        "DefaultPackage": "SCC.Sitecore.Marketing.Campaigns.Client"
+      },
+
+      "Versions": {
+        "1.0": {
+          "150423": {
+            "Update": "0",
+            "Label": "Initial Release",
+            "Date": "2015-04-23",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore Campaign Manager 1.0 rev. 150423.zip",
+                  "https://dev.sitecore.net/~/media/859387996A274C7FB82DBFCF3EAADA07.ashx#package.zip"
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+
+    "Data Exchange Framework": {
+      "Metadata": {
+        "Alias": "DEF",
+        "DefaultPackage": "DEF.Sitecore.DataExchange"
+      },
+
+      "Versions": {
+        "1.2": {
+          "161212": {
+            "Update": "0",
+            "Label": "Initial Release",
+            "Date": "2016-12-16",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Data Exchange Framework 1.2.0 rev. 161212.zip",
+                  "https://dev.sitecore.net/~/media/9B0CC20823B94E8A8FC08630D3BBA6D1.ashx#package.zip"
+                ]
+              },
+
+              "provider": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore Provider for Data Exchange Framework 1.2.0 rev. 161212.zip",
+                  "https://dev.sitecore.net/~/media/4508922BD64440C0AE67175D44B210DA.ashx#package.zip"
+                ]
+              },
+
+              "sdk": {
+                "Downloads": [
+                  "filenames:\\\\Data Exchange Framework Remote SDK 1.2.0 rev. 161212.zip",
+                  "https://dev.sitecore.net/~/media/9ED7BFA9BF584C6799379F04328BE66D.ashx"
+                ]
+              }
+            }
+          }
+        },
+
+        "1.1": {
+          "160817": {
+            "Update": "0",
+            "Label": "Initial Release",
+            "Date": "2016-08-17",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Data Exchange Framework 1.1.0 rev. 160817.zip",
+                  "https://dev.sitecore.net/~/media/5EECD90DF76B4337B712075ACB5D98CB.ashx#package.zip"
+                ]
+              },
+
+              "provider": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore Provider for Data Exchange Framework 1.1.0 rev. 160817.zip",
+                  "https://dev.sitecore.net/~/media/459EC41CA379450CBBBB8499EDC39D4A.ashx#package.zip"
+                ]
+              },
+
+              "hotfix": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore Provider for Data Exchange Framework 1.1.0 rev. 160817 HF 128342.zip",
+                  "https://dev.sitecore.net/~/media/8FD3C024F83B4EDAA92A80CDB094C481.ashx#package.zip"
+                ]
+              },
+
+              "sdk": {
+                "Downloads": [
+                  "filenames:\\\\Data Exchange Framework Remote SDK 1.1.0 rev. 160817.zip",
+                  "https://dev.sitecore.net/~/media/5D03C17209A448A484802C5AFDD50E7F.ashx"
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+    
+    "Dynamics CRM Security Provider": {
+      "Metadata": {
+        "Alias": "CRMSEC",
+        "DefaultPackage": "CRMSEC.CRMSecurityProvider"
+      },
+      
+      "Versions": {
+        "2.3": {
+          "170105": {
+            "Update": "0",
+            "Label": "Initial Release",
+            "Date": "2017-01-09",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Microsoft Dynamics CRM Security Provider 2.3.1 rev. 170106.zip",
+                  "https://dev.sitecore.net/~/media/1C6B98AB5400444BA42D607EC062EF9A.ashx#package.zip"
+                ]
+              }
+            }
+          }
+        },
+          
+        "2.2": {
+          "170105": {
+            "Update": "0",
+            "Label": "Initial Release",
+            "Date": "2017-01-09",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Microsoft Dynamics CRM Security Provider 2.2.2 rev. 170106.zip",
+                  "https://dev.sitecore.net/~/media/C6509F71718A4BCF8BEB427376352FCE.ashx#package.zip"
+                ]
+              }
+            }
+          }
+        },
+        
+        "2.1": {
+          "170105": {
+            "Update": "0",
+            "Label": "Initial Release",
+            "Date": "2017-01-09",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Microsoft Dynamics CRM Security Provider 2.1.1 rev. 170106.zip",
+                  "https://dev.sitecore.net/~/media/0D59F559BD8D47BDB60DC3804B0246B1.ashx#package.zip"
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+
+    "Dynamics CRM Provider for Data Exchange Framework": {
+      "Metadata": {
+        "Alias": "CRMDEF",
+        "DefaultPackage": "CRMDEF.Sitecore.Connect.Crm"
+      },
+
+      "Versions": {
+        "1.2": {
+          "161212": {
+            "Update": "0",
+            "Label": "Initial Release",
+            "Date": "2016-12-16",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Dynamics CRM Provider for Data Exchange Framework 1.2.0 rev. 161212.zip",
+                  "https://dev.sitecore.net/~/media/A02E54465E5047FE950D2300B8A58B35.ashx#package.zip"
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+
+    "Sitecore Media Framework": {
+      "Metadata": {
+        "Alias": "MEF",
+        "DefaultPackage": "MEF.Sitecore.MediaFramework"
+      },
+
+      "Versions": {
+        "2.2": {
+          "160927": {
+            "Update": "0",
+            "Label": "Initial Release",
+            "Date": "2016-09-27",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore Media Framework 2.2 rev. 160927.zip",
+                  "https://dev.sitecore.net/~/media/20D959305FF24F99918B09B8CEE41F95.ashx#package.zip"
+                ]
+              }
+            }
+          }
+        },
+
+        "2.1": {
+          "150625": {
+            "Update": "0",
+            "Label": "Initial Release",
+            "Date": "2015-06-25",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore Media Framework 21 rev 150625.zip",
+                  "https://dev.sitecore.net/~/media/75B8F06E4F0C4C2B811464BD47971FDB.ashx#package.zip"
+                ]
+              },
+
+              "brightcove": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore Media Framework Brightcove Edition 21 rev 150625.zip",
+                  "https://dev.sitecore.net/~/media/E4C67EA3DBD64D13A1004EFBC718C936.ashx#package.zip"
+                ]
+              },
+
+              "ooyala": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore Media Framework Ooyala Edition 21 rev 150625.zip",
+                  "https://dev.sitecore.net/~/media/8A8363C10DD7479197790E7BC4911083.ashx#package.zip"
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+
+    "Sitecore Publishing Service": {
+      "Metadata": {
+        "Alias": "SPS",
+        "DefaultPackage": "SPS.Sitecore.Publishing.Service"
+      },
+
+      "Versions": {
+        "1.8": {
+          "100000": {
+            "Update": "0",
+            "Label": "Initial Release",
+            "Date": "2016-01-01",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore Publishing Module 1.8.0.zip",
+                  "https://dev.sitecore.net/~/media/01AA6A56288A439C87C0A1F3C4E880C1.ashx#package.zip"
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+
+    "Sitecore IP Geolocation Service": {
+      "Metadata": {
+        "Alias": "IPGS",
+        "DefaultPackage": "IPGS.Sitecore.CES.GeoIp"
+      },
+
+      "Versions": {
+        "1.2": {
+          "161216": {
+            "Update": "0",
+            "Label": "Initial Release",
+            "Date": "2016-12-21",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore IP Geolocation Service Client 1.2 rev. 161216.zip",
+                  "https://sdn.sitecore.net/downloads/SitecoreIPGeolocationServiceClient12rev161216.download#package.zip",
+                  "file:///Sitecore IP Geolocation Service Client 1.2 rev. 161216.zip"
+                ]
+              }
+            }
+          }
+        },
+
+        "1.1": {
+          "161216": {
+            "Update": "0",
+            "Label": "Initial Release",
+            "Date": "2016-12-21",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore IP Geolocation Service Client 1.1 rev. 161216.zip",
+                  "https://sdn.sitecore.net/downloads/SitecoreIPGeolocationServiceClient11rev161216.download#package.zip",
+                  "file:///Sitecore IP Geolocation Service Client 1.1 rev. 161216.zip"
+                ]
+              }
+            }
+          }
+        },
+
+        "1.0": {
+          "161216": {
+            "Update": "0",
+            "Label": "Initial Release",
+            "Date": "2016-12-21",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore IP Geolocation Service Client 1.0 rev. 161216.zip",
+                  "https://sdn.sitecore.net/downloads/SitecoreIPGeolocationServiceClient10rev161216.download#package.zip",
+                  "file:///Sitecore IP Geolocation Service Client 1.0 rev. 161216.zip"
+                ]
+              }
+            }
+          }
+        },
+
+        "0.9": {
+          "150602": {
+            "Update": "0",
+            "Label": "Initial Release",
+            "Date": "2015-06-03",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore IP Geolocation Service Client 0.9 rev. 150602.zip",
+                  "https://sdn.sitecore.net/downloads/SitecoreIPGeolocationServiceClient09rev150602.download#package.zip",
+                  "file:///Sitecore IP Geolocation Service Client 0.9 rev. 150602.zip"
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+
+    "SharePoint Integration Framework": {
+      "Metadata": {
+        "Alias": "SPIF",
+        "DefaultPackage": "SPIF.Sitecore.Sharepoint.Common"
+      },
+
+      "Versions": {
+        "2.1": {
+          "150128": {
+            "Update": "0",
+            "Label": "Initial Release",
+            "Date": "2015-01-28",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\SharePoint Integration Framework 2.1 rev. 150128.zip",
+                  "https://sdn.sitecore.net/downloads/SharePoint%20Integration%20Framework%202.1%20rev.%20150128.zip.download#package.zip"
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+
+    "Sitecore Azure": {
+      "Metadata": {
+        "Alias": "SA",
+        "DefaultPackage": "SA.Sitecore.Azure"
+      },
+
+      "Versions": {
+        "8.1": {
+          "151119": {
+            "Update": "0",
+            "Label": "Initial Release",
+            "Date": "2015-11-15",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore Azure 8.1 rev. 151119.zip",
+                  "https://dev.sitecore.net/~/media/6E80BEE224B044CC8332CDEAFB644A9F.ashx#package.zip"
+                ]
+              }
+            }
+          }
+        },
+
+        "8.0": {
+          "150522": {
+            "Update": "0",
+            "Label": "Initial Release",
+            "Date": "2015-05-22",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore Azure 8.0 rev. 150522.zip",
+                  "https://dev.sitecore.net/~/media/0A937974247942D3942B98FACF15B009.ashx#package.zip"
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+
+    "Active Directory": {
+      "Metadata": {
+        "Alias": "AD",
+        "DefaultPackage": "AD.LightLDAP"
+      },
+
+      "Versions": {
+        "1.3": {
+          "161017": {
+            "Update": "0",
+            "Label": "Initial Release",
+            "Date": "2016-10-17",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore Active Directory component 1.3 rev. 161017.zip",
+                  "https://dev.sitecore.net/~/media/51ABD5676D4046D2B996869CDEC97DCF.ashx#package.zip"
+                ]
+              }
+            }
+          }
+        },
+
+        "1.2": {
+          "141225": {
+            "Update": "0",
+            "Label": "Initial Release",
+            "Date": "2014-12-26",
+            "Distributions": {
+              "default": {
+                "Downloads": [
+                  "filenames:\\\\Sitecore Active Directory component 1.2 rev. 141225.zip",
+                  "https://dev.sitecore.net/~/media/654C3AEBEB1F4BEDAE2C196387665E8B.ashx#package.zip"
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
