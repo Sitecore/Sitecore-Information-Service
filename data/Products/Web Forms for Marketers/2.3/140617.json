@@ -1,0 +1,13 @@
+{
+  "Label": "Update-5",
+  "Date": "2014-06-23",
+  "Update": "5",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://sdn.sitecore.net/downloads/WebFormsv6_23rev140617.download",
+        "Path": "Web Forms for Marketers 2.3 rev. 140617.zip",
+      },
+    },
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Label": "Initial Release",
+  "Date": "2015-11-15",
+  "Update": "0",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/6E80BEE224B044CC8332CDEAFB644A9F.ashx",
+        "Path": "Sitecore Azure 8.1 rev. 151119.zip/package.zip",
+      },
+    },
+  },
+  
+  "Compatibility": {
+    "Sitecore CMS": {
+      "8.1": []
+    },
+    
+    "Web Forms for Marketers": {
+      "8.1": [ 
+        "160523"
+      ],
+    },
+    
+    "Sitecore Campaign Creator": {
+      "1.0": []
+    },
+  }
+}

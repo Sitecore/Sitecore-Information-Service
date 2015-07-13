@@ -1,0 +1,19 @@
+{
+  "Label": "Initial Release",
+  "Date": "2015-01-30",
+  "Update": "0",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/03802BDFCF7D41A1A5136569CCB87CB0.ashx",
+        "Path": "Email Experience Manager 3.0 rev. 141215.zip/package.zip",
+      },
+    },
+  },
+  
+  "Compatibility": {
+    "Sitecore CMS": {
+      "8.0": []
+    },
+  }
+}

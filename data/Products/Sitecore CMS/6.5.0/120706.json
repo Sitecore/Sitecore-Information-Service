@@ -1,0 +1,20 @@
+{
+  "Label": "Service Pack-1",
+  "Date": "2012-07-19",
+  "Update": "5",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "http://sdn.sitecore.net/downloads/Sitecore650rev120706.download",
+        "Path": "Sitecore 6.5.0 rev. 120706.zip",
+      },
+    },
+    
+    "analytics": {
+      "Downloads": {
+        "Link": "http://sdn.sitecore.net/downloads/DMS201rev120706.download",
+        "Path": "DMS 2.0.1 rev. 120706.zip",
+      },
+    },
+  }
+}

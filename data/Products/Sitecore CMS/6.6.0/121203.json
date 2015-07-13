@@ -1,0 +1,20 @@
+{
+  "Label": "Update-2",
+  "Date": "2012-12-12",
+  "Update": "2",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "http://sdn.sitecore.net/downloads/Sitecore660rev121203.download",
+        "Path": "Sitecore 6.6.0 rev. 121203.zip",
+      },
+    },
+    
+    "analytics": {
+      "Downloads": {
+        "Link": "http://sdn.sitecore.net/downloads/DMS660rev121203.download",
+        "Path": "DMS 6.6.0 rev. 121203.zip",
+      },
+    },
+  }
+}

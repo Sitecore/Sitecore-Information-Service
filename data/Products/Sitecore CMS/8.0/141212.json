@@ -1,0 +1,20 @@
+{
+  "Label": "Initial Release",
+  "Date": "2014-12-19",
+  "Update": "0",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/64967D62FF0E49D180F8743D3CF054B9.ashx",
+        "Path": "Sitecore 8.0 rev. 141212.zip",
+      },
+    },
+    
+    "solr": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/4878C4F176314059A70D59E2CFC709D9.ashx",
+        "Path": "Sitecore.Solr.Support 1.0.0 rev. 141211.zip",
+      },
+    },
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Label": "Update-1",
+  "Date": "2014-12-17",
+  "Update": "1",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/Downloads/Sitecore_Experience_Platform/8_0/Sitecore_Experience_Platform_8_0/Secure/Web_Forms_for_Marketers__8,-d-,0_rev,-d-,_141217_NOT_SC_PACKAGE.ashx",
+        "Path": "Web Forms for Marketers  8.0 rev. 141217 NOT SC PACKAGE.zip/Web Forms for Marketers/Web Forms for Marketers 8.0 rev. 141217.zip/package.zip",
+      },
+    },
+    
+    "delivery": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/Downloads/Sitecore_Experience_Platform/8_0/Sitecore_Experience_Platform_8_0/Secure/Web_Forms_for_Marketers__8,-d-,0_rev,-d-,_141217_NOT_SC_PACKAGE.ashx",
+        "Path": "Web Forms for Marketers  8.0 rev. 141217 NOT SC PACKAGE.zip/Web Forms for Marketers/Web Forms for Marketers CD 8.0 rev. 141217.zip",
+      },
+    },
+  },
+  
+  "Compatibility": {
+    "Sitecore CMS": {
+      "8.0": [
+        "141212",
+        "150121"
+      ],
+    },
+  }
+}

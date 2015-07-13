@@ -1,0 +1,27 @@
+{
+  "Label": "Update-2",
+  "Date": "2013-09-23",
+  "Update": "2",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "http://sdn.sitecore.net/downloads/Sitecore70rev130918.download",
+        "Path": "Sitecore 7.0 rev. 130918.zip",
+      },
+    },
+    
+    "analytics": {
+      "Downloads": {
+        "Link": "http://sdn.sitecore.net/downloads/DMS70rev130918.download",
+        "Path": "DMS 7.0 rev. 130918.zip",
+      },
+    },
+    
+    "solr": {
+      "Downloads": {
+        "Link": "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev130918.download",
+        "Path": "Sitecore.Solr.Support 1.0.0 rev. 130918.zip",
+      },
+    },
+  }
+}
