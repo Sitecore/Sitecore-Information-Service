@@ -1,0 +1,40 @@
+﻿{
+  "Metadata": {
+    "Alias": "SPS",
+    "DefaultPackage": "SPS.Sitecore.Publishing.Service"
+  },
+
+  "Versions": {
+    "2.0": {
+      "170130": {
+        "Update": "0",
+        "Label": "Initial Release",
+        "Date": "2017-01-31",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore Publishing Module 2.0.0 rev. 170130.zip",
+              "https://dev.sitecore.net/~/media/0494A2E2F9624B0DA566153B050A0560.ashx#package.zip"
+            ]
+          }
+        }
+      }
+    },
+
+    "1.8": {
+      "100000": {
+        "Update": "0",
+        "Label": "Initial Release",
+        "Date": "2016-01-01",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore Publishing Module 1.8.0.zip",
+              "https://dev.sitecore.net/~/media/01AA6A56288A439C87C0A1F3C4E880C1.ashx#package.zip"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

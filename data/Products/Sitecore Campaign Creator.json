@@ -1,0 +1,24 @@
+﻿{
+  "Metadata": {
+    "Alias": "SCC",
+    "DefaultPackage": "SCC.Sitecore.Marketing.Campaigns.Client"
+  },
+
+  "Versions": {
+    "1.0": {
+      "150423": {
+        "Update": "0",
+        "Label": "Initial Release",
+        "Date": "2015-04-23",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore Campaign Manager 1.0 rev. 150423.zip",
+              "https://dev.sitecore.net/~/media/859387996A274C7FB82DBFCF3EAADA07.ashx#package.zip"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+﻿{
+  "Metadata": {
+    "Alias": "SXA81",
+    "DefaultPackage": "SXA81.Sitecore.XA.Foundation.Common"
+  },
+
+  "Versions": {
+    "1.2": {
+      "161216": {
+        "Update": "0",
+        "Label": "Initial Release",
+        "Date": "2016-12-20",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore Experience Accelerator 1.2 rev. 161216 for 8.1.zip",
+              "https://dev.sitecore.net/~/media/F6B8808F32274AC7BE661DFF4CEE96B2.ashx#package.zip"
+            ]
+          },
+        }
+      }
+    },
+
+    "1.1": {
+      "161004": {
+        "Update": "0",
+        "Label": "Initial Release",
+        "Date": "2016-10-04",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore Experience Accelerator 1.1 rev. 161004 for 8.1.zip",
+              "https://dev.sitecore.net/~/media/F94D898F17D74A25B1F51A3D33B1B07E.ashx#package.zip"
+            ]
+          },
+        }
+      }
+    }
+  }
+}

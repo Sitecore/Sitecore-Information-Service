@@ -1,0 +1,40 @@
+﻿{
+  "Metadata": {
+    "Alias": "AD",
+    "DefaultPackage": "AD.LightLDAP"
+  },
+
+  "Versions": {
+    "1.3": {
+      "161017": {
+        "Update": "0",
+        "Label": "Initial Release",
+        "Date": "2016-10-17",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore Active Directory component 1.3 rev. 161017.zip",
+              "https://dev.sitecore.net/~/media/51ABD5676D4046D2B996869CDEC97DCF.ashx#package.zip"
+            ]
+          }
+        }
+      }
+    },
+
+    "1.2": {
+      "141225": {
+        "Update": "0",
+        "Label": "Initial Release",
+        "Date": "2014-12-26",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore Active Directory component 1.2 rev. 141225.zip",
+              "https://dev.sitecore.net/~/media/654C3AEBEB1F4BEDAE2C196387665E8B.ashx#package.zip"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

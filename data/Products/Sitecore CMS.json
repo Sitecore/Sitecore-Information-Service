@@ -1,0 +1,1229 @@
+﻿{
+  "Metadata": {
+    "Alias": "SC",
+    "DefaultPackage": "SC.Sitecore.Kernel"
+  },
+
+  "Versions": {
+    "8.2": {
+      "161221": {
+        "Update": "2",
+        "Label": "Update-2",
+        "Date": "2016-12-30",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 8.2 rev. 161221.zip",
+              "https://dev.sitecore.net/~/media/02D2B5F95D1D4B1F894C2E3CA1194E45.ashx"
+            ]
+          }
+        }
+      },
+
+      "161115": {
+        "Update": "1",
+        "Label": "Update-1",
+        "Date": "2016-12-05",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 8.2 rev. 161115.zip",
+              "https://dev.sitecore.net/~/media/74823B2C88554885A61DD934435A86D0.ashx"
+            ]
+          }
+        }
+      },
+
+      "160729": {
+        "Update": "0",
+        "Label": "Initial Release",
+        "Date": "2016-08-31",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 8.2 rev. 160729.zip",
+              "https://dev.sitecore.net/~/media/EB50953E80EC46EFB11EB283050AC3D1.ashx"
+            ]
+          }
+        }
+      }
+    },
+
+    "8.1": {
+      "160519": {
+        "Update": "3",
+        "Label": "Update-3",
+        "Date": "2015-05-20",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 8.1 rev. 160519.zip",
+              "https://dev.sitecore.net/~/media/279BE4B1CEB64281A4F4E9E9D7BF68B0.ashx"
+            ]
+          },
+          "solr": {
+            "Downloads": [
+              "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 160504.zip",
+              "https://dev.sitecore.net/~/media/7CE11E1730444897A41D89D2333019E6.ashx"
+            ]
+          }
+        }
+      },
+
+      "160302": {
+        "Update": "2",
+        "Label": "Update-2",
+        "Date": "2015-03-04",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 8.1 rev. 160302.zip",
+              "https://dev.sitecore.net/~/media/4AD00668158F4960B7C76B0C7A1B6EED.ashx"
+            ]
+          },
+          "solr": {
+            "Downloads": [
+              "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 160211.zip",
+              "https://dev.sitecore.net/~/media/BC3C996A18054655A04FEEDA72117674.ashx"
+            ]
+          }
+        }
+      },
+
+      "151207": {
+        "Update": "1",
+        "Label": "Update-1",
+        "Date": "2015-12-08",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 8.1 rev. 151207.zip",
+              "https://dev.sitecore.net/~/media/607AA63EF66E45D0828023CD8E127D88.ashx"
+            ]
+          },
+          "solr": {
+            "Downloads": [
+              "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 150120.zip",
+              "https://dev.sitecore.net/~/media/7E4FE1FEC5EC4B8F91BB6576561399ED.ashx"
+            ]
+          }
+        }
+      },
+
+      "151003": {
+        "Update": "0",
+        "Label": "Initial Release",
+        "Date": "2015-10-21",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 8.1 rev. 151003.zip",
+              "https://dev.sitecore.net/~/media/1D20854D6B494EE58E12BE29D1D334F7.ashx",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 8.1\\Sitecore 8.1 rev.151003_RTM_release\\Sitecore 8.1 rev. 151003.zip"
+            ]
+          },
+          "solr": {
+            "Downloads": [
+              "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 151113.zip",
+              "https://dev.sitecore.net/~/media/4878C4F176314059A70D59E2CFC709D9.ashx",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 8.1\\Sitecore 8.1 rev.151003_RTM_release\\Sitecore.Solr.Support 1.0.0 rev. 150924.zip"
+            ]
+          }
+        }
+      }
+    },
+
+    "8.0": {
+      "160115": {
+        "Update": "7",
+        "Label": "Update-7",
+        "Date": "2016-01-19",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 8.0 rev. 160115.zip",
+              "https://dev.sitecore.net/~/media/56142CDD0AA94DE99B350DB5E909511D.ashx"
+            ]
+          },
+          "solr": {
+            "Downloads": [
+              "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 141211.zip",
+              "https://dev.sitecore.net/~/media/728AA70A94ED48318FF85FE447D81AA9.ashx"
+            ]
+          }
+        }
+      },
+
+      "151127": {
+        "Update": "6",
+        "Label": "Update-6",
+        "Date": "2015-11-27",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 8.0 rev. 151127.zip",
+              "https://dev.sitecore.net/~/media/F103FBC45091476AB0BF0253349D3E8B.ashx",
+              "\\\\mars\\QA\\8.0\\Updates\\Update-6\\Sitecore 8.0 rev. 151127\\Sitecore 8.0 rev. 151127.zip"
+            ]
+          },
+          "solr": {
+            "Downloads": [
+              "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 151113.zip",
+              "https://dev.sitecore.net/~/media/34A52ED42CE44A78BFC4F2CAE14A9234.ashx",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.151127(Update6)_released\\Sitecore.Solr.Support 1.0.0 rev. 151113.zip"
+            ]
+          }
+        }
+      },
+
+      "150812": {
+        "Update": "5",
+        "Label": "Update-5",
+        "Date": "2015-08-13",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 8.0 rev. 150812.zip",
+              "https://dev.sitecore.net/~/media/A0634595A39343E7BC0AA67A21EBCD8E.ashx",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.150812(Update5)_released\\Sitecore 8.0 rev. 150812.zip"
+            ]
+          },
+          "solr": {
+            "Downloads": [
+              "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 150812.zip",
+              "https://dev.sitecore.net/~/media/FFF017D91C7B4727BC745C79E3BABD56.ashx",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.150812(Update5)_released\\Sitecore.Solr.Support 1.0.0 rev. 150812.zip"
+            ]
+          }
+        }
+      },
+
+      "150621": {
+        "Update": "4",
+        "Label": "Update-4",
+        "Date": "2015-06-30",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 8.0 rev. 150621.zip",
+              "https://dev.sitecore.net/~/media/D353A1E481E844F1AA4A34B02F963B8D.ashx",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.150621(Update4)_released\\Sitecore 8.0 rev. 150621.zip"
+            ]
+          },
+          "solr": {
+            "Downloads": [
+              "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 150612.zip",
+              "https://dev.sitecore.net/~/media/3DF64DE4944C4C0DA583266FEC7EDDE4.ashx",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.150621(Update4)_released\\Sitecore.Solr.Support 1.0.0 rev. 150612.zip"
+            ]
+          }
+        }
+      },
+
+      "150427": {
+        "Update": "3",
+        "Label": "Update-3",
+        "Date": "2015-04-30",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 8.0 rev. 150427.zip",
+              "https://dev.sitecore.net/~/media/0BD034BC3D8548F990839E1F9E6AA6A8.ashx",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.150427(Update3)_released\\Sitecore 8.0 rev. 150427.zip"
+            ]
+          },
+          "solr": {
+            "Downloads": [
+              "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 150423.zip",
+              "https://dev.sitecore.net/~/media/42D03DB6E757458C918A5CA3362D9206.ashx",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.150427(Update3)_released\\Sitecore.Solr.Support 1.0.0 rev. 150423.zip"
+            ]
+          }
+        }
+      },
+
+      "150223": {
+        "Update": "2",
+        "Label": "Update-2",
+        "Date": "2015-02-27",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 8.0 rev.150223.zip",
+              "https://dev.sitecore.net/~/media/A0DAC3BA1B6A4116B90F6D1C9250B130.ashx",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.150223(Udpate2)_released\\Sitecore 8.0 rev. 150223.zip"
+            ]
+          },
+          "solr": {
+            "Downloads": [
+              "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 150220.zip",
+              "https://dev.sitecore.net/~/media/0D7A32AA497D488C9446665F8BFA86B8.ashx",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.150223(Udpate2)_released\\Sitecore.Solr.Support 1.0.0 rev. 150220.zip"
+            ]
+          }
+        }
+      },
+
+      "150121": {
+        "Update": "1",
+        "Label": "Update-1",
+        "Date": "2015-01-30",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 8.0 rev. 150121.zip",
+              "https://dev.sitecore.net/~/media/92A0A78FB96548B1874F1B61A395858A.ashx",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.150121(Update1)_released\\Sitecore 8.0 rev. 150121.zip"
+            ]
+          },
+          "solr": {
+            "Downloads": [
+              "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 150120.zip",
+              "https://dev.sitecore.net/~/media/7E4FE1FEC5EC4B8F91BB6576561399ED.ashx",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.150121(Update1)_released\\Sitecore.Solr.Support 1.0.0 rev. 150120.zip"
+            ]
+          }
+        }
+      },
+
+      "141212": {
+        "Update": "0",
+        "Label": "Initial Release",
+        "Date": "2014-12-19",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 8.0 rev. 141212.zip",
+              "https://dev.sitecore.net/~/media/64967D62FF0E49D180F8743D3CF054B9.ashx",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.141212_RTM_release\\Sitecore 8.0 rev. 141212.zip"
+            ]
+          },
+          "solr": {
+            "Downloads": [
+              "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 141211.zip",
+              "https://dev.sitecore.net/~/media/4878C4F176314059A70D59E2CFC709D9.ashx",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.141212_RTM_release\\Sitecore.Solr.Support 1.0.0 rev. 141211.zip"
+            ]
+          }
+        }
+      }
+    },
+
+    "7.5": {
+      "150212": {
+        "Update": "2",
+        "Label": "Update-2",
+        "Date": "2015-02-13",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 7.5 rev. 150212.zip",
+              "http://sdn.sitecore.net/downloads/Sitecore75rev150212.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.5\\Sitecore 7.5 rev. 150212(Update-2)_released\\Sitecore 7.5 rev. 150212.zip"
+            ]
+          },
+          "solr": {
+            "Downloads": [
+              "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 150116.zip",
+              "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev150116.download"
+            ]
+          }
+        }
+      },
+
+      "150130": {
+        "Update": "1",
+        "Label": "Update-1",
+        "Date": "2015-02-05",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 7.5 rev. 150130.zip",
+              "http://sdn.sitecore.net/downloads/Sitecore75rev150130.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.5\\Sitecore 7.5 rev. 150130(Update-1)_released\\Sitecore 7.5 rev. 150130.zip"
+            ]
+          },
+          "solr": {
+            "Downloads": [
+              "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 150116.zip",
+              "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev150116.download"
+            ]
+          }
+        }
+      },
+
+      "141003": {
+        "Update": "0",
+        "Label": "Initial Release",
+        "Date": "2014-10-14",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 7.5 rev. 141003.zip",
+              "https://sdn.sitecore.net/downloads/Sitecore75re141003.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.5\\Sitecore 7.5 rev. 141003_ RTM_release\\Sitecore 7.5 rev. 141003.zip"
+            ]
+          },
+          "solr": {
+            "Downloads": [
+              "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 141001.zip",
+              "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev141001.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.5\\Sitecore 7.5 rev. 141003_ RTM_release\\components\\Sitecore.Solr.Support 1.0.0 rev. 141001.zip"
+            ]
+          }
+        }
+      }
+    },
+
+    "7.2": {
+      "160123": {
+        "Update": "6",
+        "Label": "Update-6",
+        "Date": "2016-01-26",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 7.2 rev. 160123.zip",
+              "https://sdn.sitecore.net/downloads/Sitecore72rev160123.download"
+            ]
+          },
+          "analytics": {
+            "Downloads": [
+              "filenames:\\\\DMS 7.2 rev. 160123.zip",
+              "https://sdn.sitecore.net/downloads/DMS72rev160123.download"
+            ]
+          },
+          "solr": {
+            "Downloads": [
+              "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 160122.zip",
+              "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev160122.download"
+            ]
+          }
+        }
+      },
+
+      "151021": {
+        "Update": "5",
+        "Label": "Update-5",
+        "Date": "2015-10-23",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 7.2 rev. 151021.zip",
+              "https://sdn.sitecore.net/downloads/Sitecore72rev151021.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 151021(Update-5)_released\\Sitecore 7.2 rev. 151021.zip"
+            ]
+          },
+          "analytics": {
+            "Downloads": [
+              "filenames:\\\\DMS 7.2 rev. 151021.zip",
+              "https://sdn.sitecore.net/downloads/DMS72rev151021.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 151021(Update-5)_released\\DMS 7.2 rev. 151021.zip"
+            ]
+          },
+          "solr": {
+            "Downloads": [
+              "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 151020.zip",
+              "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev151020.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 151021(Update-5)_released\\Sitecore.Solr.Support 1.0.0 rev. 151020.zip"
+            ]
+          }
+        }
+      },
+
+      "150408": {
+        "Update": "4",
+        "Label": "Update-4",
+        "Date": "2015-04-09",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 7.2 rev. 150408.zip",
+              "http://sdn.sitecore.net/downloads/Sitecore72rev150408.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 150408(Update-4)_released\\Sitecore 7.2 rev. 150408.zip"
+            ]
+          },
+          "analytics": {
+            "Downloads": [
+              "filenames:\\\\DMS 7.2 rev. 150408.zip",
+              "http://sdn.sitecore.net/downloads/DMS72rev150408.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 150408(Update-4)_released\\DMS 7.2 rev. 150408.zip"
+            ]
+          },
+          "solr": {
+            "Downloads": [
+              "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 150407.zip",
+              "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev150407.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 150408(Update-4)_released\\components\\Sitecore.Solr.Support 1.0.0 rev. 150407.zip"
+            ]
+          }
+        }
+      },
+
+      "141226": {
+        "Update": "3",
+        "Label": "Service Pack-1",
+        "Date": "2015-01-08",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 7.2 rev. 141226.zip",
+              "http://sdn.sitecore.net/downloads/Sitecore72rev141226.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 141226(Update-3)_released\\Sitecore 7.2 rev. 141226.zip"
+            ]
+          },
+          "analytics": {
+            "Downloads": [
+              "filenames:\\\\DMS 7.2 rev. 141226.zip",
+              "http://sdn.sitecore.net/downloads/DMS72rev141226.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 141226(Update-3)_released\\DMS 7.2 rev. 141226.zip"
+            ]
+          },
+          "solr": {
+            "Downloads": [
+              "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 141215.zip",
+              "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev141215.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 141226(Update-3)_released\\components\\Sitecore.Solr.Support 1.0.0 rev. 141215.zip"
+            ]
+          }
+        }
+      },
+
+      "140526": {
+        "Update": "2",
+        "Label": "Update-2",
+        "Date": "2014-05-30",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 7.2 rev. 140526.zip",
+              "http://sdn.sitecore.net/downloads/Sitecore72rev140526.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 140526(Update-2)_released\\Sitecore 7.2 rev. 140526.zip"
+            ]
+          },
+          "analytics": {
+            "Downloads": [
+              "filenames:\\\\DMS 7.2 rev. 140526.zip",
+              "http://sdn.sitecore.net/downloads/DMS72rev140526.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 140526(Update-2)_released\\DMS 7.2 rev. 140526.zip"
+            ]
+          },
+          "solr": {
+            "Downloads": [
+              "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 140526.zip",
+              "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev140526.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 140526(Update-2)_released\\components\\Sitecore.Solr.Support 1.0.0 rev. 140526.zip"
+            ]
+          }
+        }
+      },
+
+      "140314": {
+        "Update": "1",
+        "Label": "Update-1",
+        "Date": "2014-03-18",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 7.2 rev. 140314.zip",
+              "http://sdn.sitecore.net/downloads/Sitecore72rev140314.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 140314(Update-1)_released\\Sitecore 7.2 rev. 140314.zip"
+            ]
+          },
+          "analytics": {
+            "Downloads": [
+              "filenames:\\\\DMS 7.2 rev. 140314.zip",
+              "http://sdn.sitecore.net/downloads/DMS72rev140314.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 140314(Update-1)_released\\DMS 7.2 rev. 140314.zip"
+            ]
+          },
+          "solr": {
+            "Downloads": [
+              "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 140313.zip",
+              "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev140313.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 140314(Update-1)_released\\components\\Sitecore.Solr.Support 1.0.0 rev. 140313.zip"
+            ]
+          }
+        }
+      },
+
+      "140228": {
+        "Update": "0",
+        "Label": "Initial Release",
+        "Date": "2014-03-11",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 7.2 rev. 140228.zip",
+              "http://sdn.sitecore.net/downloads/Sitecore72rev140228.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 140228_RTM_release\\Sitecore 7.2 rev. 140228.zip"
+            ]
+          },
+          "analytics": {
+            "Downloads": [
+              "filenames:\\\\DMS 7.2 rev. 140228.zip",
+              "http://sdn.sitecore.net/downloads/DMS72rev140228.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 140228_RTM_release\\DMS 7.2 rev. 140228.zip"
+            ]
+          },
+          "solr": {
+            "Downloads": [
+              "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 140226.zip",
+              "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev140226.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 140228_RTM_release\\components\\Sitecore.Solr.Support 1.0.0 rev. 140226.zip"
+            ]
+          }
+        }
+      }
+    },
+
+    "7.1": {
+      "140905": {
+        "Update": "3",
+        "Label": "Update-3",
+        "Date": "2014-09-17",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 7.1 rev. 140905.zip",
+              "http://sdn.sitecore.net/downloads/Sitecore71rev140905.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.1\\Sitecore 7.1 rev. 140905_released\\Sitecore 7.1 rev. 140905.zip"
+            ]
+          },
+          "analytics": {
+            "Downloads": [
+              "filenames:\\\\DMS 7.1 rev. 140905.zip",
+              "http://sdn.sitecore.net/downloads/DMS71rev140905.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.1\\Sitecore 7.1 rev. 140905_released\\DMS 7.1 rev. 140905.zip"
+            ]
+          },
+          "solr": {
+            "Downloads": [
+              "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 140828.zip",
+              "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev140828.download"
+            ]
+          }
+        }
+      },
+
+      "140324": {
+        "Update": "2",
+        "Label": "Update-2",
+        "Date": "2014-03-27",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 7.1 rev. 140324.zip",
+              "http://sdn.sitecore.net/downloads/Sitecore71rev140324.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.1\\Sitecore 7.1 rev. 140324_released\\Sitecore 7.1 rev. 140324.zip"
+            ]
+          },
+          "analytics": {
+            "Downloads": [
+              "filenames:\\\\DMS 7.1 rev. 140324.zip",
+              "http://sdn.sitecore.net/downloads/DMS71rev140324.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.1\\Sitecore 7.1 rev. 140324_released\\DMS 7.1 rev. 140324.zip"
+            ]
+          },
+          "solr": {
+            "Downloads": [
+              "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 140324.zip",
+              "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev140324.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.1\\Sitecore 7.1 rev. 140324_released\\components\\Sitecore.Solr.Support 1.0.0 rev. 140324.zip"
+            ]
+          }
+        }
+      },
+
+      "140130": {
+        "Update": "1",
+        "Label": "Update-1",
+        "Date": "2014-01-31",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 7.1 rev. 140130.zip",
+              "http://sdn.sitecore.net/downloads/Sitecore71rev140130.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.1\\Sitecore 7.1 rev. 140130_released\\Sitecore 7.1 rev. 140130.zip"
+            ]
+          },
+          "analytics": {
+            "Downloads": [
+              "filenames:\\\\DMS 7.1 rev. 140130.zip",
+              "http://sdn.sitecore.net/downloads/DMS71rev140130.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.1\\Sitecore 7.1 rev. 140130_released\\DMS 7.1 rev. 140130.zip"
+            ]
+          },
+          "solr": {
+            "Downloads": [
+              "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 140130.zip",
+              "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev140130.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.1\\Sitecore 7.1 rev. 140130_released\\components\\Sitecore.Solr.Support 1.0.0 rev. 140130.zip"
+            ]
+          }
+        }
+      },
+
+      "130926": {
+        "Update": "0",
+        "Label": "Initial Release",
+        "Date": "2013-11-27",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 7.1 rev. 130926.zip",
+              "http://sdn.sitecore.net/downloads/Sitecore71rev130926.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.1\\Sitecore 7.1 rev. 130926_ RTM_release\\Sitecore 7.1 rev. 130926.zip"
+            ]
+          },
+          "analytics": {
+            "Downloads": [
+              "filenames:\\\\DMS 7.1 rev. 130926.zip",
+              "http://sdn.sitecore.net/downloads/DMS71rev130926.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.1\\Sitecore 7.1 rev. 130926_ RTM_release\\DMS 7.1 rev. 130926.zip"
+            ]
+          },
+          "solr": {
+            "Downloads": [
+              "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 130924.zip",
+              "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev130924.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.1\\Sitecore 7.1 rev. 130926_ RTM_release\\components\\Sitecore.Solr.Support 1.0.0 rev. 130924.zip"
+            ]
+          }
+        }
+      }
+    },
+
+    "7.0": {
+      "140408": {
+        "Update": "5",
+        "Label": "Service Pack-1",
+        "Date": "2014-04-10",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 7.0 rev. 140408.zip",
+              "http://sdn.sitecore.net/downloads/Sitecore70rev140408.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 140408_released\\Sitecore 7.0 rev. 140408.zip"
+            ]
+          },
+          "analytics": {
+            "Downloads": [
+              "filenames:\\\\DMS 7.0 rev. 140408.zip",
+              "http://sdn.sitecore.net/downloads/DMS70rev140408.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 140408_released\\DMS 7.0 rev. 140408.zip"
+            ]
+          },
+          "solr": {
+            "Downloads": [
+              "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 140108.zip",
+              "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev140408.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 140408_released\\components\\Sitecore.Solr.Support 1.0.0 rev. 140108.zip"
+            ]
+          }
+        }
+      },
+
+      "140120": {
+        "Update": "4",
+        "Label": "Update-4",
+        "Date": "2014-01-22",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 7.0 rev. 140120.zip",
+              "http://sdn.sitecore.net/downloads/Sitecore70rev140120.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 140120_released\\Sitecore 7.0 rev. 140120.zip"
+            ]
+          },
+          "analytics": {
+            "Downloads": [
+              "filenames:\\\\DMS 7.0 rev. 140120.zip",
+              "http://sdn.sitecore.net/downloads/DMS70rev140120.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 140120_released\\DMS 7.0 rev. 140120.zip"
+            ]
+          },
+          "solr": {
+            "Downloads": [
+              "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 140108.zip",
+              "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev140108.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 140120_released\\components\\Sitecore.Solr.Support 1.0.0 rev. 140108.zip"
+            ]
+          }
+        }
+      },
+
+      "131127": {
+        "Update": "3",
+        "Label": "Update-3",
+        "Date": "2013-12-03",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 7.0 rev. 131127.zip",
+              "http://sdn.sitecore.net/downloads/Sitecore70rev131127.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 131127 (Update-3)_released\\Sitecore 7.0 rev. 131127.zip"
+            ]
+          },
+          "analytics": {
+            "Downloads": [
+              "filenames:\\\\DMS 7.0 rev. 131127.zip",
+              "http://sdn.sitecore.net/downloads/DMS70rev131127.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 131127 (Update-3)_released\\DMS 7.0 rev. 131127.zip"
+            ]
+          },
+          "solr": {
+            "Downloads": [
+              "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 131127.zip",
+              "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev131127.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 131127 (Update-3)_released\\components\\Sitecore.Solr.Support 1.0.0 rev. 131127.zip"
+            ]
+          }
+        }
+      },
+
+      "130918": {
+        "Update": "2",
+        "Label": "Update-2",
+        "Date": "2013-09-23",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 7.0 rev. 130918.zip",
+              "http://sdn.sitecore.net/downloads/Sitecore70rev130918.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 130918(Update-2)_released\\Sitecore 7.0 rev. 130918.zip"
+            ]
+          },
+          "analytics": {
+            "Downloads": [
+              "filenames:\\\\DMS 7.0 rev. 130918.zip",
+              "http://sdn.sitecore.net/downloads/DMS70rev130918.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 130918(Update-2)_released\\DMS 7.0 rev. 130918.zip"
+            ]
+          },
+          "solr": {
+            "Downloads": [
+              "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 130918.zip",
+              "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev130918.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 130918(Update-2)_released\\components\\Sitecore.Solr.Support 1.0.0 rev. 130918.zip"
+            ]
+          }
+        }
+      },
+
+      "130810": {
+        "Update": "1",
+        "Label": "Update-1",
+        "Date": "2013-08-13",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 7.0 rev. 130810.zip",
+              "http://sdn.sitecore.net/downloads/Sitecore70rev130810.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 130810_released\\Sitecore 7.0 rev. 130810.zip"
+            ]
+          },
+          "analytics": {
+            "Downloads": [
+              "filenames:\\\\DMS 7.0 rev. 130810.zip",
+              "http://sdn.sitecore.net/downloads/DMS70rev130810.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 130810_released\\DMS 7.0 rev. 130810.zip"
+            ]
+          },
+          "solr": {
+            "Downloads": [
+              "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 130808.zip",
+              "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev130808.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 130810_released\\components\\Sitecore.Solr.Support 1.0.0 rev. 130808.zip"
+            ]
+          }
+        }
+      },
+
+      "130424": {
+        "Update": "0",
+        "Label": "Initial Release",
+        "Date": "2013-05-21",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 7.0 rev. 130424.zip",
+              "http://sdn.sitecore.net/downloads/Sitecore70rev130424.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 130424_RTM_released\\Sitecore 7.0 rev. 130424.zip"
+            ]
+          },
+          "analytics": {
+            "Downloads": [
+              "filenames:\\\\DMS 7.0 rev. 130424.zip",
+              "http://sdn.sitecore.net/downloads/DMS70rev130424.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 130424_RTM_released\\DMS 7.0 rev. 130424.zip"
+            ]
+          },
+          "solr": {
+            "Downloads": [
+              "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 130424.zip",
+              "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev130424.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 130424_RTM_released\\components\\Sitecore.Solr.Support 1.0.0 rev. 130424.zip"
+            ]
+          }
+        }
+      }
+    },
+
+    "6.6.0": {
+      "140410": {
+        "Update": "8",
+        "Label": "Service Pack-2",
+        "Date": "2014-04-11",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 6.6.0 rev. 140410.zip",
+              "http://sdn.sitecore.net/downloads/Sitecore660rev140410.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.140410 (Update-8)\\Sitecore 6.6.0 rev. 140410.zip"
+            ]
+          },
+          "analytics": {
+            "Downloads": [
+              "filenames:\\\\DMS 6.6.0 rev. 140410.zip",
+              "http://sdn.sitecore.net/downloads/DMS660rev140410.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.140410 (Update-8)\\DMS 6.6.0 rev. 140410.zip"
+            ]
+          }
+        }
+      },
+
+      "131211": {
+        "Update": "7",
+        "Label": "Update-7",
+        "Date": "2013-12-13",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 6.6.0 rev. 131211.zip",
+              "http://sdn.sitecore.net/downloads/Sitecore660rev131211.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.131211 (Update-7)\\Sitecore 6.6.0 rev. 131211.zip"
+            ]
+          },
+          "analytics": {
+            "Downloads": [
+              "filenames:\\\\DMS 6.6.0 rev. 131211.zip",
+              "http://sdn.sitecore.net/downloads/DMS660rev131211.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.131211 (Update-7)\\DMS 6.6.0 rev. 131211.zip"
+            ]
+          }
+        }
+      },
+
+      "130529": {
+        "Update": "6",
+        "Label": "Service Pack-1",
+        "Date": "2013-06-06",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 6.6.0 rev. 130529.zip",
+              "http://sdn.sitecore.net/downloads/Sitecore660rev130529.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.130529 (Update-6)\\Sitecore 6.6.0 rev. 130529.zip"
+            ]
+          },
+          "analytics": {
+            "Downloads": [
+              "filenames:\\\\DMS 6.6.0 rev. 130529.zip",
+              "http://sdn.sitecore.net/downloads/DMS660rev130529.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.130529 (Update-6)\\DMS 6.6.0 rev. 130529.zip"
+            ]
+          }
+        }
+      },
+
+      "130404": {
+        "Update": "5",
+        "Label": "Update-5",
+        "Date": "2013-04-17",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 6.6.0 rev. 130404.zip",
+              "http://sdn.sitecore.net/downloads/Sitecore660rev130404.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.130404 (Update-5)\\Sitecore 6.6.0 rev. 130404.zip"
+            ]
+          },
+          "analytics": {
+            "Downloads": [
+              "filenames:\\\\DMS 6.6.0 rev. 130404.zip",
+              "http://sdn.sitecore.net/downloads/DMS660rev130404.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.130404 (Update-5)\\DMS 6.6.0 rev. 130404.zip"
+            ]
+          }
+        }
+      },
+
+      "130214": {
+        "Update": "4",
+        "Label": "Update-4",
+        "Date": "2013-02-27",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 6.6.0 rev. 130214.zip",
+              "http://sdn.sitecore.net/downloads/Sitecore660rev130214.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.130214 (Update-4)\\Sitecore 6.6.0 rev. 130214.zip"
+            ]
+          },
+          "analytics": {
+            "Downloads": [
+              "filenames:\\\\DMS 6.6.0 rev. 130214.zip",
+              "http://sdn.sitecore.net/downloads/DMS660rev130214.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.130214 (Update-4)\\DMS 6.6.0 rev. 130214.zip"
+            ]
+          }
+        }
+      },
+
+      "130111": {
+        "Update": "3",
+        "Label": "Update-3",
+        "Date": "2013-01-16",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 6.6.0 rev. 130111.zip",
+              "http://sdn.sitecore.net/downloads/Sitecore660rev130111.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.130111 (Update-3)\\Sitecore 6.6.0 rev. 130111.zip"
+            ]
+          },
+          "analytics": {
+            "Downloads": [
+              "filenames:\\\\DMS 6.6.0 rev. 130111.zip",
+              "http://sdn.sitecore.net/downloads/DMS660rev130111.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.130111 (Update-3)\\DMS 6.6.0 rev. 130111.zip"
+            ]
+          }
+        }
+      },
+
+      "121203": {
+        "Update": "2",
+        "Label": "Update-2",
+        "Date": "2012-12-12",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 6.6.0 rev. 121203.zip",
+              "http://sdn.sitecore.net/downloads/Sitecore660rev121203.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.121203 (Update-2)\\Sitecore 6.6.0 rev. 121203.zip"
+            ]
+          },
+          "analytics": {
+            "Downloads": [
+              "filenames:\\\\DMS 6.6.0 rev. 121203.zip",
+              "http://sdn.sitecore.net/downloads/DMS660rev121203.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.121203 (Update-2)\\DMS 6.6.0 rev. 121203.zip"
+            ]
+          }
+        }
+      },
+
+      "121015": {
+        "Update": "1",
+        "Label": "Update-1",
+        "Date": "2012-11-12",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 6.6.0 rev. 121015.zip",
+              "http://sdn.sitecore.net/downloads/Sitecore660rev121015.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.121015 (Update-1)\\Sitecore 6.6.0 rev. 121015.zip"
+            ]
+          },
+          "analytics": {
+            "Downloads": [
+              "filenames:\\\\DMS 6.6.0 rev. 121015.zip",
+              "http://sdn.sitecore.net/downloads/DMS660rev121015.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.121015 (Update-1)\\DMS 6.6.0 rev. 121015.zip"
+            ]
+          }
+        }
+      },
+
+      "120918": {
+        "Update": "0",
+        "Label": "Initial Release",
+        "Date": "2012-11-05",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 6.6.0 rev. 120918.zip",
+              "http://sdn.sitecore.net/downloads/Sitecore660rev120918.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev. 120918_RTM_release\\Sitecore 6.6.0 rev. 120918.zip"
+            ]
+          },
+          "analytics": {
+            "Downloads": [
+              "filenames:\\\\DMS 6.6.0 rev. 120918.zip",
+              "http://sdn.sitecore.net/downloads/DMS660rev120918.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev. 120918_RTM_release\\DMS 6.6.0 rev. 120918.zip"
+            ]
+          }
+        }
+      }
+    },
+
+    "6.5.0": {
+      "121009": {
+        "Update": "6",
+        "Label": "Service Pack-2",
+        "Date": "2012-10-18",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 6.5.0 rev. 121009.zip",
+              "http://sdn.sitecore.net/downloads/Sitecore650rev121009.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 6.5.0\\Sitecore 6.5.0 rev.121009 (Update-6)\\Sitecore 6.5.0 rev. 121009.zip"
+            ]
+          },
+          "analytics": {
+            "Downloads": [
+              "filenames:\\\\DMS 2.0.1 rev. 121009.zip",
+              "http://sdn.sitecore.net/downloads/DMS650rev121009.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 6.5.0\\Sitecore 6.5.0 rev.121009 (Update-6)\\DMS 6.5.0 rev. 121009.zip"
+            ]
+          }
+        }
+      },
+
+      "120706": {
+        "Update": "5",
+        "Label": "Service Pack-1",
+        "Date": "2012-07-19",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 6.5.0 rev. 120706.zip",
+              "http://sdn.sitecore.net/downloads/Sitecore650rev120706.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 6.5.0\\Sitecore 6.5.0 rev.120706 (Update-5)\\Sitecore 6.5.0 rev. 120706.zip"
+            ]
+          },
+          "analytics": {
+            "Downloads": [
+              "filenames:\\\\DMS 2.0.1 rev. 120706.zip",
+              "http://sdn.sitecore.net/downloads/DMS201rev120706.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 6.5.0\\Sitecore 6.5.0 rev.120706 (Update-5)\\DMS 6.5.0 rev. 120706.zip"
+            ]
+          }
+        }
+      },
+
+      "120427": {
+        "Update": "4",
+        "Label": "Update-4",
+        "Date": "2012-05-08",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 6.5.0 rev. 120427.zip",
+              "http://sdn.sitecore.net/downloads/Sitecore650rev120427.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 6.5.0\\Sitecore 6.5.0 rev.120427 (Update-4)\\Sitecore 6.5.0 rev. 120427.zip"
+            ]
+          },
+          "analytics": {
+            "Downloads": [
+              "filenames:\\\\DMS 2.0.1 rev. 120427.zip",
+              "http://sdn.sitecore.net/downloads/DMS201rev120427.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 6.5.0\\Sitecore 6.5.0 rev.120427 (Update-4)\\DMS 6.5.0 rev. 120427.zip"
+            ]
+          }
+        }
+      },
+
+      "111230": {
+        "Update": "3",
+        "Label": "Update-3",
+        "Date": "2012-01-04",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 6.5.0 rev. 111230.zip",
+              "http://sdn.sitecore.net/downloads/Sitecore650rev111230.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 6.5.0\\Sitecore 6.5.0 rev.111230 (Update-3)\\Sitecore 6.5.0 rev. 111230.zip"
+            ]
+          },
+          "analytics": {
+            "Downloads": [
+              "filenames:\\\\DMS 2.0.0 rev. 111230.zip",
+              "http://sdn.sitecore.net/downloads/DMS200rev111230.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 6.5.0\\Sitecore 6.5.0 rev.111230 (Update-3)\\DMS 6.5.0 rev. 111230.zip"
+            ]
+          }
+        }
+      },
+
+      "111123": {
+        "Update": "2",
+        "Label": "Update-2",
+        "Date": "2011-11-30",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 6.5.0 rev. 111123.zip",
+              "http://sdn.sitecore.net/downloads/Sitecore650rev111123.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 6.5.0\\Sitecore 6.5.0 rev.111123 (Update-2)\\Sitecore 6.5.0 rev. 111123.zip"
+            ]
+          },
+          "analytics": {
+            "Downloads": [
+              "filenames:\\\\DMS 2.0.0 rev. 111123.zip",
+              "http://sdn.sitecore.net/downloads/DMS200rev111123.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 6.5.0\\Sitecore 6.5.0 rev.111123 (Update-2)\\DMS 6.5.0 rev. 111123.zip"
+            ]
+          }
+        }
+      },
+
+      "110818": {
+        "Update": "1",
+        "Label": "Update-1",
+        "Date": "2011-08-25",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 6.5.0 rev. 110818.zip",
+              "http://sdn.sitecore.net/downloads/Sitecore650rev110818.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 6.5.0\\Sitecore 6.5.0 rev.110818 (Update -1)\\Sitecore 6.5.0 rev. 110818.zip"
+            ]
+          },
+          "analytics": {
+            "Downloads": [
+              "filenames:\\\\DMS 2.0.0 rev. 110818.zip",
+              "http://sdn.sitecore.net/downloads/DMS200rev110818.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 6.5.0\\Sitecore 6.5.0 rev.110818 (Update -1)\\DMS 6.5.0 rev. 110818.zip"
+            ]
+          }
+        }
+      },
+
+      "110602": {
+        "Update": "0",
+        "Label": "Initial Release",
+        "Date": "2011-06-08",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 6.5.0 rev. 110602.zip",
+              "http://sdn.sitecore.net/downloads/Sitecore650rev110602.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 6.5.0\\Sitecore 6.5.0 rev. 110602\\Sitecore 6.5.0 rev. 110602.zip"
+            ]
+          },
+          "analytics": {
+            "Downloads": [
+              "filenames:\\\\DMS 2.0.0 rev. 110602.zip",
+              "http://sdn.sitecore.net/downloads/DMS200rev110602.download",
+              "\\\\mars\\Installs\\Sitecore\\Sitecore 6.5.0\\Sitecore 6.5.0 rev. 110602\\DMS 6.5.0 rev. 110602.zip"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

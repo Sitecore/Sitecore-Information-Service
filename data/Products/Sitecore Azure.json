@@ -1,0 +1,40 @@
+﻿{
+  "Metadata": {
+    "Alias": "SA",
+    "DefaultPackage": "SA.Sitecore.Azure"
+  },
+
+  "Versions": {
+    "8.1": {
+      "151119": {
+        "Update": "0",
+        "Label": "Initial Release",
+        "Date": "2015-11-15",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore Azure 8.1 rev. 151119.zip",
+              "https://dev.sitecore.net/~/media/6E80BEE224B044CC8332CDEAFB644A9F.ashx#package.zip"
+            ]
+          }
+        }
+      }
+    },
+
+    "8.0": {
+      "150522": {
+        "Update": "0",
+        "Label": "Initial Release",
+        "Date": "2015-05-22",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore Azure 8.0 rev. 150522.zip",
+              "https://dev.sitecore.net/~/media/0A937974247942D3942B98FACF15B009.ashx#package.zip"
+            ]
+          }
+        }
+      }
+    }
+  }
+}
