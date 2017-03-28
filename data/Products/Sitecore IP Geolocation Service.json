@@ -35,6 +35,210 @@
           }
         }
       }
+    },
+    
+    "1.2": {
+      "161216": {
+        "Update": "3",
+        "Label": "Update-3",
+        "Date": "2016-12-20",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore IP Geolocation Service Client 1.2 rev. 161216.zip",
+              "https://sdn.sitecore.net/downloads/SitecoreIPGeolocationServiceClient12rev161216.download#package.zip"
+            ]
+          }
+        }
+      },
+      
+      "150602": {
+        "Update": "2",
+        "Label": "Update-2",
+        "Date": "2015-06-03",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore IP Geolocation Service Client 1.2 rev. 150602.zip",
+              "https://sdn.sitecore.net/downloads/SitecoreIPGeolocationServiceClient12rev150602.download#package.zip"
+            ]
+          }
+        }
+      },
+      
+      "150528": {
+        "Update": "1",
+        "Label": "Update-1",
+        "Date": "2015-05-29",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore IP Geolocation Service Client 1.2 rev. 150528.zip",
+              "https://sdn.sitecore.net/downloads/SitecoreIPGeolocationServiceClient12rev150528.download#package.zip"
+            ]
+          }
+        }
+      },
+      
+      "150429 ": {
+        "Update": "0",
+        "Label": "Initial Release",
+        "Date": "2015-05-04",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore IP Geolocation Service Client 1.2 rev. 150429.zip",
+              "https://sdn.sitecore.net/downloads/SitecoreIPGeolocationServiceClient12rev150429.download#package.zip"
+            ]
+          }
+        }
+      }
+    },
+    
+    "1.1": {
+      "161216": {
+        "Update": "3",
+        "Label": "Update-3",
+        "Date": "2016-12-20",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore IP Geolocation Service Client 1.1 rev. 161216.zip",
+              "https://sdn.sitecore.net/downloads/SitecoreIPGeolocationServiceClient11rev161216.download#package.zip"
+            ]
+          }
+        }
+      },
+      
+      "150602": {
+        "Update": "2",
+        "Label": "Update-2",
+        "Date": "2015-06-03",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore IP Geolocation Service Client 1.1 rev. 150602.zip",
+              "https://sdn.sitecore.net/downloads/SitecoreIPGeolocationServiceClient11rev150602.download#package.zip"
+            ]
+          }
+        }
+      },
+      
+      "150528": {
+        "Update": "1",
+        "Label": "Update-1",
+        "Date": "2015-05-29",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore IP Geolocation Service Client 1.1 rev. 150528.zip",
+              "https://sdn.sitecore.net/downloads/SitecoreIPGeolocationServiceClient11rev150528.download#package.zip"
+            ]
+          }
+        }
+      },
+      
+      "150429 ": {
+        "Update": "0",
+        "Label": "Initial Release",
+        "Date": "2015-05-04",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore IP Geolocation Service Client 1.1 rev. 150429.zip",
+              "https://sdn.sitecore.net/downloads/SitecoreIPGeolocationServiceClient11rev150429.download#package.zip"
+            ]
+          }
+        }
+      }
+    },
+    
+    "1.0": {
+      "161216": {
+        "Update": "3",
+        "Label": "Update-3",
+        "Date": "2016-12-20",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore IP Geolocation Service Client 1.0 rev. 161216.zip",
+              "https://sdn.sitecore.net/downloads/SitecoreIPGeolocationServiceClient10rev161216.download#package.zip"
+            ]
+          }
+        }
+      },
+      
+      "150602": {
+        "Update": "2",
+        "Label": "Update-2",
+        "Date": "2015-06-03",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore IP Geolocation Service Client 1.0 rev. 150602.zip",
+              "https://sdn.sitecore.net/downloads/SitecoreIPGeolocationServiceClient10rev150602.download#package.zip"
+            ]
+          }
+        }
+      },
+      
+      "150528": {
+        "Update": "1",
+        "Label": "Update-1",
+        "Date": "2015-05-29",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore IP Geolocation Service Client 1.0 rev. 150528.zip",
+              "https://sdn.sitecore.net/downloads/SitecoreIPGeolocationServiceClient10rev150528.download#package.zip"
+            ]
+          }
+        }
+      },
+      
+      "150429 ": {
+        "Update": "0",
+        "Label": "Initial Release",
+        "Date": "2015-05-04",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore IP Geolocation Service Client 1.0 rev. 150429.zip",
+              "https://sdn.sitecore.net/downloads/SitecoreIPGeolocationServiceClient10rev150429.download#package.zip"
+            ]
+          }
+        }
+      }
+    },
+    
+    "0.9": {      
+      "150602": {
+        "Update": "1",
+        "Label": "Update-1",
+        "Date": "2015-06-03",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore IP Geolocation Service Client 0.9 rev. 150602.zip",
+              "https://sdn.sitecore.net/downloads/SitecoreIPGeolocationServiceClient09rev150602.download#package.zip"
+            ]
+          }
+        }
+      },
+      
+      "150528": {
+        "Update": "0",
+        "Label": "Initial Release",
+        "Date": "2015-05-29",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore IP Geolocation Service Client 0.9 rev. 150528.zip",
+              "https://sdn.sitecore.net/downloads/SitecoreIPGeolocationServiceClient09rev150528.download#package.zip"
+            ]
+          }
+        }
+      }
     }
   }
 }
