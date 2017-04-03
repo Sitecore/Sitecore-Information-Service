@@ -34,6 +34,7 @@
           "Sitecore CMS": {
             "8.2": [
               "161115",
+              "161221",
             ]
           }
         }
@@ -217,8 +218,8 @@
         "Compatibility": {
           "Sitecore CMS": {
             "8.0": [
-              "150621",
-              "150812",
+              "151127",
+              "160115",
             ]
           }
         }
@@ -248,6 +249,7 @@
           "Sitecore CMS": {
             "8.0": [
               "150621",
+              "150812",
             ]
           }
         }
@@ -330,15 +332,16 @@
               "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.141212_RTM_release\\Web Forms for Marketers\\Web Forms for Marketers CD 8.0 rev. 141217.zip"
             ]
           }
-        }
-      },
+        },
         "Compatibility": {
           "Sitecore CMS": {
             "8.0": [
               "141212",
+              "150121",
             ]
           }
         }
+      },
     },
 
     "2.5": {
