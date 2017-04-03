@@ -52,6 +52,13 @@
               "https://dev.sitecore.net/~/media/9F2A6BC12C2D417CA738A084F7893B31.ashx#Email Experience Manager Sample Newsletter 3.4.1 rev. 170105.zip"
             ]
           }
+        },
+        "Compatibility": {
+          "Sitecore CMS": {
+            "8.2": [
+              "161221",
+            ]
+          }
         }
       },
 
@@ -94,6 +101,14 @@
             "Downloads": [
               "filenames:\\\\Email Experience Manager 3.4.0 rev. 161028 (not sc package).zip\\Email Experience Manager Sample Newsletter 3.4.0 rev. 161028.zip",
               "https://dev.sitecore.net/~/media/C497654C57914F9AB407620E342B86C4.ashx#Email Experience Manager Sample Newsletter 3.4.0 rev. 161028.zip#package.zip"
+            ]
+          }
+        },
+        "Compatibility": {
+          "Sitecore CMS": {
+            "8.2": [
+              "160729",
+              "161115",
             ]
           }
         }
@@ -142,6 +157,13 @@
               "https://dev.sitecore.net/~/media/122780169FF441698E87DEDAE6C0024E.ashx#Email Experience Manager Sample Newsletter 3.3.0 rev. 160527.zip#package.zip"
             ]
           }
+        },
+        "Compatibility": {
+          "Sitecore CMS": {
+            "8.1": [
+              "160519",
+            ]
+          }
         }
       }
     },
@@ -186,6 +208,14 @@
             "Downloads": [
               "filenames:\\\\Email Experience Manager 3.2.1 rev. 160127 NOT SC PACKAGE.zip\\Email Experience Manager Sample Newsletter 3.2.1 rev. 160127.zip",
               "https://dev.sitecore.net/~/media/1008AB5222BF4621A24FBDE26D9E7E11.ashx#Email Experience Manager Sample Newsletter 3.2.1 rev. 160127.zip#package.zip"
+            ]
+          }
+        },
+        "Compatibility": {
+          "Sitecore CMS": {
+            "8.1": [
+              "151207",
+              "160302",
             ]
           }
         }
@@ -238,6 +268,13 @@
               "\\\\mars\\Installs\\Sitecore\\Sitecore 8.1\\Sitecore 8.1 rev.151003_RTM_release\\EXM\\EXM 3.2\\Email Experience Manager Sample Newsletter 3.2.0 rev. 151020.zip#package.zip"
             ]
           }
+        },
+        "Compatibility": {
+          "Sitecore CMS": {
+            "8.1": [
+              "151003",
+            ]
+          }
         }
       }
     },
@@ -278,6 +315,13 @@
               "https://dev.sitecore.net/~/media/51DB9F1D314D4AB0A895162EEBC98AEF.ashx#Email Experience Manager - Reporting 3.1.2 rev. 151213.zip"
             ]
           }
+        },
+        "Compatibility": {
+          "Sitecore CMS": {
+            "8.0": [
+              "151127",
+            ]
+          }
         }
       },
 
@@ -316,6 +360,14 @@
               "https://dev.sitecore.net/~/media/70A55E58D4544CD699825E69048E7551.ashx#Email Experience Manager - Reporting 3.1.1 rev. 150811.zip"
             ]
           }
+        },
+        "Compatibility": {
+          "Sitecore CMS": {
+            "8.0": [
+              "150621",
+              "150812",
+            ]
+          }
         }
       },
 
@@ -352,6 +404,13 @@
             "Downloads": [
               "filenames:\\\\EXM 3.1 rev. 150703.zip\\Email Experience Manager - Reporting 3.1 rev. 150703.zip",
               "https://dev.sitecore.net/~/media/383BC967066A4F88A4ED9201EDF1C727.ashx#Email Experience Manager - Reporting 3.1 rev. 150703.zip"
+            ]
+          }
+        },
+        "Compatibility": {
+          "Sitecore CMS": {
+            "8.0": [
+              "150427",
             ]
           }
         }
