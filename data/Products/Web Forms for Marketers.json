@@ -29,6 +29,13 @@
               "https://dev.sitecore.net/~/media/CC1E96521266447F8DCC0A28866FA3CA.ashx#Web Forms for Marketers Reporting 8.2 rev. 161129.zip#package.zip"
             ]
           }
+        },
+        "Compatibility": {
+          "Sitecore CMS": {
+            "8.2": [
+              "161115",
+            ]
+          }
         }
       },
 
@@ -61,6 +68,13 @@
               "https://dev.sitecore.net/~/media/931EA7A73BAA4494B4CEA002ECE75E80.ashx#package.zip"
             ]
           }
+        },
+        "Compatibility": {
+          "Sitecore CMS": {
+            "8.2": [
+              "160729",
+            ]
+          }
         }
       }
     },
@@ -83,6 +97,13 @@
               "https://dev.sitecore.net/~/media/A95E0F9193C84F0C8E1E58B088894CCE.ashx#Web Forms for Marketers CD 8.1 rev. 160523.zip"
             ]
           }
+        },
+        "Compatibility": {
+          "Sitecore CMS": {
+            "8.1": [
+              "160519",
+            ]
+          }
         }
       },
 
@@ -101,6 +122,13 @@
             "Downloads": [
               "filenames:\\\\Web Forms For Marketers 8.1 rev. 160304 Update-2 NOT SC PACKAGE.zip\\Web Forms for Marketers CD 8.1 rev. 160304.zip",
               "https://dev.sitecore.net/~/media/C0C7DD85F13B424F9A10B8E25569EDD3.ashx#Web Forms for Marketers CD 8.1 rev. 160304.zip"
+            ]
+          }
+        },
+        "Compatibility": {
+          "Sitecore CMS": {
+            "8.1": [
+              "160302",
             ]
           }
         }
@@ -125,6 +153,13 @@
               "\\\\mars\\Installs\\Sitecore\\Sitecore 8.1\\Sitecore 8.1 rev.151207(Update-1)_released\\Web Forms for Marketers\\Web Forms For Marketers 8.1 rev. 151217 Update-1 NOT SC PACKAGE.zip#Web Forms for Marketers CD 8.1 rev. 151217.zip"
             ]
           }
+        },
+        "Compatibility": {
+          "Sitecore CMS": {
+            "8.1": [
+              "151207",
+            ]
+          }
         }
       },
 
@@ -145,6 +180,13 @@
               "filenames:\\\\Web Forms For Marketers 8.1 rev. 151008 Initial NOT SC PACKAGE.zip\\Web Forms for Marketers CD 8.1 rev. 151008.zip",
               "https://dev.sitecore.net/~/media/Downloads/Web_Forms_For_Marketers/Web_Forms_For_Marketers_81/Web_Forms_For_Marketers_81_Initial_Version/Secure/Web_Forms_For_Marketers_81_rev_151008_Initial_NOT_SC_PACKAGE.ashx#Web Forms for Marketers CD 8.1 rev. 151008.zip",
               "\\\\mars\\Installs\\Sitecore\\Sitecore 8.1\\Sitecore 8.1 rev.151003_RTM_release\\WFFM\\Web Forms for Marketers CD 8.1 rev. 151008.zip"
+            ]
+          }
+        },
+        "Compatibility": {
+          "Sitecore CMS": {
+            "8.1": [
+              "151003",
             ]
           }
         }
@@ -171,6 +213,14 @@
               "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.151127(Update6)_released\\WFFM\\Web Forms for Marketers 8.0 rev. 151127 NOT SC PACKAGE.zip#Web Forms for Marketers/Web Forms for Marketers CD 8.0 rev. 151127.zip"
             ]
           }
+        },
+        "Compatibility": {
+          "Sitecore CMS": {
+            "8.0": [
+              "150621",
+              "150812",
+            ]
+          }
         }
       },
 
@@ -191,6 +241,13 @@
               "filenames:\\\\Web Forms for Marketers 8.0 rev. 150625 NOT SC PACKAGE.zip\\Web Forms for Marketers CD 8.0 rev. 150625.zip",
               "https://dev.sitecore.net/~/media/Downloads/Web_Forms_For_Marketers/Web_Forms_for_Marketers_80/Web_Forms_for_Marketers_80_Update4/Secure/Web_Forms_for_Marketers_80_rev_150625_NOT_SC_PACKAGE.ashx#Web Forms for Marketers/Web Forms for Marketers CD 8.0 rev. 150625.zip",
               "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.150621(Update4)_released\\Web Forms for Marketers\\Web Forms for Marketers 8.0 rev. 150625 NOT SC PACKAGE.zip#Web Forms for Marketers/Web Forms for Marketers CD 8.0 rev. 150625.zip"
+            ]
+          }
+        },
+        "Compatibility": {
+          "Sitecore CMS": {
+            "8.0": [
+              "150621",
             ]
           }
         }
@@ -215,6 +272,13 @@
               "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.150427(Update3)_released\\WFFM\\Web Forms for Marketers 8.0 rev. 150429 NOT SC PACKAGE.zip#Web Forms for Marketers/Web Forms for Marketers CD 8.0 rev. 150429.zip"
             ]
           }
+        },
+        "Compatibility": {
+          "Sitecore CMS": {
+            "8.0": [
+              "150427",
+            ]
+          }
         }
       },
 
@@ -237,12 +301,19 @@
               "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.150223(Udpate2)_released\\WFFM\\Web Forms for Marketers 8.0 rev. 150224 NOT SC PACKAGE.zip#Web Forms for Marketers/Web Forms for Marketers CD 8.0 rev. 150224.zip"
             ]
           }
+        },
+        "Compatibility": {
+          "Sitecore CMS": {
+            "8.0": [
+              "150223",
+            ]
+          }
         }
       },
 
       "141217": {
-        "Update": "0",
-        "Label": "Initial Release",
+        "Update": "1",
+        "Label": "Update-1",
         "Date": "2014-12-17",
         "Distributions": {
           "default": {
@@ -260,7 +331,14 @@
             ]
           }
         }
-      }
+      },
+        "Compatibility": {
+          "Sitecore CMS": {
+            "8.0": [
+              "141212",
+            ]
+          }
+        }
     },
 
     "2.5": {
