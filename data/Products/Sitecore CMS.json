@@ -6,6 +6,20 @@
 
   "Versions": {
     "8.2": {
+      "170407": {
+        "Update": "3",
+        "Label": "Update-3",
+        "Date": "2017-04-12",
+        "Distributions": {
+          "default": {
+            "Downloads": [
+              "filenames:\\\\Sitecore 8.2 rev. 170407.zip",
+              "https://dev.sitecore.net/~/media/203A8170D4664A41A8900E7AFEFC803F.ashx"
+            ]
+          }
+        }
+      },
+      
       "161221": {
         "Update": "2",
         "Label": "Update-2",
