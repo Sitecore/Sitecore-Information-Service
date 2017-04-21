@@ -1,0 +1,50 @@
+{
+  "Label": "Update-1",
+  "Date": "2017-01-15",
+  "Update": "1",
+  "Distributions": {
+    "default": {
+      "Downloads": [
+        "filenames:\\\\Email Experience Manager 3.4.1 rev. 170105 (not sc package).zip\\Email Experience Manager 3.4.1 rev. 170105.zip",
+        "https://dev.sitecore.net/~/media/9F2A6BC12C2D417CA738A084F7893B31.ashx#Email Experience Manager 3.4.1 rev. 170105.zip#package.zip"
+      ]
+    },
+    "delivery": {
+      "Downloads": [
+        "filenames:\\\\Email Experience Manager 3.4.1 rev. 170105 (not sc package).zip\\Email Experience Manager - Content Delivery 3.4.1 rev. 170105.zip",
+        "https://dev.sitecore.net/~/media/9F2A6BC12C2D417CA738A084F7893B31.ashx#Email Experience Manager - Content Delivery 3.4.1 rev. 170105.zip"
+      ]
+    },
+    "processing": {
+      "Downloads": [
+        "filenames:\\\\Email Experience Manager 3.4.1 rev. 170105 (not sc package).zip\\Email Experience Manager - Analytics Processing 3.4.1 rev. 170105.zip",
+        "https://dev.sitecore.net/~/media/9F2A6BC12C2D417CA738A084F7893B31.ashx#Email Experience Manager - Analytics Processing 3.4.1 rev. 170105.zip"
+      ]
+    },
+    "email": {
+      "Downloads": [
+        "filenames:\\\\Email Experience Manager 3.4.1 rev. 170105 (not sc package).zip\\Email Experience Manager - Email Processing 3.4.1 rev. 170105.zip",
+        "https://dev.sitecore.net/~/media/9F2A6BC12C2D417CA738A084F7893B31.ashx#Email Experience Manager - Email Processing 3.4.1 rev. 170105.zip"
+      ]
+    },
+    "reporting": {
+      "Downloads": [
+        "filenames:\\\\Email Experience Manager 3.4.1 rev. 170105 (not sc package).zip\\Email Experience Manager - Reporting 3.4.1 rev. 170105.zip",
+        "https://dev.sitecore.net/~/media/9F2A6BC12C2D417CA738A084F7893B31.ashx#Email Experience Manager 3.4.1 rev. 170105.zip#package.zip"
+      ]
+    },
+    "sample": {
+      "Downloads": [
+        "filenames:\\\\Email Experience Manager 3.4.1 rev. 170105 (not sc package).zip\\Email Experience Manager Sample Newsletter 3.4.1 rev. 170105.zip",
+        "https://dev.sitecore.net/~/media/9F2A6BC12C2D417CA738A084F7893B31.ashx#Email Experience Manager Sample Newsletter 3.4.1 rev. 170105.zip"
+      ]
+    }
+  },
+  "Compatibility": {
+    "Sitecore CMS": {
+      "8.2": [
+        "161221"
+      ]
+    }
+  }
+}

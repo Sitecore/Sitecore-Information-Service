@@ -1,0 +1,28 @@
+{
+  "Label": "Update-2",
+  "Date": "2014-03-27",
+  "Update": "2",
+  "Distributions": {
+    "default": {
+      "Downloads": [
+        "filenames:\\\\Sitecore 7.1 rev. 140324.zip",
+        "http://sdn.sitecore.net/downloads/Sitecore71rev140324.download",
+        "\\\\mars\\Installs\\Sitecore\\Sitecore 7.1\\Sitecore 7.1 rev. 140324_released\\Sitecore 7.1 rev. 140324.zip"
+      ]
+    },
+    "analytics": {
+      "Downloads": [
+        "filenames:\\\\DMS 7.1 rev. 140324.zip",
+        "http://sdn.sitecore.net/downloads/DMS71rev140324.download",
+        "\\\\mars\\Installs\\Sitecore\\Sitecore 7.1\\Sitecore 7.1 rev. 140324_released\\DMS 7.1 rev. 140324.zip"
+      ]
+    },
+    "solr": {
+      "Downloads": [
+        "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 140324.zip",
+        "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev140324.download",
+        "\\\\mars\\Installs\\Sitecore\\Sitecore 7.1\\Sitecore 7.1 rev. 140324_released\\components\\Sitecore.Solr.Support 1.0.0 rev. 140324.zip"
+      ]
+    }
+  }
+}

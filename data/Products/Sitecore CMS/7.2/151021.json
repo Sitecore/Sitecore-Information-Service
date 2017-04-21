@@ -1,0 +1,28 @@
+{
+  "Label": "Update-5",
+  "Date": "2015-10-23",
+  "Update": "5",
+  "Distributions": {
+    "default": {
+      "Downloads": [
+        "filenames:\\\\Sitecore 7.2 rev. 151021.zip",
+        "https://sdn.sitecore.net/downloads/Sitecore72rev151021.download",
+        "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 151021(Update-5)_released\\Sitecore 7.2 rev. 151021.zip"
+      ]
+    },
+    "analytics": {
+      "Downloads": [
+        "filenames:\\\\DMS 7.2 rev. 151021.zip",
+        "https://sdn.sitecore.net/downloads/DMS72rev151021.download",
+        "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 151021(Update-5)_released\\DMS 7.2 rev. 151021.zip"
+      ]
+    },
+    "solr": {
+      "Downloads": [
+        "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 151020.zip",
+        "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev151020.download",
+        "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 151021(Update-5)_released\\Sitecore.Solr.Support 1.0.0 rev. 151020.zip"
+      ]
+    }
+  }
+}

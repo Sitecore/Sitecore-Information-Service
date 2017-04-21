@@ -1,0 +1,13 @@
+{
+  "Label": "Update-1",
+  "Date": "2015-05-29",
+  "Update": "1",
+  "Distributions": {
+    "default": {
+      "Downloads": [
+        "filenames:\\\\Sitecore IP Geolocation Service Client 1.0 rev. 150528.zip",
+        "https://sdn.sitecore.net/downloads/SitecoreIPGeolocationServiceClient10rev150528.download#package.zip"
+      ]
+    }
+  }
+}

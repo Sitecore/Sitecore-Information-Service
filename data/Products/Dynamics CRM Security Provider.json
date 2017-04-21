@@ -2,55 +2,5 @@
   "Metadata": {
     "Alias": "CRMSEC",
     "DefaultPackage": "CRMSEC.CRMSecurityProvider"
-  },
-
-  "Versions": {
-    "2.3": {
-      "170106": {
-        "Update": "1",
-        "Label": "Update-1",
-        "Date": "2000-01-01",
-        "Distributions": {
-          "default": {
-            "Downloads": [
-              "filenames:\\\\Microsoft Dynamics CRM Security Provider 2.3.1 rev. 170106.zip",
-              "https://dev.sitecore.net/~/media/BB0DBF1320E14384904BCB184F6B36F9.ashx#package.zip"
-            ]
-          }
-        }
-      }
-    },
-
-    "2.2": {
-      "170118": {
-        "Update": "3",
-        "Label": "Update-3",
-        "Date": "2000-01-01",
-        "Distributions": {
-          "default": {
-            "Downloads": [
-              "filenames:\\\\Microsoft Dynamics CRM Security Provider 2.2.3 rev. 170118.zip",
-              "https://dev.sitecore.net/~/media/8D22CA253AF54A0E9D31CC05971A6506.ashx#package.zip"
-            ]
-          }
-        }
-      }
-    },
-
-    "2.1": {
-      "170118": {
-        "Update": "2",
-        "Label": "Update-2",
-        "Date": "2000-01-01",
-        "Distributions": {
-          "default": {
-            "Downloads": [
-              "filenames:\\\\Microsoft Dynamics CRM Security Provider 2.1.2 rev. 170118.zip",
-              "https://dev.sitecore.net/~/media/620A620E1CB6482BA606E55397526761.ashx#package.zip"
-            ]
-          }
-        }
-      }
-    }
   }
 }

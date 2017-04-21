@@ -1,0 +1,25 @@
+{
+  "Label": "Update-6",
+  "Date": "2016-01-26",
+  "Update": "6",
+  "Distributions": {
+    "default": {
+      "Downloads": [
+        "filenames:\\\\Sitecore 7.2 rev. 160123.zip",
+        "https://sdn.sitecore.net/downloads/Sitecore72rev160123.download"
+      ]
+    },
+    "analytics": {
+      "Downloads": [
+        "filenames:\\\\DMS 7.2 rev. 160123.zip",
+        "https://sdn.sitecore.net/downloads/DMS72rev160123.download"
+      ]
+    },
+    "solr": {
+      "Downloads": [
+        "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 160122.zip",
+        "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev160122.download"
+      ]
+    }
+  }
+}

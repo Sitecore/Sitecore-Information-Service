@@ -1,0 +1,21 @@
+{
+  "Label": "Service Pack-2",
+  "Date": "2014-04-11",
+  "Update": "8",
+  "Distributions": {
+    "default": {
+      "Downloads": [
+        "filenames:\\\\Sitecore 6.6.0 rev. 140410.zip",
+        "http://sdn.sitecore.net/downloads/Sitecore660rev140410.download",
+        "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.140410 (Update-8)\\Sitecore 6.6.0 rev. 140410.zip"
+      ]
+    },
+    "analytics": {
+      "Downloads": [
+        "filenames:\\\\DMS 6.6.0 rev. 140410.zip",
+        "http://sdn.sitecore.net/downloads/DMS660rev140410.download",
+        "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.140410 (Update-8)\\DMS 6.6.0 rev. 140410.zip"
+      ]
+    }
+  }
+}

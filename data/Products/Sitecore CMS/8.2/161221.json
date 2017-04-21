@@ -1,0 +1,13 @@
+{
+  "Label": "Update-2",
+  "Date": "2016-12-30",
+  "Update": "2",
+  "Distributions": {
+    "default": {
+      "Downloads": [
+        "filenames:\\\\Sitecore 8.2 rev. 161221.zip",
+        "https://dev.sitecore.net/~/media/02D2B5F95D1D4B1F894C2E3CA1194E45.ashx"
+      ]
+    }
+  }
+}

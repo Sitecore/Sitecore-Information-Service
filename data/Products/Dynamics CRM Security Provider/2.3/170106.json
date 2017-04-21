@@ -1,0 +1,13 @@
+{
+  "Label": "Update-1",
+  "Date": "2000-01-01",
+  "Update": "1",
+  "Distributions": {
+    "default": {
+      "Downloads": [
+        "filenames:\\\\Microsoft Dynamics CRM Security Provider 2.3.1 rev. 170106.zip",
+        "https://dev.sitecore.net/~/media/BB0DBF1320E14384904BCB184F6B36F9.ashx#package.zip"
+      ]
+    }
+  }
+}

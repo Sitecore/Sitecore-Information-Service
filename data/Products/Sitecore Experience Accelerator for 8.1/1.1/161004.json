@@ -1,0 +1,13 @@
+{
+  "Label": "Initial Release",
+  "Date": "2016-10-04",
+  "Update": "0",
+  "Distributions": {
+    "default": {
+      "Downloads": [
+        "filenames:\\\\Sitecore Experience Accelerator 1.1 rev. 161004 for 8.1.zip",
+        "https://dev.sitecore.net/~/media/F94D898F17D74A25B1F51A3D33B1B07E.ashx#package.zip"
+      ]
+    }
+  }
+}

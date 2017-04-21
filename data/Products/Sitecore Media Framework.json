@@ -1,54 +1,6 @@
-﻿{
+{
   "Metadata": {
     "Alias": "MEF",
     "DefaultPackage": "MEF.Sitecore.MediaFramework"
-  },
-
-  "Versions": {
-    "2.2": {
-      "160927": {
-        "Update": "0",
-        "Label": "Initial Release",
-        "Date": "2016-09-27",
-        "Distributions": {
-          "default": {
-            "Downloads": [
-              "filenames:\\\\Sitecore Media Framework 2.2 rev. 160927.zip",
-              "https://dev.sitecore.net/~/media/20D959305FF24F99918B09B8CEE41F95.ashx#package.zip"
-            ]
-          }
-        }
-      }
-    },
-
-    "2.1": {
-      "150625": {
-        "Update": "0",
-        "Label": "Initial Release",
-        "Date": "2015-06-25",
-        "Distributions": {
-          "default": {
-            "Downloads": [
-              "filenames:\\\\Sitecore Media Framework 21 rev 150625.zip",
-              "https://dev.sitecore.net/~/media/75B8F06E4F0C4C2B811464BD47971FDB.ashx#package.zip"
-            ]
-          },
-
-          "brightcove": {
-            "Downloads": [
-              "filenames:\\\\Sitecore Media Framework Brightcove Edition 21 rev 150625.zip",
-              "https://dev.sitecore.net/~/media/E4C67EA3DBD64D13A1004EFBC718C936.ashx#package.zip"
-            ]
-          },
-
-          "ooyala": {
-            "Downloads": [
-              "filenames:\\\\Sitecore Media Framework Ooyala Edition 21 rev 150625.zip",
-              "https://dev.sitecore.net/~/media/8A8363C10DD7479197790E7BC4911083.ashx#package.zip"
-            ]
-          }
-        }
-      }
-    }
   }
 }

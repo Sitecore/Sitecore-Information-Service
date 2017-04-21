@@ -1,0 +1,21 @@
+{
+  "Label": "Initial Release",
+  "Date": "2014-10-14",
+  "Update": "0",
+  "Distributions": {
+    "default": {
+      "Downloads": [
+        "filenames:\\\\Sitecore 7.5 rev. 141003.zip",
+        "https://sdn.sitecore.net/downloads/Sitecore75re141003.download",
+        "\\\\mars\\Installs\\Sitecore\\Sitecore 7.5\\Sitecore 7.5 rev. 141003_ RTM_release\\Sitecore 7.5 rev. 141003.zip"
+      ]
+    },
+    "solr": {
+      "Downloads": [
+        "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 141001.zip",
+        "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev141001.download",
+        "\\\\mars\\Installs\\Sitecore\\Sitecore 7.5\\Sitecore 7.5 rev. 141003_ RTM_release\\components\\Sitecore.Solr.Support 1.0.0 rev. 141001.zip"
+      ]
+    }
+  }
+}

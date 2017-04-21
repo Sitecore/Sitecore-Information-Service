@@ -1,0 +1,28 @@
+{
+  "Label": "Initial Release",
+  "Date": "2014-10-07",
+  "Update": "0",
+  "Distributions": {
+    "default": {
+      "Downloads": [
+        "filenames:\\\\E-mail Campaign Manager 2.2 rev. 141007.zip",
+        "https://sdn.sitecore.net/downloads/EmailCampaignManager22rev141007.download#package.zip",
+        "\\\\mars\\Installs\\Sitecore\\Sitecore 7.5\\Modules\\E-mail Campaign Manager\\E-mail Campaign Manager 2.2 rev. 141007.zip#package.zip"
+      ]
+    },
+    "speak components": {
+      "Downloads": [
+        "filenames:\\\\SPEAK 1.0.0 rev. 140131.zip",
+        "https://sdn.sitecore.net/downloads/SPEAK100rev140131.download",
+        "\\\\mars\\Installs\\Sitecore\\Sitecore 7.5\\Modules\\E-mail Campaign Manager\\SPEAK 1.0.0 rev. 140131.zip"
+      ]
+    },
+    "delivery": {
+      "Downloads": [
+        "filenames:\\\\E-mail Campaign Manager - CD 2.2 rev. 141007.zip",
+        "https://sdn.sitecore.net/downloads/E-mailCampaignManagerCD22rev.141007.download#package.zip",
+        "\\\\mars\\Installs\\Sitecore\\Sitecore 7.5\\Modules\\E-mail Campaign Manager\\E-mail Campaign Manager - CD 2.2 rev. 141007.zip"
+      ]
+    }
+  }
+}

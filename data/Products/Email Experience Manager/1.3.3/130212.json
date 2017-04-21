@@ -1,0 +1,14 @@
+{
+  "Label": "ECM 1.3.3",
+  "Date": "2013-02-12",
+  "Update": "3",
+  "Distributions": {
+    "default": {
+      "Downloads": [
+        "filenames:\\\\E-mail Campaign Manager 1.3.3 rev. 130212.zip",
+        "https://sdn.sitecore.net/downloads/EmailCampaignManager133rev130212.download",
+        "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Modules\\Email Campaign Manager\\1.3.3 rev.130212\\E-mail Campaign Manager 1.3.3 rev. 130212.zip"
+      ]
+    }
+  }
+}

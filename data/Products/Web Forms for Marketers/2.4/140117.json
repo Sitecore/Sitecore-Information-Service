@@ -1,0 +1,13 @@
+{
+  "Label": "Initial Release",
+  "Date": "2016-11-09",
+  "Update": "0",
+  "Distributions": {
+    "default": {
+      "Downloads": [
+        "filenames:\\\\Web Forms for Marketers 2.4.0 rev. 140117.zip",
+        "https://sdn.sitecore.net/downloads/WebFormsv6_240rev140117.download#package.zip"
+      ]
+    }
+  }
+}

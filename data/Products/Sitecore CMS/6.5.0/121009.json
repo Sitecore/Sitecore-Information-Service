@@ -1,0 +1,21 @@
+{
+  "Label": "Service Pack-2",
+  "Date": "2012-10-18",
+  "Update": "6",
+  "Distributions": {
+    "default": {
+      "Downloads": [
+        "filenames:\\\\Sitecore 6.5.0 rev. 121009.zip",
+        "http://sdn.sitecore.net/downloads/Sitecore650rev121009.download",
+        "\\\\mars\\Installs\\Sitecore\\Sitecore 6.5.0\\Sitecore 6.5.0 rev.121009 (Update-6)\\Sitecore 6.5.0 rev. 121009.zip"
+      ]
+    },
+    "analytics": {
+      "Downloads": [
+        "filenames:\\\\DMS 2.0.1 rev. 121009.zip",
+        "http://sdn.sitecore.net/downloads/DMS650rev121009.download",
+        "\\\\mars\\Installs\\Sitecore\\Sitecore 6.5.0\\Sitecore 6.5.0 rev.121009 (Update-6)\\DMS 6.5.0 rev. 121009.zip"
+      ]
+    }
+  }
+}

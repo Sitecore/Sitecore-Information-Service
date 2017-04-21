@@ -1,0 +1,21 @@
+{
+  "Label": "Update-6",
+  "Date": "2015-11-27",
+  "Update": "6",
+  "Distributions": {
+    "default": {
+      "Downloads": [
+        "filenames:\\\\Sitecore 8.0 rev. 151127.zip",
+        "https://dev.sitecore.net/~/media/F103FBC45091476AB0BF0253349D3E8B.ashx",
+        "\\\\mars\\QA\\8.0\\Updates\\Update-6\\Sitecore 8.0 rev. 151127\\Sitecore 8.0 rev. 151127.zip"
+      ]
+    },
+    "solr": {
+      "Downloads": [
+        "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 151113.zip",
+        "https://dev.sitecore.net/~/media/34A52ED42CE44A78BFC4F2CAE14A9234.ashx",
+        "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.151127(Update6)_released\\Sitecore.Solr.Support 1.0.0 rev. 151113.zip"
+      ]
+    }
+  }
+}

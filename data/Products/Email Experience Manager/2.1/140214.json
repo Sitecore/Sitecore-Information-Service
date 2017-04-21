@@ -1,0 +1,26 @@
+{
+  "Label": "Update-3",
+  "Date": "2014-02-14",
+  "Update": "3",
+  "Distributions": {
+    "default": {
+      "Downloads": [
+        "filenames:\\\\E-mail Campaign Manager 2.1 rev. 140214.zip",
+        "https://sdn.sitecore.net/downloads/EmailCampaignManager21rev140214.download"
+      ]
+    },
+    "speak components": {
+      "Downloads": [
+        "filenames:\\\\SPEAK 1.0.0 rev. 140131.zip",
+        "https://sdn.sitecore.net/downloads/SPEAK100rev140131.download"
+      ]
+    },
+    "ecm save actions for wffm": {
+      "Downloads": [
+        "filenames:\\\\ECM 2 Save Actions 1.0.0 rev. 130128.zip",
+        "https://sdn.sitecore.net/downloads/ECM2_SaveActions100rev130128.download",
+        "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Modules\\ECM Save Actions\\1.0.0\\130128\\ECM 2 Save Actions 1.0.0 rev. 130128.zip"
+      ]
+    }
+  }
+}

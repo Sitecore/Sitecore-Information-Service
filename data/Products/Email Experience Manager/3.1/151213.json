@@ -1,0 +1,44 @@
+{
+  "Label": "Update-2",
+  "Date": "2015-12-23",
+  "Update": "2",
+  "Distributions": {
+    "default": {
+      "Downloads": [
+        "filenames:\\\\Email Experience Manager 3.1.2 rev. 151213 NOT SC PACKAGE.zip\\Email Experience Manager 3.1.2 rev. 151213.zip",
+        "https://dev.sitecore.net/~/media/51DB9F1D314D4AB0A895162EEBC98AEF.ashx#Email Experience Manager 3.1.2 rev. 151213.zip#package.zip"
+      ]
+    },
+    "delivery": {
+      "Downloads": [
+        "filenames:\\\\Email Experience Manager 3.1.2 rev. 151213 NOT SC PACKAGE.zip\\Email Experience Manager - Content Delivery 3.1.2 rev. 151213.zip",
+        "https://dev.sitecore.net/~/media/51DB9F1D314D4AB0A895162EEBC98AEF.ashx#Email Experience Manager - Content Delivery 3.1.2 rev. 151213.zip"
+      ]
+    },
+    "processing": {
+      "Downloads": [
+        "filenames:\\\\Email Experience Manager 3.1.2 rev. 151213 NOT SC PACKAGE.zip\\Email Experience Manager - Analytics Processing 3.1.2 rev. 151213.zip",
+        "https://dev.sitecore.net/~/media/51DB9F1D314D4AB0A895162EEBC98AEF.ashx#Email Experience Manager - Analytics Processing 3.1.2 rev. 151213.zip"
+      ]
+    },
+    "email": {
+      "Downloads": [
+        "filenames:\\\\Email Experience Manager 3.1.2 rev. 151213 NOT SC PACKAGE.zip\\Email Experience Manager - Email Processing 3.1.2 rev. 151213.zip",
+        "https://dev.sitecore.net/~/media/51DB9F1D314D4AB0A895162EEBC98AEF.ashx#Email Experience Manager - Email Processing 3.1.2 rev. 151213.zip"
+      ]
+    },
+    "reporting": {
+      "Downloads": [
+        "filenames:\\\\Email Experience Manager 3.1.2 rev. 151213 NOT SC PACKAGE.zip\\Email Experience Manager - Reporting 3.1.2 rev. 151213.zip",
+        "https://dev.sitecore.net/~/media/51DB9F1D314D4AB0A895162EEBC98AEF.ashx#Email Experience Manager - Reporting 3.1.2 rev. 151213.zip"
+      ]
+    }
+  },
+  "Compatibility": {
+    "Sitecore CMS": {
+      "8.0": [
+        "151127"
+      ]
+    }
+  }
+}

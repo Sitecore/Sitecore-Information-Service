@@ -1,0 +1,20 @@
+{
+  "Label": "Update-2",
+  "Date": "2015-02-13",
+  "Update": "2",
+  "Distributions": {
+    "default": {
+      "Downloads": [
+        "filenames:\\\\Sitecore 7.5 rev. 150212.zip",
+        "http://sdn.sitecore.net/downloads/Sitecore75rev150212.download",
+        "\\\\mars\\Installs\\Sitecore\\Sitecore 7.5\\Sitecore 7.5 rev. 150212(Update-2)_released\\Sitecore 7.5 rev. 150212.zip"
+      ]
+    },
+    "solr": {
+      "Downloads": [
+        "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 150116.zip",
+        "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev150116.download"
+      ]
+    }
+  }
+}

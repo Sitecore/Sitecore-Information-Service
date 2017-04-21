@@ -1,0 +1,13 @@
+{
+  "Label": "Update-2",
+  "Date": "2014-10-09",
+  "Update": "2",
+  "Distributions": {
+    "default": {
+      "Downloads": [
+        "filenames:\\\\Web Forms for Marketers 2.4 rev. 141008.zip",
+        "https://sdn.sitecore.net/downloads/WebFormsv7_24rev141008.download#package.zip"
+      ]
+    }
+  }
+}

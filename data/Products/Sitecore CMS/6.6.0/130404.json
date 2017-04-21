@@ -1,0 +1,21 @@
+{
+  "Label": "Update-5",
+  "Date": "2013-04-17",
+  "Update": "5",
+  "Distributions": {
+    "default": {
+      "Downloads": [
+        "filenames:\\\\Sitecore 6.6.0 rev. 130404.zip",
+        "http://sdn.sitecore.net/downloads/Sitecore660rev130404.download",
+        "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.130404 (Update-5)\\Sitecore 6.6.0 rev. 130404.zip"
+      ]
+    },
+    "analytics": {
+      "Downloads": [
+        "filenames:\\\\DMS 6.6.0 rev. 130404.zip",
+        "http://sdn.sitecore.net/downloads/DMS660rev130404.download",
+        "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.130404 (Update-5)\\DMS 6.6.0 rev. 130404.zip"
+      ]
+    }
+  }
+}
