@@ -1,0 +1,13 @@
+{
+  "Label": "Initial Release",
+  "Date": "2013-12-18",
+  "Update": "0",
+  "Distributions": {
+    "default": {
+      "Downloads": [
+        "filenames:\\\\SharePoint Integration Framework 1.2 rev. 131216.zip",
+        "https://sdn.sitecore.net/downloads/SharePointIntegrationFramework12rev131216.download#package.zip"
+      ]
+    }
+  }
+}
