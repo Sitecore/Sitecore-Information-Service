@@ -1,0 +1,13 @@
+{
+  "Label": "Initial Release",
+  "Date": "2014-07-18",
+  "Update": "0",
+  "Distributions": {
+    "default": {
+      "Downloads": [
+        "filenames:\\\\SharePoint Integration Framework 2.0 rev. 140717.zip",
+        "https://sdn.sitecore.net/downloads/SharePoint%20Integration%20Framework%202.0%20rev.%20140717.download#package.zip"
+      ]
+    }
+  }
+}
