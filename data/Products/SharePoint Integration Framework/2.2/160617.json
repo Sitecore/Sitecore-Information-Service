@@ -1,0 +1,13 @@
+{
+  "Label": "Initial Release",
+  "Date": "2016-06-17",
+  "Update": "0",
+  "Distributions": {
+    "default": {
+      "Downloads": [
+        "filenames:\\\\SharePoint Integration Framework 2.2 rev. 160617.zip",
+        "https://dev.sitecore.net/~/media/0C4D139079924B6EAD357335C5AC9002.ashx#package.zip"
+      ]
+    }
+  }
+}
