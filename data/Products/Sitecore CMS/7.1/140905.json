@@ -8,14 +8,14 @@
         "Path": "Sitecore 7.1 rev. 140905.zip",
         "http://sdn.sitecore.net/downloads/Sitecore71rev140905.download",
         "//mars/Installs/Sitecore/Sitecore 7.1/Sitecore 7.1 rev. 140905_released/Sitecore 7.1 rev. 140905.zip"
-      ]
+      }
     },
     "analytics": {
       "Downloads": {
         "Path": "DMS 7.1 rev. 140905.zip",
         "http://sdn.sitecore.net/downloads/DMS71rev140905.download",
         "//mars/Installs/Sitecore/Sitecore 7.1/Sitecore 7.1 rev. 140905_released/DMS 7.1 rev. 140905.zip"
-      ]
+      }
     },
     "solr": {
       "Downloads": {

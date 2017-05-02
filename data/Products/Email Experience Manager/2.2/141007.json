@@ -15,14 +15,14 @@
         "Path": "SPEAK 1.0.0 rev. 140131.zip",
         "Url": "https://sdn.sitecore.net/downloads/SPEAK100rev140131.download",
         "//mars/Installs/Sitecore/Sitecore 7.5/Modules/E-mail Campaign Manager/SPEAK 1.0.0 rev. 140131.zip"
-      ]
+      }
     },
     "delivery": {
       "Downloads": {
         "Path": "E-mail Campaign Manager - CD 2.2 rev. 141007.zip/package.zip",
         "Url": "https://sdn.sitecore.net/downloads/E-mailCampaignManagerCD22rev.141007.download",
         "//mars/Installs/Sitecore/Sitecore 7.5/Modules/E-mail Campaign Manager/E-mail Campaign Manager - CD 2.2 rev. 141007.zip"
-      ]
+      }
     }
   }
 }

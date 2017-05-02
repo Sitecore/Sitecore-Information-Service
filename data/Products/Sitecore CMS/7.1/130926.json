@@ -8,21 +8,21 @@
         "Path": "Sitecore 7.1 rev. 130926.zip",
         "http://sdn.sitecore.net/downloads/Sitecore71rev130926.download",
         "//mars/Installs/Sitecore/Sitecore 7.1/Sitecore 7.1 rev. 130926_ RTM_release/Sitecore 7.1 rev. 130926.zip"
-      ]
+      }
     },
     "analytics": {
       "Downloads": {
         "Path": "DMS 7.1 rev. 130926.zip",
         "http://sdn.sitecore.net/downloads/DMS71rev130926.download",
         "//mars/Installs/Sitecore/Sitecore 7.1/Sitecore 7.1 rev. 130926_ RTM_release/DMS 7.1 rev. 130926.zip"
-      ]
+      }
     },
     "solr": {
       "Downloads": {
         "Path": "Sitecore.Solr.Support 1.0.0 rev. 130924.zip",
         "Url": "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev130924.download",
         "//mars/Installs/Sitecore/Sitecore 7.1/Sitecore 7.1 rev. 130926_ RTM_release/components/Sitecore.Solr.Support 1.0.0 rev. 130924.zip"
-      ]
+      }
     }
   }
 }

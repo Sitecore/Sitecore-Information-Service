@@ -8,7 +8,7 @@
         "Path": "Sitecore 7.5 rev. 150130.zip",
         "http://sdn.sitecore.net/downloads/Sitecore75rev150130.download",
         "//mars/Installs/Sitecore/Sitecore 7.5/Sitecore 7.5 rev. 150130(Update-1)_released/Sitecore 7.5 rev. 150130.zip"
-      ]
+      }
     },
     "solr": {
       "Downloads": {

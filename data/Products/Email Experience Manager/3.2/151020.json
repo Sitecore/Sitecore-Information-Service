@@ -15,28 +15,28 @@
         "Path": "Email Experience Manager 3.2.0 rev. 151020 NOT SC PACKAGE.zip/Email Experience Manager - Content Delivery 3.2.0 rev. 151020.zip",
         "Url": "https://dev.sitecore.net/~/media/Downloads/Email_Experience_Manager/Email_Experience_Manager_32/Email_Experience_Manager_32_Initial_Release/Secure/Email_Experience_Manager_320_rev_151020_NOT_SC_PACKAGE.ashx#Email Experience Manager - Content Delivery 3.2.0 rev. 151020.zip",
         "//mars/Installs/Sitecore/Sitecore 8.1/Sitecore 8.1 rev.151003_RTM_release/EXM/EXM 3.2/Email Experience Manager - Content Delivery 3.2.0 rev. 151020.zip"
-      ]
+      }
     },
     "processing": {
       "Downloads": {
         "Path": "Email Experience Manager 3.2.0 rev. 151020 NOT SC PACKAGE.zip/Email Experience Manager - Analytics Processing 3.2.0 rev. 151020.zip",
         "Url": "https://dev.sitecore.net/~/media/Downloads/Email_Experience_Manager/Email_Experience_Manager_32/Email_Experience_Manager_32_Initial_Release/Secure/Email_Experience_Manager_320_rev_151020_NOT_SC_PACKAGE.ashx#Email Experience Manager - Analytics Processing 3.2.0 rev. 151020.zip",
         "//mars/Installs/Sitecore/Sitecore 8.1/Sitecore 8.1 rev.151003_RTM_release/EXM/EXM 3.2/Email Experience Manager - Analytics Processing 3.2.0 rev. 151020.zip"
-      ]
+      }
     },
     "email": {
       "Downloads": {
         "Path": "Email Experience Manager 3.2.0 rev. 151020 NOT SC PACKAGE.zip/Email Experience Manager - Email Processing 3.2.0 rev. 151020.zip",
         "Url": "https://dev.sitecore.net/~/media/Downloads/Email_Experience_Manager/Email_Experience_Manager_32/Email_Experience_Manager_32_Initial_Release/Secure/Email_Experience_Manager_320_rev_151020_NOT_SC_PACKAGE.ashx#Email Experience Manager - Email Processing 3.2.0 rev. 151020.zip",
         "//mars/Installs/Sitecore/Sitecore 8.1/Sitecore 8.1 rev.151003_RTM_release/EXM/EXM 3.2/Email Experience Manager - Email Processing 3.2.0 rev. 151020.zip"
-      ]
+      }
     },
     "reporting": {
       "Downloads": {
         "Path": "Email Experience Manager 3.2.0 rev. 151020 NOT SC PACKAGE.zip/Email Experience Manager - Reporting 3.2.0 rev. 151020.zip",
         "Url": "https://dev.sitecore.net/~/media/Downloads/Email_Experience_Manager/Email_Experience_Manager_32/Email_Experience_Manager_32_Initial_Release/Secure/Email_Experience_Manager_320_rev_151020_NOT_SC_PACKAGE.ashx#Email Experience Manager - Reporting 3.2.0 rev. 151020.zip",
         "//mars/Installs/Sitecore/Sitecore 8.1/Sitecore 8.1 rev.151003_RTM_release/EXM/EXM 3.2/Email Experience Manager - Reporting 3.2.0 rev. 151020.zip"
-      ]
+      }
     },
     "sample": {
       "Downloads": {

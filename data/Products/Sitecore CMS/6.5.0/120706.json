@@ -8,14 +8,14 @@
         "Path": "Sitecore 6.5.0 rev. 120706.zip",
         "http://sdn.sitecore.net/downloads/Sitecore650rev120706.download",
         "//mars/Installs/Sitecore/Sitecore 6.5.0/Sitecore 6.5.0 rev.120706 (Update-5)/Sitecore 6.5.0 rev. 120706.zip"
-      ]
+      }
     },
     "analytics": {
       "Downloads": {
         "Path": "DMS 2.0.1 rev. 120706.zip",
         "http://sdn.sitecore.net/downloads/DMS201rev120706.download",
         "//mars/Installs/Sitecore/Sitecore 6.5.0/Sitecore 6.5.0 rev.120706 (Update-5)/DMS 6.5.0 rev. 120706.zip"
-      ]
+      }
     }
   }
 }

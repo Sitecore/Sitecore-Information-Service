@@ -13,25 +13,25 @@
       "Downloads": {
         "Path": "EXM 3.1 rev. 150703.zip/Email Experience Manager - Content Delivery 3.1 rev. 150703.zip",
         "Url": "https://dev.sitecore.net/~/media/383BC967066A4F88A4ED9201EDF1C727.ashx#Email Experience Manager - Content Delivery 3.1 rev. 150703.zip"
-      ]
+      }
     },
     "processing": {
       "Downloads": {
         "Path": "EXM 3.1 rev. 150703.zip/Email Experience Manager - Analytics Processing 3.1 rev. 150703.zip",
         "Url": "https://dev.sitecore.net/~/media/383BC967066A4F88A4ED9201EDF1C727.ashx#Email Experience Manager - Analytics Processing 3.1 rev. 150703.zip"
-      ]
+      }
     },
     "email": {
       "Downloads": {
         "Path": "EXM 3.1 rev. 150703.zip/Email Experience Manager - Email Processing 3.1 rev. 150703.zip",
         "Url": "https://dev.sitecore.net/~/media/383BC967066A4F88A4ED9201EDF1C727.ashx#Email Experience Manager - Email Processing 3.1 rev. 150703.zip"
-      ]
+      }
     },
     "reporting": {
       "Downloads": {
         "Path": "EXM 3.1 rev. 150703.zip/Email Experience Manager - Reporting 3.1 rev. 150703.zip",
         "Url": "https://dev.sitecore.net/~/media/383BC967066A4F88A4ED9201EDF1C727.ashx#Email Experience Manager - Reporting 3.1 rev. 150703.zip"
-      ]
+      }
     }
   },
   "Compatibility": {

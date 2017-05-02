@@ -8,14 +8,14 @@
         "Path": "Sitecore 8.0 rev. 150621.zip",
         "Url": "https://dev.sitecore.net/~/media/D353A1E481E844F1AA4A34B02F963B8D.ashx",
         "//mars/Installs/Sitecore/Sitecore 8.0/Sitecore 8.0 rev.150621(Update4)_released/Sitecore 8.0 rev. 150621.zip"
-      ]
+      }
     },
     "solr": {
       "Downloads": {
         "Path": "Sitecore.Solr.Support 1.0.0 rev. 150612.zip",
         "Url": "https://dev.sitecore.net/~/media/3DF64DE4944C4C0DA583266FEC7EDDE4.ashx",
         "//mars/Installs/Sitecore/Sitecore 8.0/Sitecore 8.0 rev.150621(Update4)_released/Sitecore.Solr.Support 1.0.0 rev. 150612.zip"
-      ]
+      }
     }
   }
 }
