@@ -17,7 +17,7 @@ It is represented by major parts:
 
 The definitions are maintained by PSS engineers who are also contact points in the approprate Sitecore product. 
 The current state of the Definitions repository does not represent current state of Store because Data generation 
-process may take up to 48 hours to complete. [Read more](#definitions-format)
+process may take up to 48 hours to complete. [Read more](#definitions-details)
 
 ### Updater and Client
 
@@ -33,7 +33,7 @@ The data consists of two pieces:
 
 ## Details
 
-### Definitions Format
+### Definitions Details
 
 Definitions consists of:
 
@@ -53,9 +53,9 @@ Revision consists of:
   * Release Date
   * Downloads of Distribution Packages
     * Links to SDN or DEV portals
-    * Links to alternative locations (Optional)
+    * (Optional) Links to alternative locations 
     * Filenames (default filename of the downloaded distribution file)
-  * Compatibility with other products versions or version and revision(s).
+  * (Optional) Compatibility with other products versions or version and revision(s).
   
 Comptibility is defined as
 
@@ -63,3 +63,75 @@ Comptibility is defined as
 * Inner Dictionary with compatible version as key and 
   * either compatible revisions,
   * or empty array if all revisions are compatible
+
+### Definitions Format
+
+Currently supported formats are "2" and "3". 
+
+### Definitions Format "3"
+
+Main data file can have any name and all it can contain is `Metadata`:
+
+```json
+{
+  "Metadata": {
+    "Format": "3"
+  }
+}
+```
+
+In the same directory where main data file is stored, there must be folder called `Products`. 
+
+Every product must be represented by 2 items in the `Products` directory:
+
+* the `Products/<product name>` subdirectory
+* the `Products/<product name>.json` file with Metadata object:
+
+```json
+{
+  "Metadata": {
+    "Alias": "SA",
+    "DefaultPackage": "SA.Sitecore.Azure"
+  }
+}
+```
+
+Every version of the product must be represented by 
+
+* the `Products/<product name>/<product version>` directory
+
+Every revision of the product version must be represented by
+
+* the `Products/<product name>/<product version/<product revison>.json` file that follows the format according to this example:
+
+```
+{
+  "Label": "Update-3",
+  "Date": "2015-04-30",
+  "Update": "3",
+  "Distributions": {
+    "default": {
+      "Downloads": [
+        "filenames:\\\\Email Experience Manager 3.0 rev.150429 NOT SC PACKAGE.zip\\Email Experience Manager 3.0 rev. 150429.zip",
+        "https://dev.sitecore.net/~/media/112486E39AE54610875025BE7FAAC63C.ashx#Email Experience Manager 3.0 rev. 150429.zip#package.zip"
+      ]
+    },
+    "delivery": {
+      "Downloads": [
+        "filenames:\\\\Email Experience Manager 3.0 rev.150429 NOT SC PACKAGE.zip\\Email Experience Manager - CD 3.0 rev. 150429.zip",
+        "https://dev.sitecore.net/~/media/112486E39AE54610875025BE7FAAC63C.ashx#Email Experience Manager - CD 3.0 rev. 150429.zip#package.zip"
+      ]
+    }
+  },
+  "Compatibility": {
+    "Sitecore CMS": {
+      "8.0": []
+    }
+  }
+}
+  ```
+
+Email Experience Manager is distrubited as a regular zip file 
+(`Email Experience Manager 3.0 rev.150429 NOT SC PACKAGE.zip`) with several inner zip files that serve different purposes. 
+The `"default"` distribution here will be `Email Experience Manager 3.0 rev. 150429.zip` which is indended for default 
+Standalone Sitecore installation. The first download link with `filenames:\\\\` prefix is a hint for our NuGet generator which helps to find the distribution package to open. The link to https://dev.sitecore.net contains additional metadata in anchor (`#...` which is ignored by the dev site) and which includes similar information for legacy systems - it ends with #package.zip as the distribution file is a Sitecore Package. 
