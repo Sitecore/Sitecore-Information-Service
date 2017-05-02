@@ -4,21 +4,21 @@
   "Update": "1",
   "Distributions": {
     "default": {
-      "Downloads": [
-        "filenames:\\\\Web Forms for Marketers 2.5 rev. 150209.zip",
-        "https://sdn.sitecore.net/downloads/WebFormsv7_25rev150209.download#package.zip"
-      ]
+      "Downloads": {
+        "Path": "Web Forms for Marketers 2.5 rev. 150209.zip",
+        "Url": "https://sdn.sitecore.net/downloads/WebFormsv7_25rev150209.download#package.zip"
+      }
     },
     "delivery": {
-      "Downloads": [
-        "filenames:\\\\Web Forms for Marketers CD 2.5 rev. 150209.zip",
-        "https://sdn.sitecore.net/downloads/WebFormsv7_25rev150209_CD.download"
+      "Downloads": {
+        "Path": "Web Forms for Marketers CD 2.5 rev. 150209.zip",
+        "Url": "https://sdn.sitecore.net/downloads/WebFormsv7_25rev150209_CD.download"
       ]
     },
     "reporting": {
-      "Downloads": [
-        "filenames:\\\\Web Forms for Marketers Processing 2.5 rev. 150209.zip",
-        "https://sdn.sitecore.net/downloads/WebFormsv7_25rev150209_Processing.download"
+      "Downloads": {
+        "Path": "Web Forms for Marketers Processing 2.5 rev. 150209.zip",
+        "Url": "https://sdn.sitecore.net/downloads/WebFormsv7_25rev150209_Processing.download"
       ]
     }
   }

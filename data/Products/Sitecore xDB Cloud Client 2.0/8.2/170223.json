@@ -4,10 +4,10 @@
   "Update": "0",
   "Distributions": {
     "default": {
-      "Downloads": [
-        "filenames:\\\\Sitecore Cloud Xdb 8.2.1 rev. 170223.zip",
-        "https://dev.sitecore.net/~/media/6A2D9036402C4BE1A16FA972CFFE3CAA.ashx#package.zip"
-      ]
+      "Downloads": {
+        "Path": "Sitecore Cloud Xdb 8.2.1 rev. 170223.zip",
+        "Url": "https://dev.sitecore.net/~/media/6A2D9036402C4BE1A16FA972CFFE3CAA.ashx#package.zip"
+      }
     }
   }
 }

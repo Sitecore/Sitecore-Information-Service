@@ -4,22 +4,22 @@
   "Update": "1",
   "Distributions": {
     "default": {
-      "Downloads": [
-        "filenames:\\\\Web Forms for Marketers 8.2 rev. 161129 NOT SC PACKAGE.zip\\Web Forms for Marketers 8.2 rev. 161129.zip",
-        "https://dev.sitecore.net/~/media/CC1E96521266447F8DCC0A28866FA3CA.ashx#Web Forms for Marketers 8.2 rev. 161129.zip#package.zip"
-      ]
+      "Downloads": {
+        "Path": "Web Forms for Marketers 8.2 rev. 161129 NOT SC PACKAGE.zip/Web Forms for Marketers 8.2 rev. 161129.zip",
+        "Url": "https://dev.sitecore.net/~/media/CC1E96521266447F8DCC0A28866FA3CA.ashx#Web Forms for Marketers 8.2 rev. 161129.zip#package.zip"
+      }
     },
     "delivery": {
-      "Downloads": [
-        "filenames:\\\\Web Forms for Marketers 8.2 rev. 161129 NOT SC PACKAGE.zip\\Web Forms for Marketers CD 8.2 rev. 161129.zip",
-        "https://dev.sitecore.net/~/media/CC1E96521266447F8DCC0A28866FA3CA.ashx#Web Forms for Marketers CD 8.2 rev. 161129.zip"
+      "Downloads": {
+        "Path": "Web Forms for Marketers 8.2 rev. 161129 NOT SC PACKAGE.zip/Web Forms for Marketers CD 8.2 rev. 161129.zip",
+        "Url": "https://dev.sitecore.net/~/media/CC1E96521266447F8DCC0A28866FA3CA.ashx#Web Forms for Marketers CD 8.2 rev. 161129.zip"
       ]
     },
     "reporting": {
-      "Downloads": [
-        "filenames:\\\\Web Forms for Marketers 8.2 rev. 161129 NOT SC PACKAGE.zip\\Web Forms for Marketers Reporting 8.2 rev. 161129.zip",
-        "https://dev.sitecore.net/~/media/CC1E96521266447F8DCC0A28866FA3CA.ashx#Web Forms for Marketers Reporting 8.2 rev. 161129.zip#package.zip"
-      ]
+      "Downloads": {
+        "Path": "Web Forms for Marketers 8.2 rev. 161129 NOT SC PACKAGE.zip/Web Forms for Marketers Reporting 8.2 rev. 161129.zip",
+        "Url": "https://dev.sitecore.net/~/media/CC1E96521266447F8DCC0A28866FA3CA.ashx#Web Forms for Marketers Reporting 8.2 rev. 161129.zip#package.zip"
+      }
     }
   },
   "Compatibility": {

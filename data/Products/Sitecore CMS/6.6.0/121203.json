@@ -4,17 +4,17 @@
   "Update": "2",
   "Distributions": {
     "default": {
-      "Downloads": [
-        "filenames:\\\\Sitecore 6.6.0 rev. 121203.zip",
+      "Downloads": {
+        "Path": "Sitecore 6.6.0 rev. 121203.zip",
         "http://sdn.sitecore.net/downloads/Sitecore660rev121203.download",
-        "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.121203 (Update-2)\\Sitecore 6.6.0 rev. 121203.zip"
+        "//mars/Installs/Sitecore/Sitecore 6.6.0/Sitecore 6.6.0 rev.121203 (Update-2)/Sitecore 6.6.0 rev. 121203.zip"
       ]
     },
     "analytics": {
-      "Downloads": [
-        "filenames:\\\\DMS 6.6.0 rev. 121203.zip",
+      "Downloads": {
+        "Path": "DMS 6.6.0 rev. 121203.zip",
         "http://sdn.sitecore.net/downloads/DMS660rev121203.download",
-        "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.121203 (Update-2)\\DMS 6.6.0 rev. 121203.zip"
+        "//mars/Installs/Sitecore/Sitecore 6.6.0/Sitecore 6.6.0 rev.121203 (Update-2)/DMS 6.6.0 rev. 121203.zip"
       ]
     }
   }

@@ -4,21 +4,21 @@
   "Update": "0",
   "Distributions": {
     "default": {
-      "Downloads": [
-        "filenames:\\\\Data Exchange Framework 1.2.0 rev. 161212.zip",
-        "https://dev.sitecore.net/~/media/9B0CC20823B94E8A8FC08630D3BBA6D1.ashx#package.zip"
-      ]
+      "Downloads": {
+        "Path": "Data Exchange Framework 1.2.0 rev. 161212.zip",
+        "Url": "https://dev.sitecore.net/~/media/9B0CC20823B94E8A8FC08630D3BBA6D1.ashx#package.zip"
+      }
     },
     "provider": {
-      "Downloads": [
-        "filenames:\\\\Sitecore Provider for Data Exchange Framework 1.2.0 rev. 161212.zip",
-        "https://dev.sitecore.net/~/media/4508922BD64440C0AE67175D44B210DA.ashx#package.zip"
-      ]
+      "Downloads": {
+        "Path": "Sitecore Provider for Data Exchange Framework 1.2.0 rev. 161212.zip",
+        "Url": "https://dev.sitecore.net/~/media/4508922BD64440C0AE67175D44B210DA.ashx#package.zip"
+      }
     },
     "sdk": {
-      "Downloads": [
-        "filenames:\\\\Data Exchange Framework Remote SDK 1.2.0 rev. 161212.zip",
-        "https://dev.sitecore.net/~/media/9ED7BFA9BF584C6799379F04328BE66D.ashx"
+      "Downloads": {
+        "Path": "Data Exchange Framework Remote SDK 1.2.0 rev. 161212.zip",
+        "Url": "https://dev.sitecore.net/~/media/9ED7BFA9BF584C6799379F04328BE66D.ashx"
       ]
     }
   }

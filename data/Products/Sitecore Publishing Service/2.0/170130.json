@@ -4,10 +4,10 @@
   "Update": "0",
   "Distributions": {
     "default": {
-      "Downloads": [
-        "filenames:\\\\Sitecore Publishing Module 2.0.0 rev. 170130.zip",
-        "https://dev.sitecore.net/~/media/0494A2E2F9624B0DA566153B050A0560.ashx#package.zip"
-      ]
+      "Downloads": {
+        "Path": "Sitecore Publishing Module 2.0.0 rev. 170130.zip",
+        "Url": "https://dev.sitecore.net/~/media/0494A2E2F9624B0DA566153B050A0560.ashx#package.zip"
+      }
     }
   }
 }

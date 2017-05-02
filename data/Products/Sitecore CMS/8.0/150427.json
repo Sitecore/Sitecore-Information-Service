@@ -4,17 +4,17 @@
   "Update": "3",
   "Distributions": {
     "default": {
-      "Downloads": [
-        "filenames:\\\\Sitecore 8.0 rev. 150427.zip",
-        "https://dev.sitecore.net/~/media/0BD034BC3D8548F990839E1F9E6AA6A8.ashx",
-        "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.150427(Update3)_released\\Sitecore 8.0 rev. 150427.zip"
+      "Downloads": {
+        "Path": "Sitecore 8.0 rev. 150427.zip",
+        "Url": "https://dev.sitecore.net/~/media/0BD034BC3D8548F990839E1F9E6AA6A8.ashx",
+        "//mars/Installs/Sitecore/Sitecore 8.0/Sitecore 8.0 rev.150427(Update3)_released/Sitecore 8.0 rev. 150427.zip"
       ]
     },
     "solr": {
-      "Downloads": [
-        "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 150423.zip",
-        "https://dev.sitecore.net/~/media/42D03DB6E757458C918A5CA3362D9206.ashx",
-        "\\\\mars\\Installs\\Sitecore\\Sitecore 8.0\\Sitecore 8.0 rev.150427(Update3)_released\\Sitecore.Solr.Support 1.0.0 rev. 150423.zip"
+      "Downloads": {
+        "Path": "Sitecore.Solr.Support 1.0.0 rev. 150423.zip",
+        "Url": "https://dev.sitecore.net/~/media/42D03DB6E757458C918A5CA3362D9206.ashx",
+        "//mars/Installs/Sitecore/Sitecore 8.0/Sitecore 8.0 rev.150427(Update3)_released/Sitecore.Solr.Support 1.0.0 rev. 150423.zip"
       ]
     }
   }

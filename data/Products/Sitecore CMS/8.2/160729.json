@@ -4,9 +4,9 @@
   "Update": "0",
   "Distributions": {
     "default": {
-      "Downloads": [
-        "filenames:\\\\Sitecore 8.2 rev. 160729.zip",
-        "https://dev.sitecore.net/~/media/EB50953E80EC46EFB11EB283050AC3D1.ashx"
+      "Downloads": {
+        "Path": "Sitecore 8.2 rev. 160729.zip",
+        "Url": "https://dev.sitecore.net/~/media/EB50953E80EC46EFB11EB283050AC3D1.ashx"
       ]
     }
   }

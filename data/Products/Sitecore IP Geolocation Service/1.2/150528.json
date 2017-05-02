@@ -4,10 +4,10 @@
   "Update": "1",
   "Distributions": {
     "default": {
-      "Downloads": [
-        "filenames:\\\\Sitecore IP Geolocation Service Client 1.2 rev. 150528.zip",
-        "https://sdn.sitecore.net/downloads/SitecoreIPGeolocationServiceClient12rev150528.download#package.zip"
-      ]
+      "Downloads": {
+        "Path": "Sitecore IP Geolocation Service Client 1.2 rev. 150528.zip",
+        "Url": "https://sdn.sitecore.net/downloads/SitecoreIPGeolocationServiceClient12rev150528.download#package.zip"
+      }
     }
   }
 }

@@ -4,28 +4,28 @@
   "Update": "0",
   "Distributions": {
     "default": {
-      "Downloads": [
-        "filenames:\\\\Web Forms for Marketers 8.2 rev. 160801 NOT SC PACKAGE.zip\\Web Forms for Marketers 8.2 rev. 160801.zip",
-        "https://dev.sitecore.net/~/media/3C23956B4C2A455B9E13B900EE01A188.ashx#Web Forms for Marketers 8.2 rev. 160801.zip#package.zip"
-      ]
+      "Downloads": {
+        "Path": "Web Forms for Marketers 8.2 rev. 160801 NOT SC PACKAGE.zip/Web Forms for Marketers 8.2 rev. 160801.zip",
+        "Url": "https://dev.sitecore.net/~/media/3C23956B4C2A455B9E13B900EE01A188.ashx#Web Forms for Marketers 8.2 rev. 160801.zip#package.zip"
+      }
     },
     "delivery": {
-      "Downloads": [
-        "filenames:\\\\Web Forms for Marketers 8.2 rev. 160801 NOT SC PACKAGE.zip\\Web Forms for Marketers CD 8.2 rev. 160801.zip",
-        "https://dev.sitecore.net/~/media/3C23956B4C2A455B9E13B900EE01A188.ashx#Web Forms for Marketers CD 8.2 rev. 160801.zip"
+      "Downloads": {
+        "Path": "Web Forms for Marketers 8.2 rev. 160801 NOT SC PACKAGE.zip/Web Forms for Marketers CD 8.2 rev. 160801.zip",
+        "Url": "https://dev.sitecore.net/~/media/3C23956B4C2A455B9E13B900EE01A188.ashx#Web Forms for Marketers CD 8.2 rev. 160801.zip"
       ]
     },
     "reporting": {
-      "Downloads": [
-        "filenames:\\\\Web Forms for Marketers 8.2 rev. 160801 NOT SC PACKAGE.zip\\Web Forms for Marketers Reporting 8.2 rev. 160801.zip",
-        "https://dev.sitecore.net/~/media/3C23956B4C2A455B9E13B900EE01A188.ashx#Web Forms for Marketers Reporting 8.2 rev. 160801.zip#package.zip"
-      ]
+      "Downloads": {
+        "Path": "Web Forms for Marketers 8.2 rev. 160801 NOT SC PACKAGE.zip/Web Forms for Marketers Reporting 8.2 rev. 160801.zip",
+        "Url": "https://dev.sitecore.net/~/media/3C23956B4C2A455B9E13B900EE01A188.ashx#Web Forms for Marketers Reporting 8.2 rev. 160801.zip#package.zip"
+      }
     },
     "hotfix-135600": {
-      "Downloads": [
-        "filenames:\\\\Web Forms for Marketers 8.2 rev. 160801 Hotfix 135600.zip",
-        "https://dev.sitecore.net/~/media/931EA7A73BAA4494B4CEA002ECE75E80.ashx#package.zip"
-      ]
+      "Downloads": {
+        "Path": "Web Forms for Marketers 8.2 rev. 160801 Hotfix 135600.zip",
+        "Url": "https://dev.sitecore.net/~/media/931EA7A73BAA4494B4CEA002ECE75E80.ashx#package.zip"
+      }
     }
   },
   "Compatibility": {

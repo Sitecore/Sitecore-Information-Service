@@ -4,17 +4,17 @@
   "Update": "7",
   "Distributions": {
     "default": {
-      "Downloads": [
-        "filenames:\\\\Sitecore 6.6.0 rev. 131211.zip",
+      "Downloads": {
+        "Path": "Sitecore 6.6.0 rev. 131211.zip",
         "http://sdn.sitecore.net/downloads/Sitecore660rev131211.download",
-        "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.131211 (Update-7)\\Sitecore 6.6.0 rev. 131211.zip"
+        "//mars/Installs/Sitecore/Sitecore 6.6.0/Sitecore 6.6.0 rev.131211 (Update-7)/Sitecore 6.6.0 rev. 131211.zip"
       ]
     },
     "analytics": {
-      "Downloads": [
-        "filenames:\\\\DMS 6.6.0 rev. 131211.zip",
+      "Downloads": {
+        "Path": "DMS 6.6.0 rev. 131211.zip",
         "http://sdn.sitecore.net/downloads/DMS660rev131211.download",
-        "\\\\mars\\Installs\\Sitecore\\Sitecore 6.6.0\\Sitecore 6.6.0 rev.131211 (Update-7)\\DMS 6.6.0 rev. 131211.zip"
+        "//mars/Installs/Sitecore/Sitecore 6.6.0/Sitecore 6.6.0 rev.131211 (Update-7)/DMS 6.6.0 rev. 131211.zip"
       ]
     }
   }

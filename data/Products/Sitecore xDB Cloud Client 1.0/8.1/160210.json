@@ -4,10 +4,10 @@
   "Update": "0",
   "Distributions": {
     "default": {
-      "Downloads": [
-        "filenames:\\\\Sitecore.Cloud.Xdb.Update 8.1.0 rev. 160210.zip",
-        "https://dev.sitecore.net/~/media/72805582BED849519140ADD0625B0B33.ashx#package.zip"
-      ]
+      "Downloads": {
+        "Path": "Sitecore.Cloud.Xdb.Update 8.1.0 rev. 160210.zip",
+        "Url": "https://dev.sitecore.net/~/media/72805582BED849519140ADD0625B0B33.ashx#package.zip"
+      }
     }
   }
 }

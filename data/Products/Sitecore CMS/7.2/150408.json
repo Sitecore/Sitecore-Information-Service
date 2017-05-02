@@ -4,24 +4,24 @@
   "Update": "4",
   "Distributions": {
     "default": {
-      "Downloads": [
-        "filenames:\\\\Sitecore 7.2 rev. 150408.zip",
+      "Downloads": {
+        "Path": "Sitecore 7.2 rev. 150408.zip",
         "http://sdn.sitecore.net/downloads/Sitecore72rev150408.download",
-        "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 150408(Update-4)_released\\Sitecore 7.2 rev. 150408.zip"
+        "//mars/Installs/Sitecore/Sitecore 7.2/Sitecore 7.2 rev. 150408(Update-4)_released/Sitecore 7.2 rev. 150408.zip"
       ]
     },
     "analytics": {
-      "Downloads": [
-        "filenames:\\\\DMS 7.2 rev. 150408.zip",
+      "Downloads": {
+        "Path": "DMS 7.2 rev. 150408.zip",
         "http://sdn.sitecore.net/downloads/DMS72rev150408.download",
-        "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 150408(Update-4)_released\\DMS 7.2 rev. 150408.zip"
+        "//mars/Installs/Sitecore/Sitecore 7.2/Sitecore 7.2 rev. 150408(Update-4)_released/DMS 7.2 rev. 150408.zip"
       ]
     },
     "solr": {
-      "Downloads": [
-        "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 150407.zip",
-        "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev150407.download",
-        "\\\\mars\\Installs\\Sitecore\\Sitecore 7.2\\Sitecore 7.2 rev. 150408(Update-4)_released\\components\\Sitecore.Solr.Support 1.0.0 rev. 150407.zip"
+      "Downloads": {
+        "Path": "Sitecore.Solr.Support 1.0.0 rev. 150407.zip",
+        "Url": "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev150407.download",
+        "//mars/Installs/Sitecore/Sitecore 7.2/Sitecore 7.2 rev. 150408(Update-4)_released/components/Sitecore.Solr.Support 1.0.0 rev. 150407.zip"
       ]
     }
   }

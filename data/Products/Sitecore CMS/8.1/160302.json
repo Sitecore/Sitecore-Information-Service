@@ -4,15 +4,15 @@
   "Update": "2",
   "Distributions": {
     "default": {
-      "Downloads": [
-        "filenames:\\\\Sitecore 8.1 rev. 160302.zip",
-        "https://dev.sitecore.net/~/media/4AD00668158F4960B7C76B0C7A1B6EED.ashx"
+      "Downloads": {
+        "Path": "Sitecore 8.1 rev. 160302.zip",
+        "Url": "https://dev.sitecore.net/~/media/4AD00668158F4960B7C76B0C7A1B6EED.ashx"
       ]
     },
     "solr": {
-      "Downloads": [
-        "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 160211.zip",
-        "https://dev.sitecore.net/~/media/BC3C996A18054655A04FEEDA72117674.ashx"
+      "Downloads": {
+        "Path": "Sitecore.Solr.Support 1.0.0 rev. 160211.zip",
+        "Url": "https://dev.sitecore.net/~/media/BC3C996A18054655A04FEEDA72117674.ashx"
       ]
     }
   }

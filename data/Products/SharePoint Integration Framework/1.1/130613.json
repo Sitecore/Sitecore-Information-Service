@@ -4,9 +4,9 @@
   "Update": "0",
   "Distributions": {
     "default": {
-      "Downloads": [
-        "filenames:\\\\SharePoint Integration Framework 1.1.0 rev. 130613.zip",
-        "https://sdn.sitecore.net/downloads/SharePointIntegrationFramework110rev130613_zip.download"
+      "Downloads": {
+        "Path": "SharePoint Integration Framework 1.1.0 rev. 130613.zip",
+        "Url": "https://sdn.sitecore.net/downloads/SharePointIntegrationFramework110rev130613_zip.download"
       ]
     }
   }

@@ -4,24 +4,24 @@
   "Update": "2",
   "Distributions": {
     "default": {
-      "Downloads": [
-        "filenames:\\\\Sitecore 7.0 rev. 130918.zip",
+      "Downloads": {
+        "Path": "Sitecore 7.0 rev. 130918.zip",
         "http://sdn.sitecore.net/downloads/Sitecore70rev130918.download",
-        "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 130918(Update-2)_released\\Sitecore 7.0 rev. 130918.zip"
+        "//mars/Installs/Sitecore/Sitecore 7.0/Sitecore 7.0 rev. 130918(Update-2)_released/Sitecore 7.0 rev. 130918.zip"
       ]
     },
     "analytics": {
-      "Downloads": [
-        "filenames:\\\\DMS 7.0 rev. 130918.zip",
+      "Downloads": {
+        "Path": "DMS 7.0 rev. 130918.zip",
         "http://sdn.sitecore.net/downloads/DMS70rev130918.download",
-        "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 130918(Update-2)_released\\DMS 7.0 rev. 130918.zip"
+        "//mars/Installs/Sitecore/Sitecore 7.0/Sitecore 7.0 rev. 130918(Update-2)_released/DMS 7.0 rev. 130918.zip"
       ]
     },
     "solr": {
-      "Downloads": [
-        "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 130918.zip",
-        "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev130918.download",
-        "\\\\mars\\Installs\\Sitecore\\Sitecore 7.0\\Sitecore 7.0 rev. 130918(Update-2)_released\\components\\Sitecore.Solr.Support 1.0.0 rev. 130918.zip"
+      "Downloads": {
+        "Path": "Sitecore.Solr.Support 1.0.0 rev. 130918.zip",
+        "Url": "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev130918.download",
+        "//mars/Installs/Sitecore/Sitecore 7.0/Sitecore 7.0 rev. 130918(Update-2)_released/components/Sitecore.Solr.Support 1.0.0 rev. 130918.zip"
       ]
     }
   }

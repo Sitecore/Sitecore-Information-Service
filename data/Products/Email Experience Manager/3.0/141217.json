@@ -4,10 +4,10 @@
   "Update": "0",
   "Distributions": {
     "default": {
-      "Downloads": [
-        "filenames:\\\\Email Experience Manager 3.0 rev. 141215.zip",
-        "https://dev.sitecore.net/~/media/03802BDFCF7D41A1A5136569CCB87CB0.ashx#package.zip"
-      ]
+      "Downloads": {
+        "Path": "Email Experience Manager 3.0 rev. 141215.zip",
+        "Url": "https://dev.sitecore.net/~/media/03802BDFCF7D41A1A5136569CCB87CB0.ashx#package.zip"
+      }
     }
   },
   "Compatibility": {

@@ -4,10 +4,10 @@
   "Update": "0",
   "Distributions": {
     "default": {
-      "Downloads": [
-        "filenames:\\\\Sitecore Experience Accelerator 1.2 rev. 161216 for 8.2.zip",
-        "https://dev.sitecore.net/~/media/59EA100CCCD248F7A698E3E8CDDD8D7D.ashx#package.zip"
-      ]
+      "Downloads": {
+        "Path": "Sitecore Experience Accelerator 1.2 rev. 161216 for 8.2.zip",
+        "Url": "https://dev.sitecore.net/~/media/59EA100CCCD248F7A698E3E8CDDD8D7D.ashx#package.zip"
+      }
     }
   }
 }

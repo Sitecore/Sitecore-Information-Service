@@ -4,10 +4,10 @@
   "Update": "0",
   "Distributions": {
     "default": {
-      "Downloads": [
-        "filenames:\\\\SharePoint Integration Framework 2.1 rev. 150128.zip",
-        "https://sdn.sitecore.net/downloads/SharePoint%20Integration%20Framework%202.1%20rev.%20150128.zip.download#package.zip"
-      ]
+      "Downloads": {
+        "Path": "SharePoint Integration Framework 2.1 rev. 150128.zip",
+        "Url": "https://sdn.sitecore.net/downloads/SharePoint%20Integration%20Framework%202.1%20rev.%20150128.zip.download#package.zip"
+      }
     }
   }
 }

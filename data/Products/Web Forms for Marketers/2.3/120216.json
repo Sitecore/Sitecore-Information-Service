@@ -4,9 +4,9 @@
   "Update": "2",
   "Distributions": {
     "default": {
-      "Downloads": [
-        "filenames:\\\\Web Forms for Marketers-2.3.0 rev. 120216.zip",
-        "https://sdn.sitecore.net/downloads/WebFormsv6_230rev120216.download"
+      "Downloads": {
+        "Path": "Web Forms for Marketers-2.3.0 rev. 120216.zip",
+        "Url": "https://sdn.sitecore.net/downloads/WebFormsv6_230rev120216.download"
       ]
     }
   }

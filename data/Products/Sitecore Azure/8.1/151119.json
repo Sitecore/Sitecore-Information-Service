@@ -4,10 +4,10 @@
   "Update": "0",
   "Distributions": {
     "default": {
-      "Downloads": [
-        "filenames:\\\\Sitecore Azure 8.1 rev. 151119.zip",
-        "https://dev.sitecore.net/~/media/6E80BEE224B044CC8332CDEAFB644A9F.ashx#package.zip"
-      ]
+      "Downloads": {
+        "Path": "Sitecore Azure 8.1 rev. 151119.zip",
+        "Url": "https://dev.sitecore.net/~/media/6E80BEE224B044CC8332CDEAFB644A9F.ashx#package.zip"
+      }
     }
   }
 }

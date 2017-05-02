@@ -4,16 +4,16 @@
   "Update": "1",
   "Distributions": {
     "default": {
-      "Downloads": [
-        "filenames:\\\\Sitecore 7.5 rev. 150130.zip",
+      "Downloads": {
+        "Path": "Sitecore 7.5 rev. 150130.zip",
         "http://sdn.sitecore.net/downloads/Sitecore75rev150130.download",
-        "\\\\mars\\Installs\\Sitecore\\Sitecore 7.5\\Sitecore 7.5 rev. 150130(Update-1)_released\\Sitecore 7.5 rev. 150130.zip"
+        "//mars/Installs/Sitecore/Sitecore 7.5/Sitecore 7.5 rev. 150130(Update-1)_released/Sitecore 7.5 rev. 150130.zip"
       ]
     },
     "solr": {
-      "Downloads": [
-        "filenames:\\\\Sitecore.Solr.Support 1.0.0 rev. 150116.zip",
-        "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev150116.download"
+      "Downloads": {
+        "Path": "Sitecore.Solr.Support 1.0.0 rev. 150116.zip",
+        "Url": "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev150116.download"
       ]
     }
   }
