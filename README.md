@@ -20,18 +20,24 @@ process may take up to 48 hours to complete.
 Definitions consists of:
 
 * Products
-  * Product Metadata (Alias, Default NuGet)
-  * Product Versions
+  * Name
+  * Metadata (Alias, Default NuGet)
+  * Versions
+    * Version
     * Revisions
-      * Releases
-        * Update Number
-        * Label
-        * Release Date
-        * Downloads of Distribution Packages
-          * Links to SDN or DEV portals
-          * Links to alternative locations (Optional)
-          * Filenames (default filename of the downloaded distribution file)
-        * Compatibility with other products versions or version and revision(s).
+
+Revision consists of:
+
+* Releases 
+  * Release Name (each release must contain "default", but can also have "solr", "delivery", "sdk" etc.)
+  * Update Number (e.g. "7")
+  * Label (e.g. Initial Release, or Update-7, or Service Pack-2)
+  * Release Date
+  * Downloads of Distribution Packages
+    * Links to SDN or DEV portals
+    * Links to alternative locations (Optional)
+    * Filenames (default filename of the downloaded distribution file)
+  * Compatibility with other products versions or version and revision(s).
 
 ## Updater and Client
 
