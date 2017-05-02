@@ -5,8 +5,8 @@
   "Distributions": {
     "default": {
       "Downloads": {
-        "Path": "Sitecore Experience Accelerator 1.1 rev. 161004 for 8.1.zip",
-        "Url": "https://dev.sitecore.net/~/media/F94D898F17D74A25B1F51A3D33B1B07E.ashx#package.zip"
+        "Path": "Sitecore Experience Accelerator 1.1 rev. 161004 for 8.1.zip/package.zip",
+        "Url": "https://dev.sitecore.net/~/media/F94D898F17D74A25B1F51A3D33B1B07E.ashx"
       }
     }
   }

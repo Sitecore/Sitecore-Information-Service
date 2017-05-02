@@ -5,20 +5,20 @@
   "Distributions": {
     "default": {
       "Downloads": {
-        "Path": "Data Exchange Framework 1.1.0 rev. 160817.zip",
-        "Url": "https://dev.sitecore.net/~/media/5EECD90DF76B4337B712075ACB5D98CB.ashx#package.zip"
+        "Path": "Data Exchange Framework 1.1.0 rev. 160817.zip/package.zip",
+        "Url": "https://dev.sitecore.net/~/media/5EECD90DF76B4337B712075ACB5D98CB.ashx"
       }
     },
     "provider": {
       "Downloads": {
-        "Path": "Sitecore Provider for Data Exchange Framework 1.1.0 rev. 160817.zip",
-        "Url": "https://dev.sitecore.net/~/media/459EC41CA379450CBBBB8499EDC39D4A.ashx#package.zip"
+        "Path": "Sitecore Provider for Data Exchange Framework 1.1.0 rev. 160817.zip/package.zip",
+        "Url": "https://dev.sitecore.net/~/media/459EC41CA379450CBBBB8499EDC39D4A.ashx"
       }
     },
     "hotfix": {
       "Downloads": {
-        "Path": "Sitecore Provider for Data Exchange Framework 1.1.0 rev. 160817 HF 128342.zip",
-        "Url": "https://dev.sitecore.net/~/media/8FD3C024F83B4EDAA92A80CDB094C481.ashx#package.zip"
+        "Path": "Sitecore Provider for Data Exchange Framework 1.1.0 rev. 160817 HF 128342.zip/package.zip",
+        "Url": "https://dev.sitecore.net/~/media/8FD3C024F83B4EDAA92A80CDB094C481.ashx"
       }
     },
     "sdk": {

@@ -5,8 +5,8 @@
   "Distributions": {
     "default": {
       "Downloads": {
-        "Path": "Email Experience Manager 3.4.1 rev. 170105 (not sc package).zip/Email Experience Manager 3.4.1 rev. 170105.zip",
-        "Url": "https://dev.sitecore.net/~/media/9F2A6BC12C2D417CA738A084F7893B31.ashx#Email Experience Manager 3.4.1 rev. 170105.zip#package.zip"
+        "Path": "Email Experience Manager 3.4.1 rev. 170105 (not sc package).zip/Email Experience Manager 3.4.1 rev. 170105.zip/package.zip",
+        "Url": "https://dev.sitecore.net/~/media/9F2A6BC12C2D417CA738A084F7893B31.ashx#Email Experience Manager 3.4.1 rev. 170105.zip"
       }
     },
     "delivery": {
@@ -29,8 +29,8 @@
     },
     "reporting": {
       "Downloads": {
-        "Path": "Email Experience Manager 3.4.1 rev. 170105 (not sc package).zip/Email Experience Manager - Reporting 3.4.1 rev. 170105.zip",
-        "Url": "https://dev.sitecore.net/~/media/9F2A6BC12C2D417CA738A084F7893B31.ashx#Email Experience Manager 3.4.1 rev. 170105.zip#package.zip"
+        "Path": "Email Experience Manager 3.4.1 rev. 170105 (not sc package).zip/Email Experience Manager - Reporting 3.4.1 rev. 170105.zip/package.zip",
+        "Url": "https://dev.sitecore.net/~/media/9F2A6BC12C2D417CA738A084F7893B31.ashx#Email Experience Manager 3.4.1 rev. 170105.zip"
       }
     },
     "sample": {

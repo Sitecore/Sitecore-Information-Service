@@ -5,8 +5,8 @@
   "Distributions": {
     "default": {
       "Downloads": {
-        "Path": "SharePoint Integration Framework 2.2 rev. 160617.zip",
-        "Url": "https://dev.sitecore.net/~/media/0C4D139079924B6EAD357335C5AC9002.ashx#package.zip"
+        "Path": "SharePoint Integration Framework 2.2 rev. 160617.zip/package.zip",
+        "Url": "https://dev.sitecore.net/~/media/0C4D139079924B6EAD357335C5AC9002.ashx"
       }
     }
   }

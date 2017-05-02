@@ -5,14 +5,14 @@
   "Distributions": {
     "default": {
       "Downloads": {
-        "Path": "Email Experience Manager 3.0 rev.150223 NOT SC PACKAGE.zip/Email Experience Manager 3.0 rev. 150223.zip",
-        "Url": "https://dev.sitecore.net/~/media/39EA424254834A82B10D42FFB96384D2.ashx#Email Experience Manager 3.0 rev. 150223.zip#package.zip"
+        "Path": "Email Experience Manager 3.0 rev.150223 NOT SC PACKAGE.zip/Email Experience Manager 3.0 rev. 150223.zip/package.zip",
+        "Url": "https://dev.sitecore.net/~/media/39EA424254834A82B10D42FFB96384D2.ashx#Email Experience Manager 3.0 rev. 150223.zip"
       }
     },
     "delivery": {
       "Downloads": {
-        "Path": "Email Experience Manager 3.0 rev.150223 NOT SC PACKAGE.zip/Email Experience Manager - CD 3.0 rev. 150223.zip",
-        "Url": "https://dev.sitecore.net/~/media/39EA424254834A82B10D42FFB96384D2.ashx#Email Experience Manager - CD 3.0 rev. 150223.zip#package.zip"
+        "Path": "Email Experience Manager 3.0 rev.150223 NOT SC PACKAGE.zip/Email Experience Manager - CD 3.0 rev. 150223.zip/package.zip",
+        "Url": "https://dev.sitecore.net/~/media/39EA424254834A82B10D42FFB96384D2.ashx#Email Experience Manager - CD 3.0 rev. 150223.zip"
       }
     }
   },

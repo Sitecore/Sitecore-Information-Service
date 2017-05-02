@@ -5,8 +5,8 @@
   "Distributions": {
     "default": {
       "Downloads": {
-        "Path": "Sitecore Engagement Automation Live Session Agent 2.0.0 rev. 160923.zip",
-        "Url": "https://dev.sitecore.net/~/media/AB597E9426DA492FBB5B93E2A1DB203D.ashx#package.zip"
+        "Path": "Sitecore Engagement Automation Live Session Agent 2.0.0 rev. 160923.zip/package.zip",
+        "Url": "https://dev.sitecore.net/~/media/AB597E9426DA492FBB5B93E2A1DB203D.ashx"
       }
     }
   }

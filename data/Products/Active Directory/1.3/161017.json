@@ -5,8 +5,8 @@
   "Distributions": {
     "default": {
       "Downloads": {
-        "Path": "Sitecore Active Directory component 1.3 rev. 161017.zip",
-        "Url": "https://dev.sitecore.net/~/media/51ABD5676D4046D2B996869CDEC97DCF.ashx#package.zip"
+        "Path": "Sitecore Active Directory component 1.3 rev. 161017.zip/package.zip",
+        "Url": "https://dev.sitecore.net/~/media/51ABD5676D4046D2B996869CDEC97DCF.ashx"
       }
     }
   }

@@ -5,8 +5,8 @@
   "Distributions": {
     "default": {
       "Downloads": {
-        "Path": "SharePoint Integration Framework 1.2 rev. 131216.zip",
-        "Url": "https://sdn.sitecore.net/downloads/SharePointIntegrationFramework12rev131216.download#package.zip"
+        "Path": "SharePoint Integration Framework 1.2 rev. 131216.zip/package.zip",
+        "Url": "https://sdn.sitecore.net/downloads/SharePointIntegrationFramework12rev131216.download"
       }
     }
   }

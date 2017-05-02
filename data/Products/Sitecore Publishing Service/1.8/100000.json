@@ -5,8 +5,8 @@
   "Distributions": {
     "default": {
       "Downloads": {
-        "Path": "Sitecore Publishing Module 1.8.0.zip",
-        "Url": "https://dev.sitecore.net/~/media/01AA6A56288A439C87C0A1F3C4E880C1.ashx#package.zip"
+        "Path": "Sitecore Publishing Module 1.8.0.zip/package.zip",
+        "Url": "https://dev.sitecore.net/~/media/01AA6A56288A439C87C0A1F3C4E880C1.ashx"
       }
     }
   }

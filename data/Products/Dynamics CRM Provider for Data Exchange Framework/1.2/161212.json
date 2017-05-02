@@ -5,8 +5,8 @@
   "Distributions": {
     "default": {
       "Downloads": {
-        "Path": "Dynamics CRM Provider for Data Exchange Framework 1.2.0 rev. 161212.zip",
-        "Url": "https://dev.sitecore.net/~/media/A02E54465E5047FE950D2300B8A58B35.ashx#package.zip"
+        "Path": "Dynamics CRM Provider for Data Exchange Framework 1.2.0 rev. 161212.zip/package.zip",
+        "Url": "https://dev.sitecore.net/~/media/A02E54465E5047FE950D2300B8A58B35.ashx"
       }
     }
   }

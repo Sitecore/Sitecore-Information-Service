@@ -5,8 +5,8 @@
   "Distributions": {
     "default": {
       "Downloads": {
-        "Path": "Sitecore Media Framework 2.2 rev. 160927.zip",
-        "Url": "https://dev.sitecore.net/~/media/20D959305FF24F99918B09B8CEE41F95.ashx#package.zip"
+        "Path": "Sitecore Media Framework 2.2 rev. 160927.zip/package.zip",
+        "Url": "https://dev.sitecore.net/~/media/20D959305FF24F99918B09B8CEE41F95.ashx"
       }
     }
   }

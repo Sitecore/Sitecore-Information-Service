@@ -5,8 +5,8 @@
   "Distributions": {
     "default": {
       "Downloads": {
-        "Path": "Microsoft Dynamics CRM Security Provider 2.3.1 rev. 170106.zip",
-        "Url": "https://dev.sitecore.net/~/media/BB0DBF1320E14384904BCB184F6B36F9.ashx#package.zip"
+        "Path": "Microsoft Dynamics CRM Security Provider 2.3.1 rev. 170106.zip/package.zip",
+        "Url": "https://dev.sitecore.net/~/media/BB0DBF1320E14384904BCB184F6B36F9.ashx"
       }
     }
   }

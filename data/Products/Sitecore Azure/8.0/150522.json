@@ -5,8 +5,8 @@
   "Distributions": {
     "default": {
       "Downloads": {
-        "Path": "Sitecore Azure 8.0 rev. 150522.zip",
-        "Url": "https://dev.sitecore.net/~/media/0A937974247942D3942B98FACF15B009.ashx#package.zip"
+        "Path": "Sitecore Azure 8.0 rev. 150522.zip/package.zip",
+        "Url": "https://dev.sitecore.net/~/media/0A937974247942D3942B98FACF15B009.ashx"
       }
     }
   }

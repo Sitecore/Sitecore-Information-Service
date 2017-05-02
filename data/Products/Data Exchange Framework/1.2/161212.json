@@ -5,14 +5,14 @@
   "Distributions": {
     "default": {
       "Downloads": {
-        "Path": "Data Exchange Framework 1.2.0 rev. 161212.zip",
-        "Url": "https://dev.sitecore.net/~/media/9B0CC20823B94E8A8FC08630D3BBA6D1.ashx#package.zip"
+        "Path": "Data Exchange Framework 1.2.0 rev. 161212.zip/package.zip",
+        "Url": "https://dev.sitecore.net/~/media/9B0CC20823B94E8A8FC08630D3BBA6D1.ashx"
       }
     },
     "provider": {
       "Downloads": {
-        "Path": "Sitecore Provider for Data Exchange Framework 1.2.0 rev. 161212.zip",
-        "Url": "https://dev.sitecore.net/~/media/4508922BD64440C0AE67175D44B210DA.ashx#package.zip"
+        "Path": "Sitecore Provider for Data Exchange Framework 1.2.0 rev. 161212.zip/package.zip",
+        "Url": "https://dev.sitecore.net/~/media/4508922BD64440C0AE67175D44B210DA.ashx"
       }
     },
     "sdk": {

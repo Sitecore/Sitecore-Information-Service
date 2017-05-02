@@ -5,8 +5,8 @@
   "Distributions": {
     "default": {
       "Downloads": {
-        "Path": "Sitecore Campaign Manager 1.0 rev. 150423.zip",
-        "Url": "https://dev.sitecore.net/~/media/859387996A274C7FB82DBFCF3EAADA07.ashx#package.zip"
+        "Path": "Sitecore Campaign Manager 1.0 rev. 150423.zip/package.zip",
+        "Url": "https://dev.sitecore.net/~/media/859387996A274C7FB82DBFCF3EAADA07.ashx"
       }
     }
   }

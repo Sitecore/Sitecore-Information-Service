@@ -5,8 +5,8 @@
   "Distributions": {
     "default": {
       "Downloads": {
-        "Path": "E-mail Campaign Manager 2.2 rev. 141007.zip",
-        "Url": "https://sdn.sitecore.net/downloads/EmailCampaignManager22rev141007.download#package.zip",
+        "Path": "E-mail Campaign Manager 2.2 rev. 141007.zip/package.zip",
+        "Url": "https://sdn.sitecore.net/downloads/EmailCampaignManager22rev141007.download",
         "//mars/Installs/Sitecore/Sitecore 7.5/Modules/E-mail Campaign Manager/E-mail Campaign Manager 2.2 rev. 141007.zip#package.zip"
       }
     },
@@ -19,8 +19,8 @@
     },
     "delivery": {
       "Downloads": {
-        "Path": "E-mail Campaign Manager - CD 2.2 rev. 141007.zip",
-        "Url": "https://sdn.sitecore.net/downloads/E-mailCampaignManagerCD22rev.141007.download#package.zip",
+        "Path": "E-mail Campaign Manager - CD 2.2 rev. 141007.zip/package.zip",
+        "Url": "https://sdn.sitecore.net/downloads/E-mailCampaignManagerCD22rev.141007.download",
         "//mars/Installs/Sitecore/Sitecore 7.5/Modules/E-mail Campaign Manager/E-mail Campaign Manager - CD 2.2 rev. 141007.zip"
       ]
     }

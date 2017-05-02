@@ -5,8 +5,8 @@
   "Distributions": {
     "default": {
       "Downloads": {
-        "Path": "Email Experience Manager 3.2.0 rev. 151020 NOT SC PACKAGE.zip/Email Experience Manager 3.2.0 rev. 151020.zip",
-        "Url": "https://dev.sitecore.net/~/media/Downloads/Email_Experience_Manager/Email_Experience_Manager_32/Email_Experience_Manager_32_Initial_Release/Secure/Email_Experience_Manager_320_rev_151020_NOT_SC_PACKAGE.ashx#Email Experience Manager 3.2.0 rev. 151020.zip#package.zip",
+        "Path": "Email Experience Manager 3.2.0 rev. 151020 NOT SC PACKAGE.zip/Email Experience Manager 3.2.0 rev. 151020.zip/package.zip",
+        "Url": "https://dev.sitecore.net/~/media/Downloads/Email_Experience_Manager/Email_Experience_Manager_32/Email_Experience_Manager_32_Initial_Release/Secure/Email_Experience_Manager_320_rev_151020_NOT_SC_PACKAGE.ashx#Email Experience Manager 3.2.0 rev. 151020.zip",
         "//mars/Installs/Sitecore/Sitecore 8.1/Sitecore 8.1 rev.151003_RTM_release/EXM/EXM 3.2/Email Experience Manager 3.2.0 rev. 151020.zip#package.zip"
       }
     },
@@ -40,8 +40,8 @@
     },
     "sample": {
       "Downloads": {
-        "Path": "Email Experience Manager 3.2.0 rev. 151020 NOT SC PACKAGE.zip/Email Experience Manager Sample Newsletter 3.2.0 rev. 151020.zip",
-        "Url": "https://dev.sitecore.net/~/media/Downloads/Email_Experience_Manager/Email_Experience_Manager_32/Email_Experience_Manager_32_Initial_Release/Secure/Email_Experience_Manager_320_rev_151020_NOT_SC_PACKAGE.ashx#Email Experience Manager Sample Newsletter 3.2.0 rev. 151020.zip#package.zip",
+        "Path": "Email Experience Manager 3.2.0 rev. 151020 NOT SC PACKAGE.zip/Email Experience Manager Sample Newsletter 3.2.0 rev. 151020.zip/package.zip",
+        "Url": "https://dev.sitecore.net/~/media/Downloads/Email_Experience_Manager/Email_Experience_Manager_32/Email_Experience_Manager_32_Initial_Release/Secure/Email_Experience_Manager_320_rev_151020_NOT_SC_PACKAGE.ashx#Email Experience Manager Sample Newsletter 3.2.0 rev. 151020.zip",
         "//mars/Installs/Sitecore/Sitecore 8.1/Sitecore 8.1 rev.151003_RTM_release/EXM/EXM 3.2/Email Experience Manager Sample Newsletter 3.2.0 rev. 151020.zip#package.zip"
       }
     }
