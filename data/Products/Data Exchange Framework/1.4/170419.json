@@ -24,7 +24,7 @@
       },
     },
     
-    "remotesdk" {
+    "remotesdk": {
       "Downloads": {
         "Link": "https://dev.sitecore.net/~/media/49C5DA0F6C5B46D396A9358FD2B80553.ashx",
         "Path": "Data Exchange Framework Remote SDK 1.4.0 rev. 170419.zip"
