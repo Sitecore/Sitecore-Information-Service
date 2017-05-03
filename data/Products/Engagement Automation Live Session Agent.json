@@ -1,6 +1,6 @@
 {
   "Metadata": {
     "Alias": "EAS",
-    "DefaultPackage": "EAS.Sitecore.EngagementAutomation.LiveSessionAgent"
+    "DefaultPackage": "EAS.Sitecore.EngagementAutomation.LiveSessionAgent",
   }
 }

@@ -1,6 +1,6 @@
 {
   "Metadata": {
     "Alias": "MEF",
-    "DefaultPackage": "MEF.Sitecore.MediaFramework"
+    "DefaultPackage": "MEF.Sitecore.MediaFramework",
   }
 }

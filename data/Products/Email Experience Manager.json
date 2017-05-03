@@ -1,6 +1,6 @@
 {
   "Metadata": {
     "Alias": "EXM",
-    "DefaultPackage": "EXM.Sitecore.EmailCampaign"
+    "DefaultPackage": "EXM.Sitecore.EmailCampaign",
   }
 }

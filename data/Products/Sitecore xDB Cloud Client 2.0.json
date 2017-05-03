@@ -1,6 +1,6 @@
 {
   "Metadata": {
     "Alias": "XDBC20",
-    "DefaultPackage": "XDBC20.Sitecore.Cloud.Xdb"
+    "DefaultPackage": "XDBC20.Sitecore.Cloud.Xdb",
   }
 }

@@ -1,6 +1,6 @@
 {
   "Metadata": {
     "Alias": "SA",
-    "DefaultPackage": "SA.Sitecore.Azure"
+    "DefaultPackage": "SA.Sitecore.Azure",
   }
 }

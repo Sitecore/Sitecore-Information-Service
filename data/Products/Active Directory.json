@@ -1,6 +1,6 @@
 {
   "Metadata": {
     "Alias": "AD",
-    "DefaultPackage": "AD.LightLDAP"
+    "DefaultPackage": "AD.LightLDAP",
   }
 }

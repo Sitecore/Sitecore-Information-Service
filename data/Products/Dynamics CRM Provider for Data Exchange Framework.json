@@ -1,6 +1,6 @@
 {
   "Metadata": {
     "Alias": "CRMDEF",
-    "DefaultPackage": "CRMDEF.Sitecore.Connect.Crm"
+    "DefaultPackage": "CRMDEF.Sitecore.Connect.Crm",
   }
 }
