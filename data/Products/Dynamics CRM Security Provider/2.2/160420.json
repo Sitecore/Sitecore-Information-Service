@@ -1,0 +1,19 @@
+{
+  "Label": "Update-1",
+  "Date": "2017-01-06",
+  "Update": "1",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/4D5608A46DC94E1480B78D4E310C0464.ashx",
+        "Path": "Microsoft Dynamics CRM Security Provider 2.2.1 rev. 160420.zip/package.zip",
+      },
+    },
+  },
+  
+  "Compatibility": {
+    "Sitecore CMS": {
+      "8.1": [],
+    },
+  },
+}

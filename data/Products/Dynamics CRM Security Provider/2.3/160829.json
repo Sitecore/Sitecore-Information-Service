@@ -1,0 +1,19 @@
+{
+  "Label": "Initial Release",
+  "Date": "2016-08-29",
+  "Update": "0",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/2C882CCEC3D44C3291CF8EAA3E0098BF.ashx",
+        "Path": "Microsoft Dynamics CRM Security Provider 2.3.0 rev. 160829.zip/package.zip",
+      },
+    },
+  },
+  
+  "Compatibility": {
+    "Sitecore CMS": {
+      "8.2": [],
+    },
+  },
+}
