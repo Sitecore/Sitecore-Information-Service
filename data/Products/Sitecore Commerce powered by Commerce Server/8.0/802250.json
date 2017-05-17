@@ -1,0 +1,27 @@
+{
+  "Label": "Update-1",
+  "Date": "2015-07-08",
+  "Update": "1",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/0E82DA3269894C5FB554E8842C5F1BE1.ashx",
+        "Path": "Sitecore Commerce Server Connect 8.0 rev. 8.0.225.0.update/package.zip/addedfiles",
+      },
+    },
+	
+	 "comcon": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/6D9DFA6900664BF48CDF9DAB3EF63F84.ashx",
+        "Path": "Sitecore Commerce Connect 8.0 rev. 150105.zip/package.zip",
+      },
+    },
+	
+	"merchman": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/EC3580A112D141E6BC3570A1CE1086E0.ashx",
+        "Path": "Sitecore Merchandising Manager 8.0 rev. 8.0.225.0.update/package.zip/addedfiles",
+      },
+    },
+  }
+}

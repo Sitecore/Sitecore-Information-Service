@@ -1,0 +1,62 @@
+{
+  "Label": "Initial Release",
+  "Date": "2015-03-23",
+  "Update": "0",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/1EEF4CE27668466FB5A8F352B4B1F596.ashx",
+        "Path": "Sitecore Commerce Server Connect 8.0 rev. 8.0.211.0.update/package.zip/addedfiles",
+      },
+    },
+	
+	 "comcon": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/1A5FCFD766BF4E3AADBBC117A0A50DFF.ashx",
+        "Path": "Sitecore Commerce Connect 8.0 rev. 150105.zip/package.zip",
+      },
+    },
+	
+	"merchman": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/B67512DF128E499BBE80B96E8E07E7C8.ashx",
+        "Path": "Sitecore Merchandising Manager 8.0 rev. 8.0.211.0.update/package.zip/addedfiles",
+      },
+    },
+	
+	"сonnectdynamicsretail": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/AA4E79AADB6945B28D666587B2234E7F.ashx",
+        "Path": "Connect.DynamicsRetail.8.0.116.0.update/package.zip/addedfiles",
+      },
+    },
+	
+	"dynamicsretailtransactionservice": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/27EAA448EB2046E3B8A8B8559410EC33.ashx",
+        "Path": "DynamicsRetail.TransactionService.8.0.116.0.update/package.zip/addedfiles",
+      },
+    },
+	
+	"sitecorecommerceroutingframework": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/27EAA448EB2046E3B8A8B8559410EC33.ashx",
+        "Path": "Sitecore.Commerce.RoutingFramework.8.0.116.0.update/package.zip/addedfiles",
+      },
+    },
+	
+	"dynamicsretailrouting": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/004F2D0D4C924D78A67D0D1565307C5D.ashx",
+        "Path": "DynamicsRetail.Routing.8.0.116.0.update/package.zip/addedfiles",
+      },
+    },
+	
+	"scpbmd": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/4FEF32A4E0984DABAC826844B2995451.ashx",
+        "Path": "Sitecore.Reference.Storefront.Powered.by.Microsoft.Dynamics.8.0.116.0/package.zip/addedfiles",
+      },
+    },
+  }
+}

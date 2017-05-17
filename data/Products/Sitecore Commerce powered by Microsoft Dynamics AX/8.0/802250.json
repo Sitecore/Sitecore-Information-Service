@@ -1,0 +1,55 @@
+{
+  "Label": "Update-1",
+  "Date": "2015-07-08",
+  "Update": "1",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/80DC6967F1844653B72F1DD60B4081D3.ashx",
+        "Path": "Sitecore Commerce Server Connect 8.0 rev. 8.0.225.0.update/package.zip/addedfiles",
+      },
+    },
+	
+	 "comcon": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/F03D1B35B74348238B1DA6CE697E81EA.ashx",
+        "Path": "Sitecore Commerce Connect 8.0 rev. 150105.zip/package.zip",
+      },
+    },
+	
+	"merchman": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/297001DB1C7B422DBB849BE34FE40886.ashx",
+        "Path": "Sitecore Merchandising Manager 8.0 rev. 8.0.225.0.update/package.zip/addedfiles",
+      },
+    },
+	
+	"sitecorecommercedynamicsintegrationconnect": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/9FFBC6AFE31B4A7287752BF1E2A620AA.ashx",
+        "Path": "Sitecore.Commerce.DynamicsIntegration.Connect.8.0.125.0.update/package.zip/addedfiles",
+      },
+    },
+	
+	"sitecorecommercedynamicsintegrationtransactionservice": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/57034FBE5E5B414DA1D6FCF5EA6F294F.ashx",
+        "Path": "Sitecore.Commerce.DynamicsIntegration.TransactionService.8.0.125.0.update/package.zip/addedfiles",
+      },
+    },
+	
+	"sitecorecommercedynamicsintegrationrouting": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/05203D55C36E408F8C0C5B1FE4C1C380.ashx",
+        "Path": "Sitecore.Commerce.DynamicsIntegration.Routing.8.0.125.0.update/package.zip/addedfiles",
+      },
+    },
+	
+	"sitecorecommerceroutingframework": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/EDBCBB7E39C94F15921D646175AAE61A.ashx",
+        "Path": "Sitecore.Commerce.RoutingFramework.8.0.125.0.update/package.zip/addedfiles",
+      },
+    },
+  }
+}

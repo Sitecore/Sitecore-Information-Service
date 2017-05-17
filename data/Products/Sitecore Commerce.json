@@ -1,0 +1,6 @@
+{
+  "Metadata": {
+    "Alias": "SCOM",
+    "DefaultPackage": "SCOM.Sitecore.Commerce.Connect.CommerceServer",
+  }
+}

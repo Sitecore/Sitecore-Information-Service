@@ -1,0 +1,27 @@
+{
+  "Label": "Initial Release",
+  "Date": "2017-03-01",
+  "Update": "0",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/899DBDF59E50421DBC310C0E2F7BE7EF.ashx",
+        "Path": "Sitecore Commerce Server Connect.8.2.225.update/package.zip/addedfiles",
+      },
+    },
+	
+	 "comcon": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/DA52C4B00C7F46828CD4B63C75B86DCF.ashx",
+        "Path": "Sitecore Commerce Connect 8.2.326.zip/package.zip",
+      },
+    },
+	
+	"merchman": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/478CA3BC0FAD471AA88D0E9CF99A3A40.ashx",
+        "Path": "Sitecore Merchandising Manager.8.2.172.update/package.zip/addedfiles",
+      },
+    },
+  }
+}
