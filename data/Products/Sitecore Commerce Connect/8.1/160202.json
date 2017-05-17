@@ -1,0 +1,13 @@
+{
+  "Label": "Initial Release",
+  "Date": "2016-02-02",
+  "Update": "0",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/B4DF3ABFB30F4282AC487E8FF8B8FE90.ashx",
+        "Path": "Sitecore Commerce Connect 8.1 rev. 160202.zip/package.zip",
+      },
+    },
+  }
+}
