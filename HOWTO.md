@@ -2,11 +2,45 @@
 
 ## Index
 
+* [Intro](#intro)
+  * [Simple Workflow](#simple-workflow)
+  * [Better Workflow](#better-workflow)
 * [How To: Add New Product](#how-to-add-new-product)
   * [1. Create Product Metadata File](#1-create-product-metadata-file)
   * [2. Create Product Release File](#2-create-product-release-file)
 * [How To: Add New Release](#how-to-add-new-release)
   * [3. Create Product Release File](#3-create-product-release-file)
+
+## Intro
+
+In order to perform any changes in the info service definitions, use any of 2 following workflows:
+
+### Simple Workflow
+
+Use Simple Workflow when **only 1 file** needs changing/creating:
+
+* Peform necessary changes in `develop` branch
+* Create Pull Request from `develop` branch to `master`
+* Follow reviewer instructions if provided
+
+As a result:
+
+* Changes will be merged to `master` branch by reviewer
+
+### Better Workflow
+
+Use Better Workflow when **several files** need changing/creating.
+
+* Create `products/sitecore-lollipop` branch
+* Perform necessary changes in `products/sitecore-lollipop` branch
+* Create Pull Request from `products/sitecore-lollipop` branch to `develop`
+* Follow reviewer instructions if provided
+
+As a result:
+
+* Changes will be merged to `develop` branch by reviewer
+* Reviewer will create Pull Request from `develop` branch to `master`
+* Changes will be merged to `master` branch by reviewer
 
 ## How To: Add New Product
 
