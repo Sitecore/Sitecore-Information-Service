@@ -5,13 +5,6 @@
   "Distributions": {
     "default": {
       "Downloads": {
-        "Link": "https://dev.sitecore.net/~/media/1EEF4CE27668466FB5A8F352B4B1F596.ashx",
-        "Path": "Sitecore Commerce Server Connect 8.0 rev. 8.0.211.0.update/package.zip/addedfiles",
-      },
-    },
-	
-    "dynamicsretail": {
-      "Downloads": {
         "Link": "https://dev.sitecore.net/~/media/AA4E79AADB6945B28D666587B2234E7F.ashx",
         "Path": "Connect.DynamicsRetail.8.0.116.0.update/package.zip/addedfiles",
       },
@@ -58,6 +51,12 @@
     },
     
     "Sitecore Commerce Merchandising Manager": {
+      "8.0": [
+        "802110",
+      ],
+    },
+    
+    "Sitecore Commerce powered by Commerce Server": {
       "8.0": [
         "802110",
       ],

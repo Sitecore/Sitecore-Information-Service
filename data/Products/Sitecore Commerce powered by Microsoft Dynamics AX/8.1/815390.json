@@ -5,8 +5,8 @@
   "Distributions": {
     "default": {
       "Downloads": {
-        "Link": "https://dev.sitecore.net/~/media/FC5D0B60EC4844F6A14FB4E4490C3C05.ashx",
-        "Path": "Sitecore Commerce Server Connect 8.1 rev. 8.1.539.0.update/package.zip/addedfiles",
+        "Link": "https://dev.sitecore.net/~/media/E18B00FDA5614D51B2D2ABF896EC885D.ashx",
+        "Path": "Sitecore.Commerce.DynamicsIntegration.TransactionService.8.1.399.0.update/package.zip/addedfiles",
       },
     },
 	
@@ -14,13 +14,6 @@
       "Downloads": {
         "Link": "https://dev.sitecore.net/~/media/196E0F5C86214E068E4FBDB22D6519A0.ashx",
         "Path": "Sitecore.Commerce.DynamicsIntegration.Connect.8.1.399.0.update/package.zip/addedfiles",
-      },
-    },
-	
-    "transactionservice": {
-      "Downloads": {
-        "Link": "https://dev.sitecore.net/~/media/E18B00FDA5614D51B2D2ABF896EC885D.ashx",
-        "Path": "Sitecore.Commerce.DynamicsIntegration.TransactionService.8.1.399.0.update/package.zip/addedfiles",
       },
     },
 	
@@ -53,6 +46,12 @@
     "Sitecore Commerce Merchandising Manager": {
       "8.1": [
         "815430",
+      ],
+    },
+    
+    "Sitecore Commerce powered by Commerce Server": {
+      "8.1": [
+        "815390",
       ],
     },
   },
