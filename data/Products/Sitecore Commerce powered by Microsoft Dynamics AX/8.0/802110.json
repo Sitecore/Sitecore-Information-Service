@@ -10,7 +10,7 @@
       },
     },
 	
-    "retail": {
+    "dynamicsretail": {
       "Downloads": {
         "Link": "https://dev.sitecore.net/~/media/AA4E79AADB6945B28D666587B2234E7F.ashx",
         "Path": "Connect.DynamicsRetail.8.0.116.0.update/package.zip/addedfiles",
