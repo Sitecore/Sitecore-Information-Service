@@ -1,6 +1,6 @@
 {
   "Metadata": {
-    "Alias": "SCpbMD",
-    "DefaultPackage": "SCpbMD.Sitecore.Commerce.Connect.CommerceServer",
+    "Alias": "COMDYN",
+    "DefaultPackage": "COMDYN.RazorTemplates.Core",
   }
 }

@@ -1,6 +1,6 @@
 {
   "Metadata": {
-    "Alias": "SCpbCS",
-    "DefaultPackage": "SCpbCS.Sitecore.Commerce.Connect.CommerceServer",
+    "Alias": "COMSRV",
+    "DefaultPackage": "COMSRV.Sitecore.Commerce.Connect.CommerceServer",
   }
 }
