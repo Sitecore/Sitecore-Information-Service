@@ -9,19 +9,23 @@
         "Path": "Sitecore Commerce Server Connect 8.0 rev. 8.0.225.0.update/package.zip/addedfiles",
       },
     },
-	
-	 "comcon": {
-      "Downloads": {
-        "Link": "https://dev.sitecore.net/~/media/6D9DFA6900664BF48CDF9DAB3EF63F84.ashx",
-        "Path": "Sitecore Commerce Connect 8.0 rev. 150105.zip/package.zip",
-      },
+  },
+  
+  "Compatibility": {
+    "Sitecore CMS": {
+      "8.0": [],
     },
-	
-	"merchman": {
-      "Downloads": {
-        "Link": "https://dev.sitecore.net/~/media/EC3580A112D141E6BC3570A1CE1086E0.ashx",
-        "Path": "Sitecore Merchandising Manager 8.0 rev. 8.0.225.0.update/package.zip/addedfiles",
-      },
+    
+    "Sitecore Commerce Connect": {
+      "8.0": [
+        "150105",
+      ],
     },
-  }
+    
+    "Sitecore Commerce Merchandising Manager": {
+      "8.0": [
+        "802250",
+      ],
+    },
+  },
 }

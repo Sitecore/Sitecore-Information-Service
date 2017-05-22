@@ -10,46 +10,50 @@
       },
     },
 	
-	 "comcon": {
-      "Downloads": {
-        "Link": "https://dev.sitecore.net/~/media/56A528A4CB9C4A439C702C879B793A0A.ashx",
-        "Path": "Sitecore Commerce Connect 8.1 rev. 160202.zip/package.zip",
-      },
-    },
-	
-	"merchman": {
-      "Downloads": {
-        "Link": "https://dev.sitecore.net/~/media/288FAD2470FF4CE6B40C78A32A85E709.ashx",
-        "Path": "Sitecore Merchandising Manager 8.1 rev. 8.1.543.0.update/package.zip/addedfiles",
-      },
-    },
-	
-	"sitecorecommercedynamicsintegrationconnect": {
+    "connect": {
       "Downloads": {
         "Link": "https://dev.sitecore.net/~/media/196E0F5C86214E068E4FBDB22D6519A0.ashx",
         "Path": "Sitecore.Commerce.DynamicsIntegration.Connect.8.1.399.0.update/package.zip/addedfiles",
       },
     },
 	
-	"sitecorecommercedynamicsintegrationtransactionservice": {
+    "transactionservice": {
       "Downloads": {
         "Link": "https://dev.sitecore.net/~/media/E18B00FDA5614D51B2D2ABF896EC885D.ashx",
         "Path": "Sitecore.Commerce.DynamicsIntegration.TransactionService.8.1.399.0.update/package.zip/addedfiles",
       },
     },
 	
-	"sitecorecommercedynamicsintegrationrouting": {
+    "routing": {
       "Downloads": {
         "Link": "https://dev.sitecore.net/~/media/CD912F6D9B4A4035AA334666F45E8151.ashx",
         "Path": "Sitecore.Commerce.DynamicsIntegration.Routing.8.1.399.0.update/package.zip/addedfiles",
       },
     },
 	
-	"sitecorecommerceroutingframework": {
+    "routingframework": {
       "Downloads": {
         "Link": "https://dev.sitecore.net/~/media/A301F1E333A744A5BAA1B1C0AE21BC44.ashx",
         "Path": "Sitecore.Commerce.RoutingFramework.8.1.399.0.update/package.zip/addedfiles",
       },
     },
-  }
+  },
+  
+  "Compatibility": {
+    "Sitecore CMS": {
+      "8.1": [],
+    },
+    
+    "Sitecore Commerce Connect": {
+      "8.1": [
+        "160202",
+      ],
+    },
+    
+    "Sitecore Commerce Merchandising Manager": {
+      "8.1": [
+        "815430",
+      ],
+    },
+  },
 }
