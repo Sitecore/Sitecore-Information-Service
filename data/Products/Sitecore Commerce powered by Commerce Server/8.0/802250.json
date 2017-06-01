@@ -1,0 +1,31 @@
+{
+  "Label": "Update-1",
+  "Date": "2015-07-08",
+  "Update": "1",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/0E82DA3269894C5FB554E8842C5F1BE1.ashx",
+        "Path": "Sitecore Commerce Server Connect 8.0 rev. 8.0.225.0.update/package.zip/addedfiles",
+      },
+    },
+  },
+  
+  "Compatibility": {
+    "Sitecore CMS": {
+      "8.0": [],
+    },
+    
+    "Sitecore Commerce Connect": {
+      "8.0": [
+        "150105",
+      ],
+    },
+    
+    "Sitecore Commerce Merchandising Manager": {
+      "8.0": [
+        "802250",
+      ],
+    },
+  },
+}

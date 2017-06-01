@@ -1,0 +1,58 @@
+{
+  "Label": "Initial Release",
+  "Date": "2016-02-01",
+  "Update": "0",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/E18B00FDA5614D51B2D2ABF896EC885D.ashx",
+        "Path": "Sitecore.Commerce.DynamicsIntegration.TransactionService.8.1.399.0.update/package.zip/addedfiles",
+      },
+    },
+	
+    "connect": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/196E0F5C86214E068E4FBDB22D6519A0.ashx",
+        "Path": "Sitecore.Commerce.DynamicsIntegration.Connect.8.1.399.0.update/package.zip/addedfiles",
+      },
+    },
+	
+    "routing": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/CD912F6D9B4A4035AA334666F45E8151.ashx",
+        "Path": "Sitecore.Commerce.DynamicsIntegration.Routing.8.1.399.0.update/package.zip/addedfiles",
+      },
+    },
+	
+    "routingframework": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/A301F1E333A744A5BAA1B1C0AE21BC44.ashx",
+        "Path": "Sitecore.Commerce.RoutingFramework.8.1.399.0.update/package.zip/addedfiles",
+      },
+    },
+  },
+  
+  "Compatibility": {
+    "Sitecore CMS": {
+      "8.1": [],
+    },
+    
+    "Sitecore Commerce Connect": {
+      "8.1": [
+        "160202",
+      ],
+    },
+    
+    "Sitecore Commerce Merchandising Manager": {
+      "8.1": [
+        "815430",
+      ],
+    },
+    
+    "Sitecore Commerce powered by Commerce Server": {
+      "8.1": [
+        "815390",
+      ],
+    },
+  },
+}

@@ -1,0 +1,6 @@
+{
+  "Metadata": {
+    "Alias": "COMSRV",
+    "DefaultPackage": "COMSRV.Sitecore.Commerce.Connect.CommerceServer",
+  }
+}

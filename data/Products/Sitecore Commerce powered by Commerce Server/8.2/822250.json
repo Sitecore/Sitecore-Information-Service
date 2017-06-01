@@ -1,0 +1,31 @@
+{
+  "Label": "Initial Release",
+  "Date": "2017-03-01",
+  "Update": "0",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/899DBDF59E50421DBC310C0E2F7BE7EF.ashx",
+        "Path": "Sitecore Commerce Server Connect.8.2.225.update/package.zip/addedfiles",
+      },
+    },
+  },
+  
+  "Compatibility": {
+    "Sitecore CMS": {
+      "8.2": [],
+    },
+    
+    "Sitecore Commerce Connect": {
+      "8.2": [
+        "823260",
+      ],
+    },
+    
+    "Sitecore Commerce Merchandising Manager": {
+      "8.2": [
+        "821720",
+      ],
+    },
+  },
+}

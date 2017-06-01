@@ -1,0 +1,13 @@
+{
+  "Label": "Initial Release",
+  "Date": "2017-03-01",
+  "Update": "0",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/563EEF4EC1E84B539CB84AF1C7A48463.ashx",
+        "Path": "Sitecore Merchandising Manager.8.2.172.update/package.zip/addedfiles",
+      },
+    },
+  }
+}
