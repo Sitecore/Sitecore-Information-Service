@@ -1,0 +1,13 @@
+{
+  "Label": "Update-4",
+  "Date": "2017-06-27",
+  "Update": "4",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/168DCCAD06C947F69BA015F3A0238F29.ashx",
+        "Path": "Sitecore 8.2 rev. 170614.zip",
+      },
+    },
+  }
+}
