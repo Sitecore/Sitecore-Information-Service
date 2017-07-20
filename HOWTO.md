@@ -13,27 +13,13 @@
 
 ## Intro
 
-In order to perform any changes in the info service definitions, use any of 2 following workflows:
+In order to perform any changes in the info service definitions, use the following workflow:
 
-### Simple Workflow
+### Workflow
 
-Use Simple Workflow when **only 1 file** needs changing/creating:
-
-* Peform necessary changes in `develop` branch
-* Create Pull Request from `develop` branch to `master`
-* Follow reviewer instructions if provided
-
-As a result:
-
-* Changes will be merged to `master` branch by reviewer
-
-### Better Workflow
-
-Use Better Workflow when **several files** need changing/creating.
-
-* Create `products/sitecore-lollipop` branch
-* Perform necessary changes in `products/sitecore-lollipop` branch
-* Create Pull Request from `products/sitecore-lollipop` branch to `develop`
+* Create `feature/<something>` branch (for example `feature/add-wffm-823-824`)
+* Perform necessary changes in `products/<something>` branch
+* Create Pull Request from `products/<something>` branch to `develop`
 * Follow reviewer instructions if provided
 
 As a result:
