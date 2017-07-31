@@ -1,0 +1,21 @@
+{
+  "Label": "Update-1",
+  "Date": "2017-05-19",
+  "Update": "1",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/44C0A3FDFA87434799EB33323B14C858.ashx",
+        "Path": "Sitecore Experience Accelerator 1.3 rev. 170519 for 8.1.zip/package.zip",
+      },
+    },
+  },
+  
+  "Compatibility": {
+    "Sitecore CMS": {
+      "8.1": [
+		"160519",
+	  ]
+    },
+  }
+}
