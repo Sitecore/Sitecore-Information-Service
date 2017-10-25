@@ -3,8 +3,7 @@
 ## Index
 
 * [Intro](#intro)
-  * [Simple Workflow](#simple-workflow)
-  * [Better Workflow](#better-workflow)
+* [Workflow](#workflow)
 * [How To: Add New Product](#how-to-add-new-product)
   * [1. Create Product Metadata File](#1-create-product-metadata-file)
   * [2. Create Product Release File](#2-create-product-release-file)
