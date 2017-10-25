@@ -1,0 +1,35 @@
+{
+  "Label": "Update-5",
+  "Date": "2017-08-07",
+  "Update": "5",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/9F527DA5F77B47CDB46DA56E9B0263E1.ashx",
+        "Path": "Web Forms for Marketers 8.2.5 rev. 170807 NOT SC PACKAGE.zip/Web Forms for Marketers 8.2 rev. 170807.zip/package.zip",
+      },
+    },
+    
+    "delivery": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/9F527DA5F77B47CDB46DA56E9B0263E1.ashx",
+        "Path": "Web Forms for Marketers 8.2.5 rev. 170807 NOT SC PACKAGE.zip/Web Forms for Marketers CD 8.2 rev. 170807.zip",
+      },
+    },
+    
+    "reporting": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/9F527DA5F77B47CDB46DA56E9B0263E1.ashx",
+        "Path": "Web Forms for Marketers 8.2.5 rev. 170807 NOT SC PACKAGE.zip/Web Forms for Marketers Reporting 8.2 rev. 170807.zip/package.zip",
+      },
+    },
+  },
+  
+  "Compatibility": {
+    "Sitecore CMS": {
+      "8.2": [
+        "170728"
+      ],
+    },
+  }
+}
