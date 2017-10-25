@@ -18,7 +18,7 @@ In order to perform any changes in the info service definitions, use the followi
 
 * Create `feature/<something>` branch (for example `feature/add-wffm-823-824`)
 * Perform necessary changes in `products/<something>` branch
-* Create Pull Request from `products/<something>` branch to `develop`
+* Create Pull Request from `products/<something>` branch to `master`
 * Follow reviewer instructions if provided
 
 As a result:
