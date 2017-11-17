@@ -1,0 +1,13 @@
+{
+  "Label": "Initial Release",
+  "Date": "2015-05-22",
+  "Revision": "150522",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/0A937974247942D3942B98FACF15B009.ashx",
+        "Path": "Sitecore Azure 8.0 rev. 150522.zip/package.zip",
+      },
+    },
+  }
+}

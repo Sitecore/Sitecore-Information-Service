@@ -1,0 +1,27 @@
+{
+  "Label": "Initial Release",
+  "Date": "2013-11-27",
+  "Revision": "130926",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "http://sdn.sitecore.net/downloads/Sitecore71rev130926.download",
+        "Path": "Sitecore 7.1 rev. 130926.zip",
+      },
+    },
+    
+    "analytics": {
+      "Downloads": {
+        "Link": "http://sdn.sitecore.net/downloads/DMS71rev130926.download",
+        "Path": "DMS 7.1 rev. 130926.zip",
+      },
+    },
+    
+    "solr": {
+      "Downloads": {
+        "Link": "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev130924.download",
+        "Path": "Sitecore.Solr.Support 1.0.0 rev. 130924.zip",
+      },
+    },
+  }
+}

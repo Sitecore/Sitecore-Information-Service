@@ -1,0 +1,28 @@
+{
+  "Label": "Update-3",
+  "Date": "2016-05-20",
+  "Revision": "160523",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/A95E0F9193C84F0C8E1E58B088894CCE.ashx",
+        "Path": "Web Forms for Marketers 8.1 rev. 160523 NOT SC PACKAGE-.zip/Web Forms for Marketers 8.1 rev. 160523.zip/package.zip",
+      },
+    },
+    
+    "delivery": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/A95E0F9193C84F0C8E1E58B088894CCE.ashx",
+        "Path": "Web Forms for Marketers 8.1 rev. 160523 NOT SC PACKAGE-.zip/Web Forms for Marketers CD 8.1 rev. 160523.zip",
+      },
+    },
+  },
+  
+  "Compatibility": {
+    "Sitecore CMS": {
+      "8.1": [
+        "160519"
+      ],
+    },
+  }
+}

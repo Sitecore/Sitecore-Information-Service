@@ -1,0 +1,13 @@
+{
+  "Label": "Initial Release",
+  "Date": "2013-06-13",
+  "Revision": "130613",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://sdn.sitecore.net/downloads/SharePointIntegrationFramework110rev130613_zip.download",
+        "Path": "SharePoint Integration Framework 1.1.0 rev. 130613.zip",
+      },
+    },
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "Label": "Update-2",
+  "Date": "2017-07-13",
+  "Revision": "170713",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/CE25E3732581426E8086D192A9B4A190.ashx",
+        "Path": "Email Experience Manager 3.4.2 rev. 170713 NOT SC PACKAGE.zip/Email Experience Manager 3.4.2 rev. 170713.zip/package.zip",
+      },
+    },
+    
+    "delivery": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/CE25E3732581426E8086D192A9B4A190.ashx",
+        "Path": "Email Experience Manager 3.4.2 rev. 170713 NOT SC PACKAGE.zip/Email Experience Manager - Content Delivery 3.4.2 rev. 170713.zip",
+      },
+    },
+    
+    "processing": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/CE25E3732581426E8086D192A9B4A190.ashx",
+        "Path": "Email Experience Manager 3.4.2 rev. 170713 NOT SC PACKAGE.zip/Email Experience Manager - Analytics Processing 3.4.2 rev. 170713.zip",
+      },
+    },
+    
+    "email": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/CE25E3732581426E8086D192A9B4A190.ashx",
+        "Path": "Email Experience Manager 3.4.2 rev. 170713 NOT SC PACKAGE.zip/Email Experience Manager - Email Processing 3.4.2 rev. 170713.zip",
+      },
+    },
+    
+    "reporting": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/CE25E3732581426E8086D192A9B4A190.ashx",
+        "Path": "Email Experience Manager 3.4.2 rev. 170713 NOT SC PACKAGE.zip/Email Experience Manager - Reporting 3.4.2 rev. 170713.zip/package.zip",
+      },
+    },
+    
+    "sample": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/CE25E3732581426E8086D192A9B4A190.ashx",
+        "Path": "Email Experience Manager 3.4.2 rev. 170713 NOT SC PACKAGE.zip/Email Experience Manager Sample Newsletter 3.4.2 rev. 170713.zip",
+      },
+    },
+  },
+  
+  "Compatibility": {
+    "Sitecore CMS": {
+      "8.2": [
+        "170713",
+        "170614",
+      ],
+    },
+  }
+}

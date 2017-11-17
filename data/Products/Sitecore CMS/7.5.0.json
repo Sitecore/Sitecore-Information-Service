@@ -1,0 +1,20 @@
+{
+  "Label": "Initial Release",
+  "Date": "2014-10-14",
+  "Revision": "141003",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://sdn.sitecore.net/downloads/Sitecore75re141003.download",
+        "Path": "Sitecore 7.5 rev. 141003.zip",
+      },
+    },
+    
+    "solr": {
+      "Downloads": {
+        "Link": "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev141001.download",
+        "Path": "Sitecore.Solr.Support 1.0.0 rev. 141001.zip",
+      },
+    },
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "Label": "Update-3",
+  "Date": "2016-12-20",
+  "Revision": "161216",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://sdn.sitecore.net/downloads/SitecoreIPGeolocationServiceClient11rev161216.download",
+        "Path": "Sitecore IP Geolocation Service Client 1.1 rev. 161216.zip/package.zip",
+      },
+    },
+  }
+}

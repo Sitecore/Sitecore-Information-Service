@@ -1,0 +1,25 @@
+{
+  "Label": "Initial Release",
+  "Date": "2017-04-19",
+  "Revision": "170419",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/DB1B291B221A499CA3662D56626BE808.ashx",
+        "Path": "Dynamics CRM Provider for Data Exchange Framework 1.4.0 rev. 170419.zip/package.zip",
+      },
+    },
+  },
+  
+  "Compatibility": {
+    "Sitecore CMS": {
+      "8.1": [ 
+        "151207",
+        "160302",
+        "160519",
+      ],
+      
+      "8.2": [],
+    },
+  }
+}

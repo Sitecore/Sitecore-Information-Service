@@ -1,0 +1,61 @@
+{
+  "Label": "Initial Release",
+  "Date": "2017-03-01",
+  "Revision": "822250",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/7B2F4E83649042CABBCECDBC28188E49.ashx",
+        "Path": "Sitecore Commerce Server Connect.8.2.225.update/package.zip/addedfiles",
+      },
+    },
+	
+   "connect": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/26082412B5774F14BEE1BF846261E072.ashx",
+        "Path": "Sitecore Commerce Connect 8.2.326.zip/package.zip",
+      },
+    },
+	
+    "merchandisingmanager": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/563EEF4EC1E84B539CB84AF1C7A48463.ashx",
+        "Path": "Sitecore Merchandising Manager.8.2.172.update/package.zip/addedfiles",
+      },
+    },
+	
+    "dynamicsintegration": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/1B28C43F84A74F709FCE091594C1BBF8.ashx",
+        "Path": "Sitecore.Commerce.DynamicsIntegration.Connect.8.2.117.update/package.zip/addedfiles",
+      },
+    },
+	
+    "transactionservice": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/E2F45C13F4FC4A869FD8BFF3C15CDFCD.ashx",
+        "Path": "Sitecore.Commerce.DynamicsIntegration.TransactionService.8.2.117.update/package.zip/addedfiles",
+      },
+    },
+	
+    "dataexchange": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/D5740B396AED42E5ACFFB15F75D717DE.ashx",
+        "Path": "Sitecore.Commerce.DataExchange.Core.8.2.171.update/package.zip/addedfiles",
+      },
+    },
+	
+    "dynamicsretail": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/03EC18109DCE4486831B695B863D297F.ashx",
+        "Path": "Sitecore.Commerce.DataExchange.Providers.DynamicsRetail.8.2.171.update/package.zip/addedfiles",
+      },
+    },
+  },
+  
+  "Compatibility": {
+    "Sitecore CMS": {
+      "8.2": [],
+    },
+  },
+}

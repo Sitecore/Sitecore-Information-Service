@@ -1,0 +1,20 @@
+{
+  "Label": "Update-7",
+  "Date": "2013-12-13",
+  "Revision": "131211",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "http://sdn.sitecore.net/downloads/Sitecore660rev131211.download",
+        "Path": "Sitecore 6.6.0 rev. 131211.zip",
+      },
+    },
+    
+    "analytics": {
+      "Downloads": {
+        "Link": "http://sdn.sitecore.net/downloads/DMS660rev131211.download",
+        "Path": "DMS 6.6.0 rev. 131211.zip",
+      },
+    },
+  }
+}
