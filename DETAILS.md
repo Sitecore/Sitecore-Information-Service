@@ -4,6 +4,8 @@
 
 ### Definitions Details
 
+**Important!** Read [VERSIONING.md](VERSIONING.md) document first.
+
 Definitions consists of:
 
 * Products
@@ -17,9 +19,9 @@ Revision consists of:
 
 * Releases 
   * Release Name (each release must contain "default", but can also have "solr", "delivery", "sdk" etc.)
-  * Update Number (e.g. "7")
   * Label (e.g. Initial Release, or Update-7, or Service Pack-2)
   * Release Date
+  * Revision
   * Downloads of Distribution Packages
     * Links to SDN or DEV portals
     * Path (name of downloaded zip file plus *optional* path in this zip if necessary)
@@ -71,19 +73,15 @@ distinct two SXA versions: "Sitecore Experience Accelerator for 8.2" and "Siteco
 The DefaultPackage is the default NuGet package that will be installed by Patch Creator when this module is selected.
 Obviously, it must be a combination of Alias and the Assembly file name that is presented in all revisions of the product.
 
-Every version of the product must be represented by 
+Every release of the product must be represented by 
 
-* the `Products/<product name>/<product version>` directory
-
-Every revision of the product version must be represented by
-
-* the `Products/<product name>/<product version>/<product revison>.json` file that follows the format according to this example:
+* the `Products/<product name>/<product version>.json` file that follows the format according to this example:
 
 ```
 {
   "Label": "Update-3",
   "Date": "2015-04-30",
-  "Update": "3",
+  "Revision": "150429",
   "Distributions": {
     "default": {
       "Downloads": {
