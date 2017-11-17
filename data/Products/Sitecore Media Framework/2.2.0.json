@@ -1,0 +1,13 @@
+{
+  "Label": "Initial Release",
+  "Date": "2016-09-27",
+  "Revision": "160927",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/20D959305FF24F99918B09B8CEE41F95.ashx",
+        "Path": "Sitecore Media Framework 2.2 rev. 160927.zip/package.zip",
+      },
+    },
+  }
+}

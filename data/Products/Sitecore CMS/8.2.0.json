@@ -1,0 +1,13 @@
+{
+  "Label": "Initial Release",
+  "Date": "2016-08-31",
+  "Revision": "160729",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/EB50953E80EC46EFB11EB283050AC3D1.ashx",
+        "Path": "Sitecore 8.2 rev. 160729.zip",
+      },
+    },
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Label": "Initial Release",
+  "Date": "2014-10-07",
+  "Revision": "141007",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://sdn.sitecore.net/downloads/EmailCampaignManager22rev141007.download",
+        "Path": "E-mail Campaign Manager 2.2 rev. 141007.zip/package.zip",
+      },
+    },
+    
+    "speak components": {
+      "Downloads": {
+        "Link": "https://sdn.sitecore.net/downloads/SPEAK100rev140131.download",
+        "Path": "SPEAK 1.0.0 rev. 140131.zip",
+      },
+    },
+    
+    "delivery": {
+      "Downloads": {
+        "Link": "https://sdn.sitecore.net/downloads/E-mailCampaignManagerCD22rev.141007.download",
+        "Path": "E-mail Campaign Manager - CD 2.2 rev. 141007.zip/package.zip",
+      },
+    },
+  }
+}

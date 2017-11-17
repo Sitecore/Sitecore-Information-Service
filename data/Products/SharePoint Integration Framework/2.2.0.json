@@ -1,0 +1,19 @@
+{
+  "Label": "Initial Release",
+  "Date": "2016-06-17",
+  "Revision": "160617",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/0C4D139079924B6EAD357335C5AC9002.ashx",
+        "Path": "SharePoint Integration Framework 2.2 rev. 160617.zip/package.zip",
+      },
+    },
+  },
+  
+  "Compatibility": {
+    "Sitecore CMS": {
+      "8.1": []
+    },
+  }
+}

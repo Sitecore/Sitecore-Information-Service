@@ -1,0 +1,13 @@
+{
+  "Label": "Initial Release",
+  "Date": "2017-10-18",
+  "Revision": "171002",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/E30F4102F3224859961E15532AEDED5F.ashx",
+        "Path": "Sitecore 9.0.0 rev. 171002.zip",
+      },
+    },
+  }
+}

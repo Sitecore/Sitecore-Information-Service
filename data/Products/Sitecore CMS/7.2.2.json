@@ -1,0 +1,27 @@
+{
+  "Label": "Update-2",
+  "Date": "2014-05-30",
+  "Revision": "140526",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "http://sdn.sitecore.net/downloads/Sitecore72rev140526.download",
+        "Path": "Sitecore 7.2 rev. 140526.zip",
+      },
+    },
+    
+    "analytics": {
+      "Downloads": {
+        "Link": "http://sdn.sitecore.net/downloads/DMS72rev140526.download",
+        "Path": "DMS 7.2 rev. 140526.zip",
+      },
+    },
+    
+    "solr": {
+      "Downloads": {
+        "Link": "https://sdn.sitecore.net/downloads/SitecoreSolrSupport100rev140526.download",
+        "Path": "Sitecore.Solr.Support 1.0.0 rev. 140526.zip",
+      },
+    },
+  }
+}

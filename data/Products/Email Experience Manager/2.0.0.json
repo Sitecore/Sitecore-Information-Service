@@ -1,0 +1,27 @@
+{
+  "Label": "ECM 2.0",
+  "Date": "2013-01-23",
+  "Revision": "130123",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://sdn.sitecore.net/downloads/EmailCampaignManager200rev130123.download",
+        "Path": "E-mail Campaign Manager 2.0.0 rev. 130123.zip",
+      },
+    },
+    
+    "speak components": {
+      "Downloads": {
+        "Link": "https://sdn.sitecore.net/downloads/SPEAK100rev130123.download",
+        "Path": "SPEAK 1.0.0 rev. 130123.zip",
+      },
+    },
+    
+    "ecm save actions for wffm": {
+      "Downloads": {
+        "Link": "https://sdn.sitecore.net/downloads/ECM2_SaveActions100rev130128.download",
+        "Path": "ECM 2 Save Actions 1.0.0 rev. 130128.zip",
+      },
+    },
+  }
+}
