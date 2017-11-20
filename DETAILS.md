@@ -36,16 +36,16 @@ Comptibility is defined as
 
 ### Definitions Format
 
-Currently supported format is "4".
+Currently supported format is "5".
 
-### Definitions Format "4"
+### Definitions Format "5"
 
 Main data file can have any name and all it can contain is `Metadata`:
 
 ```json
 {
   "Metadata": {
-    "Format": "4"
+    "Format": "5"
   }
 }
 ```
