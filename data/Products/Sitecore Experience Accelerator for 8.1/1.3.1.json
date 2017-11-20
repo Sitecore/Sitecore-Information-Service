@@ -12,10 +12,8 @@
   },
   
   "Compatibility": {
-    "Sitecore CMS": {
-      "8.1": [
-		"160519",
-	  ]
-    },
-  }
+    "Sitecore CMS": [
+      "8.1.3",
+    ],
+  },
 }

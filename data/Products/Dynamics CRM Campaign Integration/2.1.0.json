@@ -12,12 +12,11 @@
   },
   
   "Compatibility": {
-    "Sitecore CMS": { 
-      "8.0": []
-    },
-    
-    "Web Forms for Marketers": {
-      "8.0": []
-    },
-  }
+    "Sitecore CMS": [
+      "8.0",
+    ],
+    "Web Forms for Marketers": [
+      "8.0",
+    ],
+  },
 }
