@@ -9,34 +9,15 @@
         "Path": "xDB Data Migration Tool for Data Exchange Framework 2.0.0 rev. 171013.zip/package.zip",
       },
     },
-	"Data Exchange Framework 2.0": {
-      "Downloads": {
-        "Link": "https://dev.sitecore.net/~/media/FCA83A4F496244CEB1303A3C881942FD.ashx",
-        "Path": "Data Exchange Framework 2.0.0 rev. 171013.zip/package.zip",
-      },
-    },
-	"MongoDB Provider for Data Exchange Framework 2.0": {
-      "Downloads": {
-        "Link": "https://dev.sitecore.net/~/media/FAC76B992BE24F198418F62F07886CDE.ashx",
-        "Path": "MongoDB Provider for Data Exchange Framework 2.0.0 rev. 171013.zip/package.zip",
-      },
-    },
-	"Sitecore Provider for Data Exchange Framework 2.0": {
-      "Downloads": {
-        "Link": "https://dev.sitecore.net/~/media/B970453EC52C4180A3525D9579BE8F53.ashx",
-        "Path": "Sitecore Provider for Data Exchange Framework 2.0.0 rev. 171013.zip/package.zip",
-      },
-    },
-	"xConnect Provider for Data Exchange Framework 2.0": {
-      "Downloads": {
-        "Link": "https://dev.sitecore.net/~/media/CF9B3B983B2B40E99EFE3E73A181DE1E.ashx",
-        "Path": "xConnect Provider for Data Exchange Framework 2.0.0 rev. 171013.zip/package.zip",
-      },
-    },
   },
-    "Compatibility": {
+  
+  "Compatibility": {
     "Sitecore CMS": [
-      "9.0",
+      "9.0.0",
+    ],
+    
+    "Data Exchange Framework": [
+      "2.0.0",
     ],
   },
 }
