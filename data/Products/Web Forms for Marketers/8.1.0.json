@@ -1,0 +1,26 @@
+{
+  "Label": "Initial Release",
+  "Date": "2015-10-20",
+  "Revision": "151008",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/Downloads/Web_Forms_For_Marketers/Web_Forms_For_Marketers_81/Web_Forms_For_Marketers_81_Initial_Version/Secure/Web_Forms_For_Marketers_81_rev_151008_Initial_NOT_SC_PACKAGE.ashx",
+        "Path": "Web Forms For Marketers 8.1 rev. 151008 Initial NOT SC PACKAGE.zip/Web Forms for Marketers 8.1 rev. 151008.zip/package.zip",
+      },
+    },
+    
+    "delivery": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/Downloads/Web_Forms_For_Marketers/Web_Forms_For_Marketers_81/Web_Forms_For_Marketers_81_Initial_Version/Secure/Web_Forms_For_Marketers_81_rev_151008_Initial_NOT_SC_PACKAGE.ashx",
+        "Path": "Web Forms For Marketers 8.1 rev. 151008 Initial NOT SC PACKAGE.zip/Web Forms for Marketers CD 8.1 rev. 151008.zip",
+      },
+    },
+  },
+  
+  "Compatibility": {
+    "Sitecore CMS": [
+      "8.1.0",
+    ],
+  },
+}

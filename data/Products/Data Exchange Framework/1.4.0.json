@@ -1,0 +1,43 @@
+{
+  "Label": "Initial Release",
+  "Date": "2017-04-19",
+  "Revision": "170419",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/86FEF72FCA77478F9B1BBBACDCDBA457.ashx",
+        "Path": "Data Exchange Framework 1.4.0 rev. 170419.zip/package.zip",
+      },
+    },
+    
+    "provider": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/BA489D3ED88148DB85EBD5043A941760.ashx",
+        "Path": "Sitecore Provider for Data Exchange Framework 1.4.0 rev. 170419.zip/package.zip",
+      },
+    },
+    
+    "sdk": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/B2C3CDC1E78A41D098D60A9AAD592169.ashx",
+        "Path": "Data Exchange Framework SDK 1.4.0 rev. 170419.zip",
+      },
+    },
+    
+    "remotesdk": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/49C5DA0F6C5B46D396A9358FD2B80553.ashx",
+        "Path": "Data Exchange Framework Remote SDK 1.4.0 rev. 170419.zip",
+      },
+    },
+  },
+  
+  "Compatibility": {
+    "Sitecore CMS": [
+      "8.1.1",
+      "8.1.2",
+      "8.1.3",
+      "8.2",
+    ],
+  },
+}

@@ -1,0 +1,27 @@
+{
+  "Label": "Initial Release",
+  "Date": "2014-10-14",
+  "Revision": "141014",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://sdn.sitecore.net/downloads/WebFormsv7_25rev141014.download",
+        "Path": "Web Forms for Marketers 2.5 rev. 141014.zip/package.zip",
+      },
+    },
+    
+    "delivery": {
+      "Downloads": {
+        "Link": "https://sdn.sitecore.net/downloads/WebFormsv7_25rev141014_CD.download",
+        "Path": "Web Forms for Marketers CD 2.5 rev. 141014.zip",
+      },
+    },
+    
+    "reporting": {
+      "Downloads": {
+        "Link": "https://sdn.sitecore.net/downloads/WebFormsv7_25rev141014_Processing.download",
+        "Path": "Web Forms for Marketers Processing 2.5 rev. 141014.zip",
+      },
+    },
+  }
+}

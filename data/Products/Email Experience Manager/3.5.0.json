@@ -1,0 +1,54 @@
+{
+  "Label": "Initial Release",
+  "Date": "2017-08-10",
+  "Revision": "170810",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/38DD83DD2EDD430A84D058457A1C5BAA.ashx",
+        "Path": "Email Experience Manager 3.5.0 rev. 170810 NOT SC PACKAGE.zip/Email Experience Manager 3.5.0 rev. 170810.zip/package.zip",
+      },
+    },
+    
+    "delivery": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/38DD83DD2EDD430A84D058457A1C5BAA.ashx",
+        "Path": "Email Experience Manager 3.5.0 rev. 170810 NOT SC PACKAGE.zip/Email Experience Manager - Content Delivery 3.5.0 rev. 170810.zip",
+      },
+    },
+    
+    "processing": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/38DD83DD2EDD430A84D058457A1C5BAA.ashx",
+        "Path": "Email Experience Manager 3.5.0 rev. 170810 NOT SC PACKAGE.zip/Email Experience Manager - Analytics Processing 3.5.0 rev. 170810.zip",
+      },
+    },
+    
+    "email": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/38DD83DD2EDD430A84D058457A1C5BAA.ashx",
+        "Path": "Email Experience Manager 3.5.0 rev. 170810 NOT SC PACKAGE.zip/Email Experience Manager - Email Processing 3.5.0 rev. 170810.zip",
+      },
+    },
+    
+    "reporting": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/38DD83DD2EDD430A84D058457A1C5BAA.ashx",
+        "Path": "Email Experience Manager 3.5.0 rev. 170810 NOT SC PACKAGE.zip/Email Experience Manager - Reporting 3.5.0 rev. 170810.zip/package.zip",
+      },
+    },
+    
+    "sample": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/38DD83DD2EDD430A84D058457A1C5BAA.ashx",
+        "Path": "Email Experience Manager 3.5.0 rev. 170810 NOT SC PACKAGE.zip/Email Experience Manager Sample Newsletter 3.5.0 rev. 170810.zip",
+      },
+    },
+  },
+  
+  "Compatibility": {
+    "Sitecore CMS": [
+      "8.2.5",
+    ],
+  },
+}

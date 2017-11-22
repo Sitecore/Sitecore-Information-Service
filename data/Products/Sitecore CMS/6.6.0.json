@@ -1,0 +1,20 @@
+{
+  "Label": "Initial Release",
+  "Date": "2012-11-05",
+  "Revision": "120918",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "http://sdn.sitecore.net/downloads/Sitecore660rev120918.download",
+        "Path": "Sitecore 6.6.0 rev. 120918.zip",
+      },
+    },
+    
+    "analytics": {
+      "Downloads": {
+        "Link": "http://sdn.sitecore.net/downloads/DMS660rev120918.download",
+        "Path": "DMS 6.6.0 rev. 120918.zip",
+      },
+    },
+  }
+}

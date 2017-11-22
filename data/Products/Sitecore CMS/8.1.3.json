@@ -1,0 +1,20 @@
+{
+  "Label": "Update-3",
+  "Date": "2015-05-20",
+  "Revision": "160519",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/279BE4B1CEB64281A4F4E9E9D7BF68B0.ashx",
+        "Path": "Sitecore 8.1 rev. 160519.zip",
+      },
+    },
+    
+    "solr": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/7CE11E1730444897A41D89D2333019E6.ashx",
+        "Path": "Sitecore.Solr.Support 1.0.0 rev. 160504.zip",
+      },
+    },
+  }
+}

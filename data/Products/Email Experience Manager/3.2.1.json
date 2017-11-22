@@ -1,0 +1,55 @@
+{
+  "Label": "Update-1",
+  "Date": "2016-02-01",
+  "Revision": "160127",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/1008AB5222BF4621A24FBDE26D9E7E11.ashx",
+        "Path": "Email Experience Manager 3.2.1 rev. 160127 NOT SC PACKAGE.zip/Email Experience Manager 3.2.1 rev. 160127.zip/package.zip",
+      },
+    },
+    
+    "delivery": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/1008AB5222BF4621A24FBDE26D9E7E11.ashx",
+        "Path": "Email Experience Manager 3.2.1 rev. 160127 NOT SC PACKAGE.zip/Email Experience Manager - Analytics Processing 3.2.1 rev. 160127.zip",
+      },
+    },
+    
+    "processing": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/1008AB5222BF4621A24FBDE26D9E7E11.ashx",
+        "Path": "Email Experience Manager 3.2.1 rev. 160127 NOT SC PACKAGE.zip/Email Experience Manager - Analytics Processing 3.2.1 rev. 160127.zip",
+      },
+    },
+    
+    "email": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/1008AB5222BF4621A24FBDE26D9E7E11.ashx",
+        "Path": "Email Experience Manager 3.2.1 rev. 160127 NOT SC PACKAGE.zip/Email Experience Manager - Email Processing 3.2.1 rev. 160127.zip",
+      },
+    },
+    
+    "reporting": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/1008AB5222BF4621A24FBDE26D9E7E11.ashx",
+        "Path": "Email Experience Manager 3.2.1 rev. 160127 NOT SC PACKAGE.zip/Email Experience Manager - Reporting 3.2.1 rev. 160127.zip",
+      },
+    },
+    
+    "sample": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/1008AB5222BF4621A24FBDE26D9E7E11.ashx",
+        "Path": "Email Experience Manager 3.2.1 rev. 160127 NOT SC PACKAGE.zip/Email Experience Manager Sample Newsletter 3.2.1 rev. 160127.zip/package.zip",
+      },
+    },
+  },
+  
+  "Compatibility": {
+    "Sitecore CMS": [
+      "8.1.1",
+      "8.1.2",
+    ],
+  },
+}

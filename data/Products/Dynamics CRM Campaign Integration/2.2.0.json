@@ -1,0 +1,24 @@
+{
+  "Label": "Initial Release",
+  "Date": "2015-10-27",
+  "Revision": "151027",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/D48D3E177B0040DE9F597B16EDDFFD67.ashx",
+        "Path": "Dynamics CRM Campaign Integration for WFFM 2.2 rev. 151027.zip/package.zip",
+      },
+    },
+  },
+  
+  "Compatibility": {
+    "Sitecore CMS": [
+      "8.1",
+      "8.2",
+    ],
+    "Web Forms for Marketers": [
+      "8.1",
+      "8.2",
+    ],
+  },
+}

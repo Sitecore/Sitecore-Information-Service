@@ -1,0 +1,75 @@
+{
+  "Label": "Update-1",
+  "Date": "2017-04-01",
+  "Revision": "114200",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/157841685436497791312277D3F1201C.ashx",
+        "Path": "Sitecore.Commerce.8.2.1_U1_1.1.42.zip/packages/Sitecore Commerce Server Connect.10.1.22.update/package.zip/addedfiles",
+      },
+    },
+  
+    "connect": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/157841685436497791312277D3F1201C.ashx",
+        "Path": "Sitecore.Commerce.8.2.1_U1_1.1.42.zip/modules/Sitecore Commerce Connect 10.1.11.zip/package.zip",
+      },
+    },
+  
+    "engine": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/157841685436497791312277D3F1201C.ashx",
+        "Path": "Sitecore.Commerce.8.2.1_U1_1.1.42.zip/packages/Sitecore.Commerce.Engine.Connect.1.1.819.update/package.zip/addedfiles",
+      },
+    },
+  
+    "tools": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/157841685436497791312277D3F1201C.ashx",
+        "Path": "Sitecore.Commerce.8.2.1_U1_1.1.42.zip/packages/Sitecore Commerce Business Tools Shared.1.1.69.update/package.zip/addedfiles",
+      },
+    },
+  
+    "customerordermanager": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/157841685436497791312277D3F1201C.ashx",
+        "Path": "Sitecore.Commerce.8.2.1_U1_1.1.42.zip/packages/Sitecore Commerce Customer and Order Manager.1.1.76.update/package.zip/addedfiles",
+      },
+    },
+  
+    "merchandisingmanager": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/157841685436497791312277D3F1201C.ashx",
+        "Path": "Sitecore.Commerce.8.2.1_U1_1.1.42.zip/packages/Sitecore Commerce Merchandising Manager.10.1.110.update/package.zip/addedfiles",
+      },
+    },
+  
+    "pricingpromotionmanager": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/157841685436497791312277D3F1201C.ashx",
+        "Path": "Sitecore.Commerce.8.2.1_U1_1.1.42.zip/packages/Sitecore Commerce Pricing and Promotion Manager.1.1.65.update/package.zip/addedfiles",
+      },
+    },
+  
+    "storefrontcommon": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/157841685436497791312277D3F1201C.ashx",
+        "Path": "Sitecore.Commerce.8.2.1_U1_1.1.42.zip/packages/Sitecore.Reference.Storefront.Common.10.1.110.update/package.zip/addedfiles",
+      },
+    },
+  
+    "storefront": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/157841685436497791312277D3F1201C.ashx",
+        "Path": "Sitecore.Commerce.8.2.1_U1_1.1.42.zip/packages/Sitecore.Reference.Storefront.Powered.by.SitecoreCommerce.10.1.110.update/package.zip/addedfiles",
+      },
+    },
+  },
+  
+  "Compatibility": {
+    "Sitecore CMS": [
+      "8.2.3",
+    ],
+  },
+}

@@ -1,0 +1,26 @@
+{
+  "Label": "Update-2",
+  "Date": "2015-02-26",
+  "Revision": "150223",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/39EA424254834A82B10D42FFB96384D2.ashx",
+        "Path": "Email Experience Manager 3.0 rev.150223 NOT SC PACKAGE.zip/Email Experience Manager 3.0 rev. 150223.zip/package.zip",
+      },
+    },
+    
+    "delivery": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/39EA424254834A82B10D42FFB96384D2.ashx",
+        "Path": "Email Experience Manager 3.0 rev.150223 NOT SC PACKAGE.zip/Email Experience Manager - CD 3.0 rev. 150223.zip/package.zip",
+      },
+    },
+  },
+  
+  "Compatibility": {
+    "Sitecore CMS": [
+      "8.0",
+    ],
+  },
+}

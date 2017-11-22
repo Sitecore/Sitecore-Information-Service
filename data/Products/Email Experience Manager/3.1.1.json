@@ -1,0 +1,48 @@
+{
+  "Label": "Update-1",
+  "Date": "2015-08-11",
+  "Revision": "150811",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/70A55E58D4544CD699825E69048E7551.ashx",
+        "Path": "EXM 3.1 rev. 150811 (Update-1).zip/Email Experience Manager 3.1.1 rev. 150811.zip/package.zip",
+      },
+    },
+    
+    "delivery": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/70A55E58D4544CD699825E69048E7551.ashx",
+        "Path": "EXM 3.1 rev. 150811 (Update-1).zip/Email Experience Manager - Content Delivery 3.1.1 rev. 150811.zip",
+      },
+    },
+    
+    "processing": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/70A55E58D4544CD699825E69048E7551.ashx",
+        "Path": "EXM 3.1 rev. 150811 (Update-1).zip/Email Experience Manager - Analytics Processing 3.1.1 rev. 150811.zip",
+      },
+    },
+    
+    "email": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/70A55E58D4544CD699825E69048E7551.ashx",
+        "Path": "EXM 3.1 rev. 150811 (Update-1).zip/Email Experience Manager - Email Processing 3.1.1 rev. 150811.zip",
+      },
+    },
+    
+    "reporting": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/70A55E58D4544CD699825E69048E7551.ashx",
+        "Path": "EXM 3.1 rev. 150811 (Update-1).zip/Email Experience Manager - Reporting 3.1.1 rev. 150811.zip",
+      },
+    },
+  },
+  
+  "Compatibility": {
+    "Sitecore CMS": [
+      "8.0.4",
+      "8.0.5",
+    ],
+  },
+}

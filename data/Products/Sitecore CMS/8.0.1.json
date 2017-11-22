@@ -1,0 +1,20 @@
+{
+  "Label": "Update-1",
+  "Date": "2015-01-30",
+  "Revision": "150121",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/92A0A78FB96548B1874F1B61A395858A.ashx",
+        "Path": "Sitecore 8.0 rev. 150121.zip",
+      },
+    },
+    
+    "solr": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/7E4FE1FEC5EC4B8F91BB6576561399ED.ashx",
+        "Path": "Sitecore.Solr.Support 1.0.0 rev. 150120.zip",
+      },
+    },
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "Label": "Initial Release",
+  "Date": "2015-04-03",
+  "Revision": "150403",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/3FDF99626EE64A1691C76D3CA9E6AFF3.ashx",
+        "Path": "Microsoft Dynamics CRM Security Provider 2.1 rev. 150403.zip/package.zip",
+      },
+    },
+  },
+  
+  "Compatibility": {
+    "Sitecore CMS": [
+      "7.5",
+      "8.0",
+    ],
+  },
+}

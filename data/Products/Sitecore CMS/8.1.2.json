@@ -1,0 +1,20 @@
+{
+  "Label": "Update-2",
+  "Date": "2015-03-04",
+  "Revision": "160302",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/4AD00668158F4960B7C76B0C7A1B6EED.ashx",
+        "Path": "Sitecore 8.1 rev. 160302.zip",
+      },
+    },
+    
+    "solr": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/BC3C996A18054655A04FEEDA72117674.ashx",
+        "Path": "Sitecore.Solr.Support 1.0.0 rev. 160211.zip",
+      },
+    },
+  }
+}
