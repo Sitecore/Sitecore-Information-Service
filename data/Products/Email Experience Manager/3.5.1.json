@@ -1,0 +1,54 @@
+{
+  "Label": "Update-1",
+  "Date": "2017-11-25",
+  "Revision": "171103",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/9CAEC6987F264542BD1686E0BA40EF65.ashx",
+        "Path": "Email Experience Manager 3.5.1 rev. 171103 NOT SC PACKAGE.zip/Email Experience Manager 3.5.1 rev. 171103.zip/package.zip",
+      },
+    },
+    
+    "delivery": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/9CAEC6987F264542BD1686E0BA40EF65.ashx",
+        "Path": "Email Experience Manager 3.5.1 rev. 171103 NOT SC PACKAGE.zip/Email Experience Manager - Content Delivery 3.5.1 rev. 171103.zip/package.zip",
+      },
+    },
+    
+    "processing": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/9CAEC6987F264542BD1686E0BA40EF65.ashx",
+        "Path": "Email Experience Manager 3.5.1 rev. 171103 NOT SC PACKAGE.zip/Email Experience Manager - Analytics Processing 3.5.1 rev. 171103.zip/package.zip",
+      },
+    },
+    
+    "email": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/9CAEC6987F264542BD1686E0BA40EF65.ashx",
+        "Path": "Email Experience Manager 3.5.1 rev. 171103 NOT SC PACKAGE.zip/Email Experience Manager - Email Processing 3.5.1 rev. 171103.zip/package.zip",
+      },
+    },
+    
+    "reporting": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/9CAEC6987F264542BD1686E0BA40EF65.ashx",
+        "Path": "Email Experience Manager 3.5.1 rev. 171103 NOT SC PACKAGE.zip/Email Experience Manager - Reporting 3.5.1 rev. 171103.zip/package.zip",
+      },
+    },
+    
+    "sample": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/9CAEC6987F264542BD1686E0BA40EF65.ashx",
+        "Path": "Email Experience Manager 3.5.1 rev. 171103 NOT SC PACKAGE.zip/Email Experience Manager Sample Newsletter 3.5.1 rev. 171103.zip/package.zip",
+      },
+    },
+  },
+  
+  "Compatibility": {
+    "Sitecore CMS": [
+      "8.2.6",
+    ],
+  },
+}

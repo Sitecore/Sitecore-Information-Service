@@ -1,0 +1,13 @@
+{
+  "Label": "Update-6",
+  "Date": "2017-11-25",
+  "Revision": "171121",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/C8CB3FFF078C42D6A2C3424DA6202DCF.ashx",
+        "Path": "Sitecore 8.2 rev. 171121.zip",
+      },
+    },
+  }
+}
