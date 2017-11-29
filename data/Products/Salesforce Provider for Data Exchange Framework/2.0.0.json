@@ -1,0 +1,19 @@
+{
+  "Label": "Initial Release",
+  "Date": "2017-10-13",
+  "Revision": "171013",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/DB69DAF9BF9D4D3CBB5ECDCDA3B02CCE.ashx",
+        "Path": "Salesforce Provider for Data Exchange Framework 2.0.0 rev. 171013.zip/package.zip",
+      },
+    },
+  },
+  
+  "Compatibility": {
+    "Sitecore CMS": [
+      "9.0.0"
+    ],
+  },
+}
