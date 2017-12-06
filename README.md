@@ -3,7 +3,7 @@
 ## Readme
 
 SIS is a shared system for different Sitecore applications such as 
-[SIM](https://github.com/sitecore/sitecore-instance-manager), Config Builder, Diagnostics Tool and others. 
+[SIM](https://github.com/sitecore/sitecore-instance-manager), [Config Builder](https://github.com/sitecore/sitecore-config-builder), [Diagnostics Tool](https://github.com/sitecore/sitecore-diagnostics-tool) and others. 
 
 ## Intro
 
