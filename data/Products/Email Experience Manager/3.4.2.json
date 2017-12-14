@@ -34,14 +34,14 @@
     "reporting": {
       "Downloads": {
         "Link": "https://dev.sitecore.net/~/media/CE25E3732581426E8086D192A9B4A190.ashx",
-        "Path": "Email Experience Manager 3.4.2 rev. 170713 NOT SC PACKAGE.zip/Email Experience Manager - Reporting 3.4.2 rev. 170713.zip/package.zip",
+        "Path": "Email Experience Manager 3.4.2 rev. 170713 NOT SC PACKAGE.zip/Email Experience Manager - Reporting 3.4.2 rev. 170713.zip",
       },
     },
     
     "sample": {
       "Downloads": {
         "Link": "https://dev.sitecore.net/~/media/CE25E3732581426E8086D192A9B4A190.ashx",
-        "Path": "Email Experience Manager 3.4.2 rev. 170713 NOT SC PACKAGE.zip/Email Experience Manager Sample Newsletter 3.4.2 rev. 170713.zip",
+        "Path": "Email Experience Manager 3.4.2 rev. 170713 NOT SC PACKAGE.zip/Email Experience Manager Sample Newsletter 3.4.2 rev. 170713.zip/package.zip",
       },
     },
   },
