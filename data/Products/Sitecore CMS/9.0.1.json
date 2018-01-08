@@ -1,0 +1,34 @@
+{
+  "Label": "Update-1",
+  "Date": "2018-01-08",
+  "Revision": "171219",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/3093D892E19B4ACFB2DC68622C18E409.ashx",
+        "Path": "Sitecore 9.0.1 rev. 171219.zip/Sitecore 9.0.1 rev. 171219",
+      },
+    },
+    
+    "automation": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/3093D892E19B4ACFB2DC68622C18E409.ashx",
+        "Path": "Sitecore 9.0.1 rev. 171219.zip/Sitecore Marketing Automation Service 9.0.1 rev. 171219",
+      },
+    },
+    
+    "index": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/3093D892E19B4ACFB2DC68622C18E409.ashx",
+        "Path": "Sitecore 9.0.1 rev. 171219.zip/Sitecore XConnect Index Service 9.0.1 rev. 171219",
+      },
+    },
+    
+    "xconnect": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/3093D892E19B4ACFB2DC68622C18E409.ashx",
+        "Path": "Sitecore 9.0.1 rev. 171219.zip/Sitecore XConnect Server 9.0.1 rev. 171219",
+      },
+    },
+  }
+}
