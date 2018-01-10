@@ -1,0 +1,23 @@
+{
+  "Label": "Initial Release",
+  "Date": "2017-12-20",
+  "Revision": "171220",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/8C82B51CAC084307A1F0D3627AD9A6DF.ashx",
+        "Path": "Sitecore Publishing Module 2.2.0 rev. 171220.zip/package.zip",
+      },
+    },
+  },
+  
+  "Compatibility": {
+    "Sitecore CMS": [
+      "8.2.2",
+      "8.2.3",
+      "8.2.4",
+      "8.2.5",
+      "8.2.6",
+    ],
+  },
+}
