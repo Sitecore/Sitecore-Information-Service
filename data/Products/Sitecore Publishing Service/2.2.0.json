@@ -1,12 +1,12 @@
 {
   "Label": "Initial Release",
-  "Date": "2017-10-09",
-  "Revision": "171009",
+  "Date": "2017-12-20",
+  "Revision": "171220",
   "Distributions": {
     "default": {
       "Downloads": {
-        "Link": "https://dev.sitecore.net/~/media/4307BE2A875B495B91FF537C874EEB9F.ashx",
-        "Path": "Sitecore Publishing Module 2.1.0 rev. 171009.zip/package.zip",
+        "Link": "https://dev.sitecore.net/~/media/8C82B51CAC084307A1F0D3627AD9A6DF.ashx",
+        "Path": "Sitecore Publishing Module 2.2.0 rev. 171220.zip/package.zip",
       },
     },
   },
