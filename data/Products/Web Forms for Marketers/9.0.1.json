@@ -1,0 +1,19 @@
+{
+  "Label": "Initial Release",
+  "Date": "2018-01-18",
+  "Revision": "171209",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/26FDFBD5E8C04F41A545098F3E7DB2C6.ashx",
+        "Path": "Web Forms for Marketers 9.0 rev. 171209.zip/package.zip",
+      },
+    },
+  },
+  
+  "Compatibility": {
+    "Sitecore CMS": [
+      "9.0.1",
+    ],
+  },
+}
