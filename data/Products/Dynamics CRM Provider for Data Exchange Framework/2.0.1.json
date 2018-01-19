@@ -1,0 +1,19 @@
+{
+  "Label": "Initial Release",
+  "Date": "2017-01-08",
+  "Revision": "180108",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/819FB4C75CC74A8C984C343BEF7B53F1.ashx",
+        "Path": "Dynamics Provider for Data Exchange Framework 2.0.1 rev. 180108.zip/package.zip",
+      },
+    },
+  },
+  
+  "Compatibility": {
+    "Sitecore CMS": [
+      "9.0.1"
+    ],
+  },
+}
