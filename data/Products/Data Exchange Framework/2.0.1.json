@@ -23,6 +23,26 @@
         "Path": "Data Exchange Framework Remote SDK 2.0.1 rev. 180108.zip",
       },
     },   
+    "Sitecore Provider": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/B5811653A95D4660943BE9A1C029B5A5.ashx",
+        "Path": "Sitecore Provider for Data Exchange Framework 2.0.1 rev. 180108.zip/package.zip",
+      },
+    },
+    
+    "SQL Provider": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/60F6A50BF67441588E0AD86FB8310052.ashx",
+        "Path": "SQL Provider for Data Exchange Framework 2.0.1 rev. 180108.zip/package.zip",
+      },
+    },
+  
+    "xConnect Provider": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/890CAA76228B4F6283B68A1C6EE395CF.ashx",
+        "Path": "xConnect Provider for Data Exchange Framework 2.0.1 rev. 180108.zip/package.zip",
+      },
+    },
   },
   
   "Compatibility": {
