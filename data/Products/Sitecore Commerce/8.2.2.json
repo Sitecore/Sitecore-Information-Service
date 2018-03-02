@@ -21,7 +21,8 @@
       "Downloads": {
         "Link": "https://dev.sitecore.net/~/media/D78764A6377C467CA0461AACCF9B3F73.ashx",
         "Path": "Sitecore.Commerce.8.2.1_U2_1.2.62.zip/packages/Sitecore Commerce Server Connect.10.2.42.update/package.zip/addedfiles",
-    },
+	  },
+	},
   
     "tools": {
       "Downloads": {
