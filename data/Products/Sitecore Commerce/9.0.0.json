@@ -1,0 +1,61 @@
+{
+  "Label": "Initial-Release",
+  "Date": "2018-02-01",
+  "Revision": "202540",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/128DD06FE9954559B0279A3A6D3D94A7.ashx",
+        "Path": "Sitecore.Commerce.2018.01-2.0.254.zip/Sitecore.Commerce.Engine.Connect.2.0.835.update/package.zip/addedfiles",
+      },
+    },
+  
+    "connect": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/128DD06FE9954559B0279A3A6D3D94A7.ashx",
+        "Path": "Sitecore.Commerce.2018.01-2.0.254.zip/Sitecore Commerce Connect Core 11.0.192.zip/package.zip",
+      },
+    },
+  
+    "tools": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/128DD06FE9954559B0279A3A6D3D94A7.ashx",
+        "Path": "Sitecore.Commerce.2018.01-2.0.254.zip/Sitecore.BizFX.1.0.572.zip",
+      },
+    },
+  
+    "sxc-sxa": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/128DD06FE9954559B0279A3A6D3D94A7.ashx",
+        "Path": "Sitecore.Commerce.2018.01-2.0.254.zip/Sitecore Commerce Experience Accelerator 1.0.2184.zip/package.zip",
+      },
+    },
+  
+    "storefront": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/128DD06FE9954559B0279A3A6D3D94A7.ashx",
+        "Path": "Sitecore.Commerce.2018.01-2.0.254.zip/Sitecore Commerce Experience Accelerator Storefront 1.0.2184.zip/package.zip",
+      },
+    },
+  
+    "engine": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/128DD06FE9954559B0279A3A6D3D94A7.ashx",
+        "Path": "Sitecore.Commerce.2018.01-2.0.254.zip/Sitecore.Commerce.Engine.2.0.1922.zip",
+      },
+    },
+  
+    "identityserver": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/128DD06FE9954559B0279A3A6D3D94A7.ashx",
+        "Path": "Sitecore.Commerce.2018.01-2.0.254.zip/Sitecore.IdentityServer.1.0.65.zip",
+      },
+    },
+  },
+  
+  "Compatibility": {
+    "Sitecore CMS": [
+      "9.0.1",
+    ],
+  },
+}

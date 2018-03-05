@@ -1,6 +1,6 @@
 {
   "Metadata": {
     "Alias": "COM",
-    "DefaultPackage": "COM.Sitecore.Commerce.Connect.CommerceServer",
+    "DefaultPackage": "COM.Sitecore.Commerce.Engine.Connect",
   }
 }
