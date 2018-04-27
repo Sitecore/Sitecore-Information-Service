@@ -1,0 +1,19 @@
+{
+  "Label": "Initial Release",
+  "Date": "2018-04-26",
+  "Revision": "180410",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/A97CE3C270F84AB3AE9EE598D720EBE7.ashx",
+        "Path": "Sitecore Experience Accelerator 1.7 rev. 180410 for 8.2.zip/package.zip",
+      },
+    },
+  },
+  
+  "Compatibility": {
+    "Sitecore CMS": [
+      "8.2",
+    ],
+  },
+}
