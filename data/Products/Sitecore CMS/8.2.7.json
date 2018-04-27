@@ -1,0 +1,13 @@
+{
+  "Label": "Update-7",
+  "Date": "2018-04-26",
+  "Revision": "180406",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/503E1B82B0AE4E80BF0F0F99C970DE33.ashx",
+        "Path": "Sitecore 8.2 rev. 180406.zip",
+      },
+    },
+  }
+}
