@@ -1,0 +1,40 @@
+{
+  "Label": "Update-7",
+  "Date": "2018-04-26",
+  "Revision": "180329",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/56855193DABC4AA3A0DE57963FDF0D65.ashx",
+        "Path": "Web Forms for Marketers 8.2 rev. 180329 NOT SC PACKAGE.zip/Web Forms for Marketers 8.2 rev. 180329.zip/package.zip",
+      },
+    },
+    
+    "delivery": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/56855193DABC4AA3A0DE57963FDF0D65.ashx",
+        "Path": "Web Forms for Marketers 8.2 rev. 180329 NOT SC PACKAGE.zip/Web Forms for Marketers CD 8.2 rev. 180329.zip",
+      },
+    },
+    
+    "reporting": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/56855193DABC4AA3A0DE57963FDF0D65.ashx",
+        "Path": "Web Forms for Marketers 8.2 rev. 180329 NOT SC PACKAGE.zip/Web Forms for Marketers Reporting 8.2 rev. 180329.zip/package.zip",
+      },
+    },
+    
+    "exm-integration": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/2D0102C88DC74D19A3E8DF9EC033F970.ashx",
+        "Path": "EXM-WFFM 2.0.0 rev. 170824.zip/package.zip",
+      }
+    }
+  },
+  
+  "Compatibility": {
+    "Sitecore CMS": [
+      "8.2.7",
+    ],
+  },
+}
