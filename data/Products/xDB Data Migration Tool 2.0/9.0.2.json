@@ -1,0 +1,23 @@
+{
+  "Label": "Update-2",
+  "Date": "2018-06-21",
+  "Revision": "180619",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/D564F00D46A64784ABBE3185C324589A.ashx",
+        "Path": "xDB Data Migration Tool for Data Exchange Framework 2.0.2 rev. 180619.zip/package.zip",
+      },
+    },
+  },
+  
+  "Compatibility": {
+    "Sitecore CMS": [
+      "9.0.2",
+    ],
+    
+    "Data Exchange Framework": [
+      "2.0.1",
+    ],
+  },
+}
