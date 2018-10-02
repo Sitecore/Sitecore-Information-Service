@@ -1,0 +1,24 @@
+{
+  "Label": "Update-1",
+  "Date": "2018-08-07",
+  "Revision": "180807",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/491714C611C3451F8777C53F93F4B9F4.ashx",
+        "Path": "Sitecore Publishing Module 2.2.1 rev. 180807.zip/package.zip",
+      },
+    },
+  },
+  
+  "Compatibility": {
+    "Sitecore CMS": [
+      "8.2.2",
+      "8.2.3",
+      "8.2.4",
+      "8.2.5",
+      "8.2.6",
+	  "8.2.7",
+    ],
+  },
+}
