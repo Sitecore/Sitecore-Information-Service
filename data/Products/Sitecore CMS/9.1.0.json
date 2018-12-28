@@ -1,0 +1,41 @@
+{
+  "Label": "Initial Release",
+  "Date": "2018-11-28",
+  "Revision": "001564",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/0414649667534399960D9FEF0DC5FC8D.ashx",
+        "Path": "Sitecore 9.1.0 rev. 001564.zip/Sitecore 9.1.0 rev. 001564",
+      },
+    },
+    
+    "automation": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/0414649667534399960D9FEF0DC5FC8D.ashx",
+        "Path": "Sitecore 9.1.0 rev. 001564.zip/Sitecore Marketing Automation Service 9.1.0 rev. 001564",
+      },
+    },
+    
+    "index": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/0414649667534399960D9FEF0DC5FC8D.ashx",
+        "Path": "Sitecore 9.1.0 rev. 001564.zip/Sitecore XConnect Index Service 9.1.0 rev. 001564",
+      },
+    },
+    
+    "xconnect": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/0414649667534399960D9FEF0DC5FC8D.ashx",
+        "Path": "Sitecore 9.1.0 rev. 001564.zip/Sitecore XConnect Server 9.1.0 rev. 001564",
+      },
+    },
+
+    "cortex-processing": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/0414649667534399960D9FEF0DC5FC8D.ashx",
+        "Path": "Sitecore 9.1.0 rev. 001564.zip/Sitecore Processing Engine Service 9.1.0 rev. 001564",
+      },
+    },
+  }
+}
