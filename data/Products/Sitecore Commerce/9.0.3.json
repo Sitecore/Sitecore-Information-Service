@@ -1,0 +1,61 @@
+{
+  "Label": "Update-3",
+  "Date": "2018-12-20",
+  "Revision": "246300",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/A201561B13DE4FC59DE9969812D79322.ashx",
+        "Path": "Sitecore.Commerce.2018.12-2.4.63.zip/Sitecore.Commerce.Engine.Connect.2.4.32.update/package.zip/addedfiles",
+      },
+    },
+  
+    "connect": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/A201561B13DE4FC59DE9969812D79322.ashx",
+        "Path": "Sitecore.Commerce.2018.12-2.4.63.zip/Sitecore Commerce Connect Core 11.4.15.zip/package.zip",
+      },
+    },
+  
+    "tools": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/A201561B13DE4FC59DE9969812D79322.ashx",
+        "Path": "Sitecore.Commerce.2018.12-2.4.63.zip/Sitecore.BizFX.1.4.1.zip",
+      },
+    },
+  
+    "sxc-sxa": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/A201561B13DE4FC59DE9969812D79322.ashx",
+        "Path": "Sitecore.Commerce.2018.12-2.4.63.zip/Sitecore Commerce Experience Accelerator 1.4.150.zip/package.zip",
+      },
+    },
+  
+    "storefront": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/A201561B13DE4FC59DE9969812D79322.ashx",
+        "Path": "Sitecore.Commerce.2018.12-2.4.63.zip/Sitecore Commerce Experience Accelerator Storefront 1.4.150.zip/package.zip",
+      },
+    },
+  
+    "engine": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/A201561B13DE4FC59DE9969812D79322.ashx",
+        "Path": "Sitecore.Commerce.2018.12-2.4.63.zip/Sitecore.Commerce.Engine.2.4.63.zip",
+      },
+    },
+  
+    "identityserver": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/A201561B13DE4FC59DE9969812D79322.ashx",
+        "Path": "Sitecore.Commerce.2018.12-2.4.63.zip/Sitecore.IdentityServer.1.4.2.zip",
+      },
+    },
+  },
+  
+  "Compatibility": {
+    "Sitecore CMS": [
+      "9.0.2",
+    ],
+  },
+}
