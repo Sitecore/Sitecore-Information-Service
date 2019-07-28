@@ -1,0 +1,27 @@
+{
+  "Label": "Initial Release",
+  "Date": "2019-07-22",
+  "Revision": "002893",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/C91BB36E7DA34E8688E80E742995F186.ashx",
+        "Path": "Sitecore 9.2.0 rev. 002893 (WDP XP0 packages).zip/Sitecore 9.2.0 rev. 002893 (OnPrem)_single.scwdp.zip/Content",
+      },
+    },
+    
+    "xconnect": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/C91BB36E7DA34E8688E80E742995F186.ashx",
+        "Path": "Sitecore 9.2.0 rev. 002893 (WDP XP0 packages).zip/Sitecore 9.2.0 rev. 002893 (OnPrem)_xp0xconnect.scwdp.zip/Content",
+      },
+    },
+    
+    "identityserver": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/C91BB36E7DA34E8688E80E742995F186.ashx",
+        "Path": "Sitecore 9.2.0 rev. 002893 (WDP XP0 packages).zip/Sitecore.IdentityServer 3.0.0 rev. 00211 (OnPrem)_identityserver.scwdp.zip/Content",
+      },
+    },    
+  }
+}
