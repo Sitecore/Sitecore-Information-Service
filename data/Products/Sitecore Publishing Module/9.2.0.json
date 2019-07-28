@@ -1,0 +1,18 @@
+{
+  "Label": "Initial Release",
+  "Date": "2019-07-22",
+  "Revision": "00526",
+  "Distributions": {
+    "default": {
+      "Downloads": {
+        "Link": "https://dev.sitecore.net/~/media/45403BDC9E5C456EA49ADF3B48E5F5AA.ashx",
+        "Path": "Sitecore Publishing Module 9.2.0.0 rev. r00526.zip/package.zip",
+      },
+    },
+  },  
+  "Compatibility": {
+    "Sitecore CMS": [
+	  "9.2.0",
+    ],
+  },
+}
